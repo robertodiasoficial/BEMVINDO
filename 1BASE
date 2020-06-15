@@ -26,9 +26,9 @@
   <extension point="xbmc.addon.metadata">
     <summary>Programa com pagamento mensal, caso encerre os 30 dias, entre em contato conosco para renovação</summary>
     <description>
-        Primeiro versão Del Rey, KODI. Teremos atualizações mensais. Caso contenha algum erro nos comunique.
-		Somos um plugin de video que agrega links de reprodução de varios tipos de video, desde filmes e séries. 
-		Somos como o Google.com, apenas agregamos e organizamos links externos
+        Primeira versão Del Rey, KODI. Teremos atualizações mensais. Caso contenha algum erro nos comunique.
+	Somos um plugin de video que agrega links de reprodução de varios tipos de video, desde filmes e séries. 
+	Somos como o Google.com, apenas agregamos e organizamos links externos
              
     </description>
     <platform>all</platform>
