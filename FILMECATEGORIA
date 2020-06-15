@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR orangered]|||[/COLOR] [COLOR white]LANCAMENTOS|[/COLOR]</name>
+<name>[COLOR white]LANCAMENTOS|[/COLOR]</name>
 <thumbnail>https://ia801509.us.archive.org/29/items/kidsoficial/FILMESoficial.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/details/reinado_20200615_0049</fanart>
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]NACIONAIS|[/COLOR]</name>
+<name>[COLOR white]ANIMACAO|[/COLOR]</name>
 <thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/details/reinado_20200615_0049</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - FLMES NACIONAIS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - FILMES EM DESENHO ANIMADO - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -30,14 +30,149 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]INFANTIL|[/COLOR]</name>
+<name>[COLOR white]AVENTURA|[/COLOR]</name>
 <thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES%20%282%29.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://archive.org/details/reinado_20200615_0049</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - FILMES INFANTIS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - FILMES DE AVENTURA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]ACAO|[/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES%20%282%29.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/details/reinado_20200615_0049</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES ACAO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]COMEDIA|[/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES%20%282%29.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/details/reinado_20200615_0049</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE COMEDIA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]DRAMA|[/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES%20%282%29.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/details/reinado_20200615_0049</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE DRAMA - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]FICCAO|[/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES%20%282%29.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/details/reinado_20200615_0049</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE FICCAO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]NACIONAIS|[/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES%20%282%29.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/details/reinado_20200615_0049</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES NACIONAIS - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]POLICIAL|[/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES%20%282%29.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/details/reinado_20200615_0049</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES POLICIAL - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]ROMANCE|[/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES%20%282%29.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/details/reinado_20200615_0049</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE ROMANCE - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]SUSPENSE|[/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES%20%282%29.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/details/reinado_20200615_0049</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE SUSPENSE - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR white]TERROR|[/COLOR]</name>
+<thumbnail>https://ia801504.us.archive.org/2/items/filmes-1/FILMES%20%282%29.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://archive.org/details/reinado_20200615_0049</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - FILMES DE TERROR - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
