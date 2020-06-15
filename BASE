@@ -1,7 +1,7 @@
 <addon id="plugin.video.DELREY"
        name="[COLOR white][B]DELREY[/B][/COLOR]"
        version="1.0"
-       provider-name="by Roberto dr">
+       provider-name="Roberto DR">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
