@@ -1,0 +1,36 @@
+<addon id="plugin.video.DELREY"
+       name="[COLOR white][B]DEL REY[/B][/COLOR]"
+       version="1.0"
+       provider-name="by Roberto dr">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+	<import addon="plugin.video.SportsDevil" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  
+  	
+  <extension point="xbmc.addon.metadata">
+    <summary>Programa com pagamento mensal, caso encerre os 30 dias, entre em contato conosco para renovação</summary>
+    <description>
+        Primeiro versão Del Rey, KODI. Teremos atualizações mensais. Caso contenha algum erro nos comunique.
+		Somos um plugin de video que agrega links de reprodução de varios tipos de video, desde filmes e séries. 
+		Somos como o Google.com, apenas agregamos e organizamos links externos
+             
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
