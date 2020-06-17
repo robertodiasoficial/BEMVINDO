@@ -1,9 +1,9 @@
 MODELO COM VÁRIOS LINKS DO GDRIVE
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
+<title>[B]FROZEN [COLOR yellow](ANO 2019)[/COLOR] - [COLOR lime]HD[/COLOR] - DUBLADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URLSITEAQUI$$lsname=[COLOR lime]HD[/COLOR] - FROZEN 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URLSITEAQUI$$lsname=[COLOR lime]HD[/COLOR] - FROZEN 2</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -17,32 +17,23 @@ MODELO COM LINKS VARIAVEIS + LINK DO GDRIVE
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
 <link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6n7TdQSgozArIM0okXTjjCM9Np.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/pNbmSYUtMd542OATplZIdtSWKyz.jpg</fanart>
+<info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.</info>
 <genre></genre>
 </item>
 
 MODELO GDRIVE DE APENAS UM LINK
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<title>[B]FROZEN 2[COLOR yellow]ANO 2019[/COLOR]HD[COLOR lime][/COLOR] - DUBLADO[/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6n7TdQSgozArIM0okXTjjCM9Np.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/pNbmSYUtMd542OATplZIdtSWKyz.jpg</fanart>
+<info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.</info>
 <genre></genre>
 </item>
 
 
 
-MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
 
-<item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
