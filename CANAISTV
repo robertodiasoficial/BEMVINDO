@@ -2,5 +2,5 @@
 
 #PLAYLISTV: pltv-logo="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name="Meus canais" pltv-description="Lista IPTV" pltv-cover="https://minhalista-storage.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="Jhenny" pltv-email="shayanne09@gmail.com"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS FECHADOS",CARTOON NETWORK
-<link>41UVFKHChJM&feature=emb_title</link>
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAL ABERTO",SBT
+<link>plugin://plugin.video.youtube/play/?video_id41UVFKHChJM&feature=emb_title</link>
