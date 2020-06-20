@@ -15,3 +15,11 @@
 <info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos</info>
 <genre></genre>
 </item>
+
+# EXTM3U
+
+#EXTINF: -1 tvg-logo = "" group-title = "HBO", créditos bruno holanda
+https://futemax.fm/
+
+#EXTINF: -1 tvg-logo = "http://thumbs.animesonlineq.net/assistir-Naruto-Shippuuden-Todos-os-s-online.jpg" group-title = "HBO", 01 - CANAL FECHADO - 
+https://futemax.fm/assistir-hbo-ao-vivo-em-hd-online/
