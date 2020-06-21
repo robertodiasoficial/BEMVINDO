@@ -16,10 +16,13 @@
 <genre></genre>
 </item>
 
-# EXTM3U
 
-#EXTINF: -1 tvg-logo = "" group-title = "HBO", créditos bruno holanda
-https://futemax.fm/
 
-#EXTINF: -1 tvg-logo = "http://thumbs.animesonlineq.net/assistir-Naruto-Shippuuden-Todos-os-s-online.jpg" group-title = "HBO", 01 - CANAL FECHADO - 
-https://futemax.fm/assistir-hbo-ao-vivo-em-hd-online/
+<item>
+<title>[B]HBO  - [COLOR yellow]CANAL FECHADO[/COLOR] - [COLOR lime]HD[/COLOR] - DUBLADO[/B]</title>
+<linkhttps://futemax.fm/assistir-hbo-ao-vivo-em-hd-online/</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
