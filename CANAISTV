@@ -33,3 +33,497 @@
 <info>Sistema Brasileiro de Televisão é uma rede de televisão comercial aberta brasileira fundada em 19 de agosto de 1981 pelo empresário e animador de televisão Silvio Santos</info>
 <genre></genre>
 </item>
+
+#EXTM3U
+PREMIUM BRASIL: GLOBO SP
+http://31.204.128.127:8081/live/sptv/playlist.m3u8
+PREMIUM BRASIL: RIC TV
+http://200.194.238.226:5000/live/000x_ric_hd/playlist.m3u8
+PREMIUM BRASIL: RBS TV
+http://200.194.238.226:5000/live/000x_rbs/playlist.m3u8
+PREMIUM BRASIL: RECORD SP
+http://31.204.128.127:8081/live/record/playlist.m3u8
+PREMIUM BRASIL: BAND SPORTS
+http://200.194.238.226:5000/live/000x_band_sports_hd/playlist.m3u8
+PREMIUM BRASIL: TNT
+http://200.194.238.226:5000/live/000x_tnt_hd/playlist.m3u8
+PREMIUM BRASIL: PARAMOUNT CHANNEL
+http://200.194.238.226:5000/live/000x_paramount_hd/playlist.m3u8
+PREMIUM BRASIL: CNN
+http://200.194.238.226:5000/live/000x_cnn/playlist.m3u8
+PREMIUM BRASIL: HBO 2
+http://200.194.238.226:5000/live/000x_hbo2_hd/playlist.m3u8
+PREMIUM BRASIL: SPORTV
+http://200.194.238.226:5000/live/000x_sportv_hd/playlist.m3u8
+PREMIUM BRASIL: SPORTV 2
+http://200.194.238.226:5000/live/000x_sportv_2_hd/playlist.m3u8
+PREMIUM BRASIL: FOX
+http://200.194.238.226:5000/live/000x_fox/playlist.m3u8
+PREMIUM BRASIL: TELECINE PIPOCA
+http://200.194.238.226:5000/live/000x_telecine_pipoca_hd/playlist.m3u8
+PREMIUM BRASIL: FOX SPORTS
+http://200.194.238.226:5000/live/000x_fox_sports_hd/playlist.m3u8
+PREMIUM BRASIL: ESPN+
+http://200.194.238.226:5000/live/000x_espn_plus_hd/playlist.m3u8
+PREMIUM BRASIL: ESPN
+http://200.194.238.226:5000/live/000x_espn_hd/playlist.m3u8
+PREMIUM BRASIL: VH1
+http://200.194.238.226:5000/live/000x_vh1_hd/playlist.m3u8
+PREMIUM BRASIL: MULTISHOW
+http://200.194.238.226:5000/live/000x_multishow_hd/playlist.m3u8
+PREMIUM BRASIL: COMEDY CENTRAL
+http://200.194.238.226:5000/live/000x_comedycentral/playlist.m3u8
+PREMIUM BRASIL: WARNER BROS TV
+http://200.194.238.226:5000/live/000x_warner_hd/playlist.m3u8
+PREMIUM BRASIL: UNIVERSAL CHANNEL
+http://200.194.238.226:5000/live/000x_universal_hd/playlist.m3u8
+PREMIUM BRASIL: CANAL SONY
+http://200.194.238.226:5000/live/000x_canal_sony_hd/playlist.m3u8
+PREMIUM BRASIL: SPACE
+http://200.194.238.226:5000/live/000x_space_hd/playlist.m3u8
+PREMIUM BRASIL: MEGAPIX
+http://200.194.238.226:5000/live/000x_megapix/playlist.m3u8
+PREMIUM BRASIL: FX
+http://200.194.238.226:5000/live/000x_fx_hd/playlist.m3u8
+PREMIUM BRASIL: TELECINE PREMIUM
+http://200.194.238.226:5000/live/000x_telecine_premium_hd/playlist.m3u8
+PREMIUM BRASIL: TELECINE TOUCH
+http://200.194.238.226:5000/live/000x_telecine_touch_hd/playlist.m3u8
+PREMIUM BRASIL: AXN
+http://200.194.238.226:5000/live/000x_axn_hd/playlist.m3u8
+PREMIUM BRASIL: HBO FAMILY
+http://200.194.238.226:5000/live/000x_hbo_family_hd/playlist.m3u8
+PREMIUM BRASIL: HBO
+http://200.194.238.226:5000/live/000x_hbo_hd/playlist.m3u8
+PREMIUM BRASIL: SBT SC
+http://200.194.238.226:5000/live/000x_sbt_hd/playlist.m3u8
+PREMIUM BRASIL: SYFY
+http://200.194.238.226:5000/live/000x_syfy/playlist.m3u8
+PREMIUM BRASIL: CINEMAX
+http://200.194.238.226:5000/live/000x_cinemax_hd/playlist.m3u8
+PREMIUM BRASIL: DISCOVERY H&H
+http://200.194.238.226:5000/live/000x_discovery_hh_hd/playlist.m3u8
+PREMIUM BRASIL: DISCOVERY WORLD
+http://200.194.238.226:5000/live/000x_discovery_world_hd/playlist.m3u8
+PREMIUM BRASIL: DISCOVERY CHANNEL
+http://200.194.238.226:5000/live/000x_discovery_hd/playlist.m3u8
+PREMIUM BRASIL: DISCOVERY THEATER
+http://200.194.238.226:5000/live/000x_discovery_theater_hd/playlist.m3u8
+PREMIUM BRASIL: NATIONAL GEOGRAPHIC
+http://200.194.238.226:5000/live/000x_natgeo_hd/playlist.m3u8
+PREMIUM BRASIL: HISTORY
+http://200.194.238.226:5000/live/000x_the_history_hd/playlist.m3u8
+PREMIUM BRASIL: TLC
+http://200.194.238.226:5000/live/000x_tlc_hd/playlist.m3u8
+PREMIUM BRASIL: ANIMAL PLANET
+http://200.194.238.226:5000/live/000x_animal_planet/playlist.m3u8
+PREMIUM BRASIL: NICK JR.
+http://200.194.238.226:5000/live/000x_nickjr/playlist.m3u8
+PREMIUM BRASIL: DISNEY CHANNEL
+http://200.194.238.226:5000/live/000x_disney_hd/playlist.m3u8
+PREMIUM BRASIL: DISCOVERY KIDS
+http://200.194.238.226:5000/live/000x_discovery_kids_hd/playlist.m3u8
+PREMIUM BRASIL: GLOBO NEWS
+http://200.194.238.226:5000/live/000x_globonews_hd/playlist.m3u8
+PREMIUM BRASIL: BAND SC
+http://200.194.238.226:5000/live/000x_band/playlist.m3u8
+PREMIUM ESPANHOL: BEIN SPORTS Ã‘
+http://185.63.255.101:80/live/max37/playlist.m3u8
+PREMIUM PORTUGAL: SPORT TV 3
+http://31.204.128.127:8081/live/portugal3/playlist.m3u8
+PREMIUM PORTUGAL: SPORT TV 3
+http://31.204.128.127:8081/live/portugal2/playlist.m3u8
+PREMIUM PORTUGAL: SPORT TV 1
+http://31.204.128.127:8081/live/portugal1/playlist.m3u8
+PREMIUM BRASIL: SPORTV 2
+http://31.204.128.127:8081/live/sportv2/playlist.m3u8
+PREMIUM BRASIL: SPORTV
+http://31.204.128.127:8081/live/sportv/playlist.m3u8
+PREMIUM BRASIL: BAND SP
+http://31.204.128.127:8081/live/band/playlist.m3u8
+PREMIUM BRASIL: REDE TV
+http://31.204.128.127:8081/live/redetv/playlist.m3u8
+PREMIUM BRASIL: SBT SP
+http://31.204.128.127:8081/live/sbt/playlist.m3u8
+PREMIUM BRASIL: TV CULTURA SP
+http://31.204.128.127:8081/live/tvcultura/playlist.m3u8
+PREMIUM ITÃLIA: RAI SPORT 2
+http://origin2.live.web.tv.streamprovider.net:80/streams/2ea0edb1c5a16775a4a6f4a8e00bf70f/index.m3u8
+PREMIUM ITÃLIA: RAI SPORT 1
+http://origin2.live.web.tv.streamprovider.net:80/streams/78e88d992713e6d57bd94fd5530b9869/index.m3u8
+PREMIUM ESPANHOL: CANAL BLAU
+http://iphone-streaming.ustream.tv:80/uhls/14339579/streams/live/playlist.m3u8
+PREMIUM ESPANHOL: HONDURED
+http://173.236.71.62:1935/hondured/hrtv.sdp/live.m3u8
+PREMIUM ESPANHOL: VENEZOLANA TV
+http://cast.streamingconnect.tv:1935/vtvweb3/vtvweb3/live.m3u8
+PREMIUM BRASIL: RECORD PB
+http://174.37.99.198:1935/dvrid1816/1816/DVR.m3u8
+PREMIUM ESPANHOL: TV 5 MONDE AMÃ‰RIQUE LATINE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+PREMIUM ESPANHOL: CANAL 5
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/live.m3u8
+PREMIUM ESPANHOL: PDVSA TV
+http://cast.streamingconnect.tv:1935/pdvsatvweb/pdvsatvweb/live.m3u8
+PREMIUM ESPANHOL: CANAL U TV
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+PREMIUM ESPANHOL: ONDA AZUL
+http://dsn6jqegjeixj.cloudfront.net:80/ondaazul-live/video/livestream.m3u8
+PREMIUM BRASIL: SBT RJ
+http://177.129.15.4:1935/live/sbt.stream/livestream.m3u8
+PREMIUM BRASIL: GLOBO RJ
+http://177.129.15.4:1935/live/globo.stream/livestream.m3u8
+PREMIUM ESPANHOL: CANAL 4 HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+PREMIUM ESPANHOL: TELEMADRID
+http://telemadrid-live.hls.adaptive.level3.net:80/hls-live/telemadrid-telemadrid/_definst_/live/stream1.m3u8
+PREMIUM ESPANHOL: NAVARRA TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+PREMIUM ESPANHOL: COMARCAL TV
+http://iphone-streaming.ustream.tv:80/uhls/17652616/streams/live/playlist.m3u8
+PREMIUM ESPANHOL: ONDALUZ SIERRA
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+PREMIUM ESPANHOL: CEUTA TV
+http://teledifusion.tv:1935/anguloceuta/anguloceuta/live.m3u8
+PREMIUM ESPANHOL: CONDAVISION
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+PREMIUM ESPANHOL: MÃRAME TV
+http://cast.streamingconnect.tv:1935/2015mirame/2015mirame/live.m3u8
+PREMIUM ESPANHOL: EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+PREMIUM ESPANHOL: EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-4/900.mp4/livestream.m3u8
+PREMIUM ESPANHOL: ESPERANZA TV
+http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
+PREMIUM ESPANHOL: ALCANCE TV
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+PREMIUM ESPANHOL: ALCANCE TV
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+PREMIUM ESPANHOL: ALMAVISION
+http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
+PREMIUM ESPANHOL: DXTV
+http://edge02.dcarsat.com.ar:1935/DXTV/DXTV/chunklist_b800000_slesp.m3u8
+PREMIUM ESPANHOL: TELE FUTURO
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+PREMIUM BRASIL: REDE EVANGELIZAR PR
+http://streaming02.sulaovivo.com.br:1935/redeevangelizar/redeevangelizar/live.m3u8
+PREMIUM ESPANHOL: LANCELOT TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+PREMIUM ESPANHOL: MEGA
+http://q.gs:80/9830047/todokodineox?live.m3u8
+PREMIUM ESPANHOL: WIN SPORTS
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0003/tu1_manifest.m3u8
+PREMIUM ESPANHOL: WIN SPORTS
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+PREMIUM ESPANHOL: RTS
+http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
+PREMIUM ESPANHOL: RT ESPAÃ‘OL HD
+http://rt-lh.akamaihd.net:80/i/ch_02@325606/index_720p_av-p.m3u8
+PREMIUM ESPANHOL: TYC SPORTS HD
+http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
+PREMIUM PORTUGAL: PRAIA DA VAGUEIRA [WEBCAM]
+http://213.13.26.11:1935/live/vagueira.stream/livestream.m3u8
+PREMIUM PORTUGAL: PRAIA DA TORREIRA [WEBCAM]
+http://213.13.26.11:1935/live/torreira.stream/livestream.m3u8
+PREMIUM PORTUGAL: PRAIA DO EVARISTO [WEBCAM]
+http://213.13.26.11:1935/live/evaristo.stream/livestream.m3u8
+PREMIUM PORTUGAL: PRAIA DUNA BEACH [WEBCAM]
+http://213.13.26.11:1935/live/meiapraia.stream/livestream.m3u8
+PREMIUM PORTUGAL: PRAIA DO CARVALHAL [WEBCAM]
+http://213.13.26.11:1935/live/carvalhal.stream/livestream.m3u8
+PREMIUM PORTUGAL: SPORT TV AMÃ‰RICAS
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_300kbps.m3u8
+PREMIUM PORTUGAL: SPORT TV AMÃ‰RICAS
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_700kbps.m3u8
+PREMIUM PORTUGAL: SPORT TV AMÃ‰RICAS HD
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_2500kbps.m3u8
+PREMIUM BRASIL: REDE TV
+http://213.163.71.139:8081/live/redetv/playlist.m3u8
+PREMIUM BRASIL: TV CULTURA HD
+http://213.163.71.139:8081/live/tvcultura/playlist.m3u8
+PREMIUM ESPANHOL: MEGAVISION
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+PREMIUM ESPANHOL: ANTENA LATINA
+http://strs2.cvm1.com:8081/live/2506.stream/playlist.m3u8
+PREMIUM ESPANHOL: TV AZTECA
+http://strs2.cvm1.com:8081/live/2404.stream/playlist.m3u8
+PREMIUM ESPANHOL: ANTENA LATINA
+http://208.86.20.109:8081/live/2506.stream/playlist.m3u8
+PREMIUM ESPANHOL: TV AZTECA
+http://208.86.20.109:8081/live/2404.stream/playlist.m3u8
+PREMIUM ESPANHOL: TELE ANTILLAS
+http://strs2.cvm1.com:8081/live/2123.stream/playlist.m3u8
+PREMIUM ESPANHOL: LVM
+http://strs2.cvm1.com:8081/live/2108.stream/playlist.m3u8
+PREMIUM ESPANHOL: CORAL
+http://strs2.cvm1.com:8081/live/2102.stream/playlist.m3u8
+PREMIUM ESPANHOL: TELE ANTILLAS
+http://strs2.cvm1.com:8081/live/2101.stream/playlist.m3u8
+PREMIUM ESPANHOL: TELE SISTEMA
+http://strs2.cvm1.com:8081/live/2100.stream/playlist.m3u8
+PREMIUM ESPANHOL: TELE ANTILLAS
+http://208.86.20.109:8081/live/2123.stream/playlist.m3u8
+PREMIUM ESPANHOL: LVM
+http://208.86.20.109:8081/live/2108.stream/playlist.m3u8
+PREMIUM ESPANHOL: CORAL
+http://208.86.20.109:8081/live/2102.stream/playlist.m3u8
+PREMIUM ESPANHOL: TELE ANTILLAS
+http://208.86.20.109:8081/live/2101.stream/playlist.m3u8
+PREMIUM ESPANHOL: TELE SISTEMA
+http://208.86.20.109:8081/live/2100.stream/playlist.m3u8
+PREMIUM ESPANHOL: UNIVISION 23
+http://209.126.99.175:8081/live/univimiam/playlist.m3u8
+PREMIUM ESPANHOL: GLOBOVISION TV
+http://edge.wms28.lorini.net:1935/globovisiontv/globovisiontv/live.m3u8
+PREMIUM ESPANHOL: ZOO MOO
+http://104.131.117.246:8081/chuy/76/1301-ZooMoo/playlist.m3u8
+PREMIUM ESPANHOL: DISNEY XD
+http://104.236.124.24:1382/disneyxd/playlist.m3u8
+PREMIUM ESPANHOL: DISCOVERY KIDS
+http://45.55.81.38:1382/discoverykids/playlist.m3u8
+PREMIUM ESPANHOL: TELEMUNDO
+http://104.236.200.163:1382/300815/wkaq/playlist.m3u8
+PREMIUM ESPANHOL: UNIVISION PR
+http://104.236.200.163:1382/300815/wlii/playlist.m3u8
+PREMIUM ESPANHOL: MUNDO FAX
+http://104.236.200.163:1382/300815/wjpx/playlist.m3u8
+PREMIUM ESPANHOL: AV
+http://strs2.cvm1.com:8081/live/2405.stream/playlist.m3u8
+PREMIUM ESPANHOL: CDN SPORTS MAX
+http://strs2.cvm1.com:8081/live/2514.stream/playlist.m3u8
+PREMIUM ESPANHOL: CDN
+http://strs2.cvm1.com:8081/live/2511.stream/playlist.m3u8
+PREMIUM ESPANHOL: CANAL 25
+http://strs2.cvm1.com:8081/live/2507.stream/playlist.m3u8
+PREMIUM ESPANHOL: NEXXO
+http://strs2.cvm1.com:8081/live/2505.stream/playlist.m3u8
+PREMIUM ESPANHOL: NOTICIAS 16
+http://strs2.cvm1.com:8081/live/2503.stream/playlist.m3u8
+PREMIUM ESPANHOL: CANAL 4
+http://strs2.cvm1.com:8081/live/2502.stream/playlist.m3u8
+PREMIUM ESPANHOL: TRA DIGITAL
+http://strs2.cvm1.com:8081/live/2501.stream/playlist.m3u8
+PREMIUM ESPANHOL: ANTENA LATINA
+http://strs2.cvm1.com:8081/live/2500.stream/playlist.m3u8
+PREMIUM ESPANHOL: V ME
+http://strs2.cvm1.com:8081/live/2410.stream/playlist.m3u8
+PREMIUM ESPANHOL: TELEXITOS
+http://strs2.cvm1.com:8081/live/2407.stream/playlist.m3u8
+PREMIUM ESPANHOL: TELEMUNDO
+http://strs2.cvm1.com:8081/live/2406.stream/playlist.m3u8
+PREMIUM ESPANHOL: UNIMÃS
+http://strs2.cvm1.com:8081/live/2401.stream/playlist.m3u8
+PREMIUM ESPANHOL: UNIVISION 41
+http://strs2.cvm1.com:8081/live/2400.stream/playlist.m3u8
+PREMIUM ESPANHOL: AV
+http://208.86.20.109:8081/live/2405.stream/playlist.m3u8
+PREMIUM ESPANHOL: CDN SPORTS MAX
+http://208.86.20.109:8081/live/2514.stream/playlist.m3u8
+PREMIUM ESPANHOL: CDN
+http://208.86.20.109:8081/live/2511.stream/playlist.m3u8
+PREMIUM ESPANHOL: CANAL 25
+http://208.86.20.109:8081/live/2507.stream/playlist.m3u8
+PREMIUM ESPANHOL: NEXXO
+http://208.86.20.109:8081/live/2505.stream/playlist.m3u8
+PREMIUM ESPANHOL: NOTICIAS 16
+http://208.86.20.109:8081/live/2503.stream/playlist.m3u8
+PREMIUM ESPANHOL: CANAL 4
+http://208.86.20.109:8081/live/2502.stream/playlist.m3u8
+PREMIUM ESPANHOL: TRA DIGITAL
+http://208.86.20.109:8081/live/2501.stream/playlist.m3u8
+PREMIUM ESPANHOL: ANTENA LATINA
+http://208.86.20.109:8081/live/2500.stream/playlist.m3u8
+PREMIUM ESPANHOL: V ME
+http://208.86.20.109:8081/live/2410.stream/playlist.m3u8
+PREMIUM ESPANHOL: TELEXITOS
+http://208.86.20.109:8081/live/2407.stream/playlist.m3u8
+PREMIUM ESPANHOL: TELEMUNDO
+http://208.86.20.109:8081/live/2406.stream/playlist.m3u8
+PREMIUM ESPANHOL: UNIMÃS
+http://208.86.20.109:8081/live/2401.stream/playlist.m3u8
+PREMIUM ESPANHOL: UNIVISION
+http://208.86.20.109:8081/live/2400.stream/playlist.m3u8
+PREMIUM BRASIL: ESPORTE INTERATIVO MAXX 2 SD
+http://ei.ss-lisa.eiplus.com.br:80/live/evento2.stream_360p/livestream.m3u8
+PREMIUM BRASIL: UCS TV RS
+http://sintonizarhost.com.br:1935/ucstvDVR/ucstvDVR/live.m3u8
+PREMIUM BRASIL: UCS TV RS
+http://mistreaming.com.br:1935/ucstvDVR/ucstvDVR/live.m3u8
+PREMIUM BRASIL: UCS TV RS
+http://199.217.118.218:1935/ucstvDVR/ucstvDVR/live.m3u8
+PREMIUM BRASIL: TV ESPORTE MAIS
+http://xtvesportemaisx.api.channel.livestream.com/3.0/playlist.m3u8
+PREMIUM BRASIL: MIX TV
+http://xmixtvbrx.api.channel.livestream.com/3.0/playlist.m3u8
+PREMIUM BRASIL: 1001 NOITES
+http://streaming30.sitehosting.com.br:1935/abdalla/abdalla/live.m3u8
+PREMIUM PORTUGAL: BENFICA TV
+http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream_720p/chunklist_b2628000.m3u8
+PREMIUM PORTUGAL: BENFICA TV
+http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream/chunklist_b2628000.m3u8
+PREMIUM PORTUGAL: BENFICA TV
+http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream_source/chunklist_b2628000.m3u8
+PREMIUM PORTUGAL: BENFICA TV
+http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
+PREMIUM PORTUGAL: BENFICA TV 2
+http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+PREMIUM PORTUGAL: BENFICA TV 2
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+PREMIUM PORTUGAL: SPORT TV 1
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+PREMIUM PORTUGAL: IURD TV
+http://xiurdtveux.api.channel.livestream.com/3.0/playlist.m3u8
+PREMIUM BRASIL: TV DIÃRIO DO SERTÃƒO PB
+http://wz6.dnip.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+PREMIUM BRASIL: TVN BRASIL DF
+http://wz6.dnip.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+PREMIUM BRASIL: TV ADUD PB
+http://tv.paraibahost.com.br:1935/tvadud/tvadud/live.m3u8
+PREMIUM BRASIL: SBT PB
+http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/live.m3u8
+PREMIUM BRASIL: TV ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+PREMIUM BRASIL: TV MASTER PB
+http://tv.paraibahost.com.br:1935/tvmaster/tvmaster/live.m3u8
+PREMIUM BRASIL: TV DIÃRIO DO SERTÃƒO PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+PREMIUM BRASIL: TV ESCOLA DF
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+PREMIUM BRASIL: TV CULTURA PE
+http://d5gwsxdd18d4i.cloudfront.net:80/novanordeste/aovivo/live.m3u8
+PREMIUM BRASIL: REDE TV RS
+http://206.191.148.69:1935/rafael926/encoder/live.m3u8
+PREMIUM BRASIL: SBT PB
+http://70.38.71.93:1935/tvtambau/tvtambau/live.m3u8
+PREMIUM ESPANHOL: MUNDO MAX
+http://video-cdn.streamup.com:80/app/ana69s-channel/live.m3u8
+PREMIUM BRASIL: CARTOON NETWORK
+http://video-cdn.streamup.com:80/app/olsenpaulos-channel/live.m3u8
+PREMIUM BRASIL: VIA EXPRESSA AL [CÃ‚MERA 3]
+http://hls.stream.tnh1.com.br:80/camera/transito_3/live.m3u8
+PREMIUM BRASIL: POLÃCIA R. FEDERAL AL [CÃ‚MERA 1]
+http://hls.stream.tnh1.com.br:80/camera/transito_1/live.m3u8
+PREMIUM BRASIL: PRAIA DE PONTA VERDE AL [CÃ‚MERA 2]
+http://hls.stream.tnh1.com.br:80/camera/transito_2/live.m3u8
+PREMIUM BRASIL: CEPA AL [CÃ‚MERA 6]
+http://hls.stream.tnh1.com.br:80/camera/transito_6/live.m3u8
+PREMIUM BRASIL: FOX SPORTS
+http://server1.livestreaming.ninja:1935/live/foxsports1/livestream.m3u8
+PREMIUM BRASIL: COMBATE
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+PREMIUM BRASIL: RECORD RO
+http://206.191.148.33:1935/8126/8126/live.m3u8
+PREMIUM BRASIL: CARTOON NETWORK
+http://213.163.71.139:8081/live/cartoon/playlist.m3u8
+PREMIUM BRASIL: CARTOON NETWORK
+http://213.163.65.116:8081/live/cartoon/playlist.m3u8
+PREMIUM ESPANHOL: MÃ‰XICO TRAVEL CHANNEL
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+PREMIUM ESPANHOL: MÃ‰XICO TRAVEL CHANNEL
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/chunklist_b750000.m3u8
+PREMIUM BRASIL: BAND SP
+http://213.163.71.139:8081/live/band/playlist.m3u8
+PREMIUM BRASIL: BAND SP
+http://213.163.65.116:8081/live/band/playlist.m3u8
+PREMIUM BRASIL: BAND SP
+http://31.204.128.112:8081/live/band/playlist.m3u8
+PREMIUM BRASIL: SPORTV 2
+http://213.163.71.139:8081/live/sportv2/playlist.m3u8
+PREMIUM BRASIL: SPORTV
+http://213.163.71.139:8081/live/sportv/playlist.m3u8
+PREMIUM BRASIL: RECORD SP
+http://213.163.71.139:8081/live/record/playlist.m3u8
+PREMIUM BRASIL: SBT SP
+http://213.163.71.139:8081/live/sbt/playlist.m3u8
+PREMIUM BRASIL: GLOBO SP
+http://213.163.71.139:8081/live/sptv/playlist.m3u8
+PREMIUM BRASIL: TV CIDADE LIVRE SP
+http://tvcidadelivre.com.br:8000/tv.ogg?live.m3u8
+PREMIUM BRASIL: TV ASSEMBLEIA RN
+http://srv6.zoeweb.tv:1935/z627-live/stream/livestream.m3u8
+PREMIUM BRASIL: TV BATATINHA
+http://srv6.zoeweb.tv:1935/z632-live/stream/livestream.m3u8
+PREMIUM BRASIL: RÃDIO CACIQUE AM 760
+http://srv6.zoeweb.tv:1935/z631-live/stream/livestream.m3u8
+PREMIUM BRASIL: RÃDIO
+http://srv6.zoeweb.tv:1935/z609-live/stream/livestream.m3u8
+PREMIUM BRASIL: TV ASSEMBLEIA PB
+http://srv6.zoeweb.tv:1935/z606-live/stream/livestream.m3u8
+PREMIUM BRASIL: RÃDIO 87,9 FM
+rtmp://srv6.zoeweb.tv:1935/z483-live/stream?livestream.m3u8
+PREMIUM ESPANHOL: INTER ECONOMIA TV
+http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
+PREMIUM BRASIL: REDE TV
+http://213.163.65.116:8081/live/redetv/playlist.m3u8
+PREMIUM BRASIL: RECORD SP
+http://213.163.65.116:8081/live/record/playlist.m3u8
+PREMIUM BRASIL: GLOBO SP
+http://213.163.65.116:8081/live/sptv/playlist.m3u8
+PREMIUM BRASIL: SBT SP
+http://213.163.65.116:8081/live/sbt/playlist.m3u8
+PREMIUM BRASIL: TV CULTURA HD
+http://213.163.65.116:8081/live/tvcultura/playlist.m3u8
+PREMIUM BRASIL: SPORTV 2
+http://213.163.65.116:8081/live/sportv2/playlist.m3u8
+PREMIUM BRASIL: SPORTV
+http://213.163.65.116:8081/live/sportv/playlist.m3u8
+PREMIUM ESPANHOL: UFC NETWORK
+http://q.gs:80/9830047/todokodiufclatino?live.m3u8
+PREMIUM BRASIL: FEB TV
+http://plenus6000.com:1935/febtv1/febtv1/live.m3u8
+PREMIUM ESPANHOL: MUNDO MAX
+http://streamup.global.ssl.fastly.net:80/app/ana69s-channel/live.m3u8
+PREMIUM BRASIL: CARTOON NETWORK
+http://streamup.global.ssl.fastly.net:80/app/olsenpaulos-channel/live.m3u8
+PREMIUM ESPANHOL: CANAL TRO
+http://cdns724ste1010.multistream.net:80/canaltro2live/amlst:live/livestream.m3u8
+PREMIUM BRASIL: TV BRASIL
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live/stream1.m3u8
+PREMIUM BRASIL: NBR
+http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8
+PREMIUM BRASIL: SPORTV 2
+http://31.204.128.112:8081/live/sportv2/playlist.m3u8
+PREMIUM BRASIL: SPORTV
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+PREMIUM BRASIL: GLOBO SP
+http://31.204.128.112:8081/live/sptv/playlist.m3u8
+PREMIUM ESPANHOL: ANTENA 3
+http://q.gs:80/9830047/antena3todokodim3u8
+PREMIUM ESPANHOL: EDGE
+http://q.gs:80/9830047/todokodi12?live.m3u8
+PREMIUM ESPANHOL: AZTECA CINEMA
+http://q.gs:80/9830047/todokodi10?live.m3u8
+PREMIUM ESPANHOL: RED ADVENIR
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/livestream.m3u8
+PREMIUM ESPANHOL: RED ADVENIR
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/livestream.m3u8
+PREMIUM ESPANHOL: EBENEZER TV
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+PREMIUM BRASIL: REDE SUPER MG
+http://tv.zasmediastreaming.com.br:1935/tvitajai/mca.sdp/live.m3u8
+PREMIUM BRASIL: CJC
+http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@389008/index_1200_av-p.m3u8
+PREMIUM BRASIL: CANAL SHOW DA FÃ‰
+http://nossatvhls02-lh.akamaihd.net:80/i/nossatv_hls@381916/index_1200_av-p.m3u8
+PREMIUM BRASIL: CANAL DAS IGREJAS
+http://nossatvhls03-lh.akamaihd.net:80/i/nossatv_hls@381920/index_1200_av-p.m3u8
+PREMIUM BRASIL: RIT TV
+http://nossatvhls01-lh.akamaihd.net:80/i/nossatv_hls@366619/index_2500_av-p.m3u8
+PREMIUM BRASIL: RBC TV
+http://rbc.directradios.com:1935/rbc/rbc.smil/chunklist_b1200000.m3u8
+PREMIUM BRASIL: TV ADUD PB
+http://70.38.71.93:1935/tvadud/tvadud/live.m3u8
+PREMIUM BRASIL: REDE GÃŠNESIS
+http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
+PREMIUM ESPANHOL: BEIN SPORTS EN ESPAÃ‘OL
+http://q.gs:80/9830047/todokodi3?live.m3u8
+PREMIUM ESPANHOL: TYC SPORTS HD
+http://q.gs:80/9830047/todokodi4?live.m3u8
+PREMIUM ESPANHOL: TOONCAST
+http://q.gs:80/9830047/todokodi9?live.m3u8
+PREMIUM ESPANHOL: DISCOVERY KIDS
+http://q.gs:80/9830047/todokodi8?live.m3u8
+PREMIUM ESPANHOL: DISNEY XD
+http://q.gs:80/9830047/todokodi7?live.m3u8
+PREMIUM ESPANHOL: CARTOON NETWORK
+http://q.gs:80/9830047/todokodi6?live.m3u8
