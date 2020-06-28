@@ -1,20 +1,5 @@
 <channels>
 <channel>
-<name>[COLOR yellow]|[COLOR white]LANCAMENTOS[/COLOR]</name>
-<thumbnail>https://ia601405.us.archive.org/19/items/acao_20200616/LAN%C3%87AMENTOS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/robertodiasoficial/BEMVINDO/master/lancamentofilme</externallink>
-<fanart>https://ia601505.us.archive.org/5/items/fanartacao/fanartlancamento.png</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES LANCAMENTOS - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[COLOR yellow]|[COLOR white]ANIMACAO[/COLOR]</name>
 <thumbnail>https://ia601405.us.archive.org/19/items/acao_20200616/ANIMACAO.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/robertodiasoficial/BEMVINDO/master/CATEGORIAFILMEANIMACAO</externallink>
