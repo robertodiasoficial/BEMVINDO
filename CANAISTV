@@ -353,3 +353,98 @@ http://faustinotv.tk/redir.php?acesso=4beb32c53c5c141fe39e7d47862d7c8b&usuario=c
  
 #EXTINF:-1 tvg-ID="RCN" tvg-logo="https://i.imgur.com/wgt9r5S.jpg" group-title="CANAIS | NOTÍCIAS", Record News (FaustinoTV)
 http://faustinotv.tk/redir.php?acesso=e38a71e4ff0b9fd67af5765c41a40184&usuario=c8876d2aac82be4df1248cafefe86f84
+
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Espn Brasil
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36978
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Espn Brasil
+http://lista.digitalgroup.me:80/edm90361/90361/2387
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Espn 2
+http://lista.digitalgroup.me:80/edm90361/90361/2394
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Espn 2
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36976
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Espn plus
+http://lista.digitalgroup.me:80/edm90361/90361/20813
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Espn plus
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/42910
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Fox sports
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/50755
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Fox sports
+http://lista.digitalgroup.me:80/edm90361/90361/1033
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Fox sports 2
+http://lista.digitalgroup.me:80/edm90361/90361/1031
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Fox sports 2
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36971
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SporTV
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/37255
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SporTV
+http://lista.digitalgroup.me:80/edm90361/90361/1203
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SporTV 2
+http://lista.digitalgroup.me:80/edm90361/90361/2401
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SporTV 2
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36943
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SporTV 3
+http://lista.digitalgroup.me:80/edm90361/90361/2402
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", SporTV 3
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36942
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Premiere
+http://lista.digitalgroup.me:80/edm90361/90361/25246
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Premiere
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/37016
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Premiere
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36948
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Dazn
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/58130
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Dazn
+http://lista.digitalgroup.me:80/edm90361/90361/46925
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Combate
+http://lista.digitalgroup.me:80/edm90361/90361/1088
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Combate
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36986
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Band sports
+http://lista.digitalgroup.me:80/edm90361/90361/2407
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Band sports
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/50612
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Tnt
+http://lista.digitalgroup.me:80/edm90361/90361/2383
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Tnt
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36934
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Space
+http://lista.digitalgroup.me:80/edm90361/90361/1327
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Space
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/36944
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Fox Premium 1
+http://lista.digitalgroup.me:80/edm90361/90361/2464
+ 
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", Fox Premium 1
+http://tv.factoryiptv.com:80/5aM4xqWz4/factoryiptv/50750
