@@ -810,3 +810,211 @@ https://awsclo.azureedge.net/hls1/comedycentral.m3u8|Referer=https://canaisgrati
  
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="VARIEDADES",[B]MULTISHOW[/B]
 https://awsclo.azureedge.net/hls1/multishow.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+
+#EXTM3U
+ 
+##############################################################CANAL ABERTO#############################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL ABERTO",[COLOR yellow]» » » » CANAL ABERTO « « « «[/COLOR]
+http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="CANAL ABERTO", BAND SP
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://ppns.io:80/9887087447/w7fedNJw4R/18857&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-logo="https://i.imgur.com/0vosBrB.png" group-title="CANAL ABERTO", GLOBO NORDESTE
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/2380.ts
+ 
+ 
+#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://i.imgur.com/pIhECwP.png?1" group-title="CANAL ABERTO", GLOBO RJ
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/798.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL ABERTO", GLOBO SP
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/1814.ts
+ 
+ 
+#EXTINF:-1 tvg-id="SBT HD" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", SBT
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/795.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-id="RecordSD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO", RECORD SP
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/799.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+############################################################DOCUMENTARIOS##############################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTARIOS",[COLOR yellow]» » » » DOCUMENTARIOS HD « « « «[/COLOR]
+http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="DOCUMENTARIOS", ANIMAL PLANET
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/785.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="CURTA!" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="DOCUMENTARIOS",CURTA!
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/1850.ts
+ 
+ 
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL"  tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/755.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE"  tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/752.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION"  tvg-logo="http://i.imgur.com/dN249KE.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/1884.ts
+ 
+ 
+#EXTINF:-1 tvg-id="HISTORY" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="DOCUMENTARIOS", HISTORY
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/1890.ts
+ 
+ 
+#EXTINF:-1 tvg-id="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="DOCUMENTARIOS", H2
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/1876.ts
+ 
+ 
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/1863.ts
+ 
+ 
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="DOCUMENTARIOS",NAT GEO WILD
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/1864.ts
+ 
+#############################################################ESPORTES HD###############################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPORTES HD",[COLOR yellow]» » » » ESPORTES HD « « « «[/COLOR][/B]
+ http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="ESPORTES HD",BAND SPORTS
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://oiplay.tvsbr.me:80/live/emeline/emeline/79810.m3u8&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="ESPORTES HD",COMBATE
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://oiplay.tvsbr.me:80/live/emeline/emeline/34169.m3u8&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3bO3Juy" group-title="ESPORTES HD",DAZN 1
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://pdsrv.io:25461/159951/159951/30422&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3bO3Juy" group-title="ESPORTES HD",DAZN 2
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://pdsrv.io:25461/159951/159951/33638&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/3bO3Juy" group-title="ESPORTES HD",DAZN 3
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://pdsrv.io:25461/159951/159951/33639&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png" group-title="ESPORTES HD",EI PLUS 1
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://tv.factoryiptv.com:80/galvani/galvani/2162&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" group-title="ESPORTES HD",EI TNT 1
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://tv.factoryiptv.com:80/galvani/galvani/36934&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" group-title="ESPORTES HD",EI TNT 2
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://pdsrv.io:25461/159951/159951/6074&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn.png" group-title="ESPORTES HD",ESPN
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://pdsrv.io:25461/159951/159951/6127&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn2.png" group-title="ESPORTES HD",ESPN 2
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://pdsrv.io:25461/159951/159951/6143&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnextra.png" group-title="ESPORTES HD",ESPN EXTRA
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://oiplay.tvsbr.me:80/live/emeline/emeline/34138.m3u8&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnbrasil.png" group-title="ESPORTES HD",ESPN BRASIL
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://pdsrv.io:25461/159951/159951/6127&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsports.png" group-title="ESPORTES HD",FOX SPORTS 1
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://oiplay.tvsbr.me:80/live/emeline/emeline/34121.m3u8&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsports2.png" group-title="ESPORTES HD",FOX SPORTS 2
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://oiplay.tvsbr.me:80/live/emeline/emeline/34119.m3u8&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTES HD",PREMIERE CLUBES
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://oiplay.tvsbr.me:80/live/emeline/emeline/34044.m3u8&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="http://amppublicidade.com.br/wp-content/uploads/2017/09/sportv-1024x313.png" group-title="ESPORTES HD",SPORTV 1
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://oiplay.tvsbr.me:80/live/emeline/emeline/34020.m3u8&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="http://amppublicidade.com.br/wp-content/uploads/2017/09/sportv-1024x313.png" group-title="ESPORTES HD",SPORTV 2
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://oiplay.tvsbr.me:80/live/emeline/emeline/34023.m3u8&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="http://amppublicidade.com.br/wp-content/uploads/2017/09/sportv-1024x313.png" group-title="ESPORTES HD",SPORTV 3
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=HLSRETRY&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://oiplay.tvsbr.me:80/live/emeline/emeline/34021.m3u8&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+############################################################INFANTIL###################################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL HD",[COLOR yellow]» » » » INFANTIL HD « « « «[/COLOR]
+ http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-id="Bloomberg.igor" tvg-logo="http://goo.gl/HPChvB?" group-title="INFANTIL HD",BOOMERANG
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://impulsetv.org:25461/live/frank/1234/41349.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="Cartoon Network.igor" tvg-logo="http://goo.gl/5UdNqU?" group-title="INFANTIL HD",CARTOON NETWORK
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/765.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-id="DISCOVERY Kids.igor" tvg-logo="http://goo.gl/vYyUSd?" group-title="INFANTIL HD",DISCOVERY KIDS
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/753.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-id="Disney Channel.igor" tvg-logo="http://goo.gl/FS8zfU?" group-title="INFANTIL HD",DISNEY CHANNEL
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/943.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-id="Disney Jr.igor" tvg-logo="http://1.bp.blogspot.com/-3qUYaC7kdPM/TX5g5ewPLKI/AAAAAAAAAfk/uuezfFY76to/s1600/DisneyJunior.png" group-title="INFANTIL HD",DISNEY JR
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/2088.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="Disney XD.igor" tvg-logo="http://goo.gl/Pzpj6p?" group-title="INFANTIL HD",DISNEY XD
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/942.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-id="Gloob.igor" tvg-logo="http://goo.gl/Lpi7qx?" group-title="INFANTIL HD",GLOOB
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/2086.ts
+ 
+ 
+#EXTINF:-1 tvg-id="Nick.igor" tvg-logo="http://goo.gl/kneR6q?" group-title="INFANTIL HD",NICK
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/2671.ts
+ 
+ 
+#EXTINF:-1 tvg-id="Nick Jr.igor" tvg-logo="http://goo.gl/LFSsjv?" group-title="INFANTIL HD",NICK JR
+http://rev.iptvlegal.tv:25461/live/marcelinho/marcelinho/2670.ts
+ 
+###########################################################VARIEDADES##################################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",[COLOR yellow]» » » » VARIEDADES « « « «[/COLOR]
+http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://i.imgur.com/NWk646Z.png" group-title="VARIEDADES" , COMEDY CENTRAL
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://lindaflor.net:8080/live/AndreK2019/andrek2019/959.ts&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
