@@ -1,4 +1,100 @@
 #EXTM3U
+#EXTINF:-1,AXN HD
+http://187.120.222.12:8000/play/AXNLEG/index.m3u8
+#EXTINF:-1,BBB HD 1
+http://187.120.222.12:8000/play/BBBHD1/index.m3u8
+#EXTINF:-1,BBB HD 1
+http://187.120.222.12:8000/play/a01s/index.m3u8
+#EXTINF:-1,Boa Vontade TV
+http://187.120.222.12:8000/play/BoaVontade/index.m3u8
+#EXTINF:-1,Canal Rural
+http://187.120.222.12:8000/play/CanalRural/index.m3u8
+#EXTINF:-1,Canal Sony HD
+http://187.120.222.12:8000/play/CanalSonyLEG/index.m3u8
+#EXTINF:-1,Cultura HD
+http://187.120.222.12:8000/play/TVCultura/index.m3u8
+#EXTINF:-1,FOX HD
+http://187.120.222.12:8000/play/FOXLEG/index.m3u8
+#EXTINF:-1,FOX Life HD
+http://187.120.222.12:8000/play/a00q/index.m3u8
+#EXTINF:-1,FX HD
+http://187.120.222.12:8000/play/FXLEG/index.m3u8
+#EXTINF:-1,GloboNews HD
+http://187.120.222.12:8000/play/GloboNews/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://187.120.222.12:8000/play/a00k/index.m3u8
+#EXTINF:-1,HBO HD
+http://187.120.222.12:8000/play/HBOLEG/index.m3u8
+#EXTINF:-1,HBO Signature HD
+http://187.120.222.12:8000/play/a00l/index.m3u8
+#EXTINF:-1,HBO+ HD
+http://187.120.222.12:8000/play/HBOPlusLEG/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://187.120.222.12:8000/play/a00i/index.m3u8
+#EXTINF:-1,Like HD
+http://187.120.222.12:8000/play/Like/index.m3u8
+#EXTINF:-1,MAX UP HD
+http://187.120.222.12:8000/play/MAXUPLEG/index.m3u8
+#EXTINF:-1,Megapix HD
+http://187.120.222.12:8000/play/MegapixLEG/index.m3u8
+#EXTINF:-1,PlayTV
+http://187.120.222.12:8000/play/PlayTV/index.m3u8
+#EXTINF:-1,Polishop TV
+http://187.120.222.12:8000/play/PolishopTV/index.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://187.120.222.12:8000/play/PFC2/index.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://187.120.222.12:8000/play/PFC5/index.m3u8
+#EXTINF:-1,Premiere Clubes HD
+http://187.120.222.12:8000/play/PremiereClubes/index.m3u8
+#EXTINF:-1,Sextreme
+http://187.120.222.12:8000/play/Sextreme/index.m3u8
+#EXTINF:-1,Space HD
+http://187.120.222.12:8000/play/a00f/index.m3u8
+#EXTINF:-1,TCM
+http://187.120.222.12:8000/play/TCM/index.m3u8
+#EXTINF:-1,TNT HD
+http://187.120.222.12:8000/play/TNTLEG/index.m3u8
+#EXTINF:-1,TNT SØries HD
+http://187.120.222.12:8000/play/TNTSeriesLEG/index.m3u8
+#EXTINF:-1,TV CanĿªo Nova
+http://187.120.222.12:8000/play/CancaoNova/index.m3u8
+#EXTINF:-1,TV CÐmara
+http://187.120.222.12:8000/play/TVCamara/index.m3u8
+#EXTINF:-1,TV Escola
+http://187.120.222.12:8000/play/TVEscola/index.m3u8
+#EXTINF:-1,TV JustiĿa
+http://187.120.222.12:8000/play/TVJustica/index.m3u8
+#EXTINF:-1,TV Senado
+http://187.120.222.12:8000/play/TVSenado/index.m3u8
+#EXTINF:-1,TV TEM SJRP - Globo HD
+http://187.120.222.12:8000/play/TVTEMSJRP/index.m3u8
+#EXTINF:-1,Telecine Action HD
+http://187.120.222.12:8000/play/TCActionLEG/index.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://187.120.222.12:8000/play/a00b/index.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://187.120.222.12:8000/play/TCFunLEG/index.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+http://187.120.222.12:8000/play/TCPipocaLEG/index.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://187.120.222.12:8000/play/TCPremiumLEG/index.m3u8
+#EXTINF:-1,Telecine Touch HD
+http://187.120.222.12:8000/play/TCTouchLEG/index.m3u8
+#EXTINF:-1,Tooncast
+http://187.120.222.12:8000/play/Tooncast/index.m3u8
+#EXTINF:-1,Universal TV HD
+http://187.120.222.12:8000/play/UniversalTV/index.m3u8
+#EXTINF:-1,Unknown
+http://187.120.222.12:8000/play/BBBHD2/index.m3u8
+#EXTINF:-1,Unknown
+http://187.120.222.12:8000/play/BBBHD3/index.m3u8
+#EXTINF:-1,VH1 Mega Hits
+http://187.120.222.12:8000/play/VH1MegaHits/index.m3u8
+#EXTINF:-1,Warner HD
+http://187.120.222.12:8000/play/WarnerLEG/index.m3u8
+
+#EXTM3U
  
 #EXTINF:-1 tvg-logo="https://i.upimg.com/BJCiKuVIm" group-title="** INFORMAÇÕES **", LISTA ATUALIZADA EM 011/06/2019
 http://127.0.0.1
