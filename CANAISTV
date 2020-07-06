@@ -1,874 +1,130 @@
 #EXTM3U
 #EXTINF:-1,          --- WitflixBR ---
-http://archive.org/download/witflixloop/FILMES/witflixacao.mp3
-#EXTINF:-1,A Batalha de Riddick (OFF)
-http://witflixbr.000webhostapp.com/filmes/abatalhaderiddick-dub-360p.mp4
-#EXTINF:-1,As Panteras (2019) (OFF)
-http://witflixbr.000webhostapp.com/filmes/aspanterasts-dub-480p.mp4
-#EXTINF:-1,Atômica (2017)
-http://ia601504.us.archive.org/23/items/ijnasdhasdkr/ijnasdhasdkr.mp4
-#EXTINF:-1,Bleach – Filme (OFF)
-http://witflixbr.000webhostapp.com/filmes/bleachmovie-dub-480p.mp4
+http://archive.org/download/witflixloop/FILMES/witflixlancamentos.mp3
+#EXTINF:-1,365 Dias (LEG)
+http://smartapp.s3.us-east-2.stackpathstorage.com/token5484r/f/tt10886166LEG.mp4
+#EXTINF:-1,A Vastidão da Noite
+http://smartapp.s3.us-east-2.stackpathstorage.com/token5484r/f/tt6803046.mp4
 #EXTINF:-1,Bloodshot
 http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Bloodshot.2020.MP4.DUB.BaixarSeriesMP4.org.mp4
 #EXTINF:-1,Bloodshot (LEG)
 http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Bloodshot.2020.MP4.LEG.BaixarSeriesMP4.org.mp4
-#EXTINF:-1,Flyboys
-http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/flyboys.mp4
-#EXTINF:-1,Force of Nature (LEG)
-http://smartapp.s3.us-east-2.stackpathstorage.com/token5484r/f/tt10308928LEG.mp4
-#EXTINF:-1,Desejo de Matar (2018)
-http://ia601507.us.archive.org/2/items/ratamedojesed/ratamedojesed.mp4
-#EXTINF:-1,Dois Heróis do Karate (1974)
-http://archive.org/download/HeroesTwo1974Dublado/HeroesTwo1974Dublado.mp4
-#EXTINF:-1,Dracula – O Príncipe das Trevas (OFF)
-http://witflixbr.000webhostapp.com/filmes/draculaprincipedastrevas-dub-480p.mp4
-#EXTINF:-1,Jogada Final (2018)
-http://ia601508.us.archive.org/13/items/asdjgewqdfkjcvk/asdjgewqdfkjcvk.mp4
-#EXTINF:-1,John Wick 3: Parabellum (2019) (OFF)
-http://witflixbr.000webhostapp.com/filmes/johnwick3ts-dub-480p.mp4
-#EXTINF:-1,Jumanji: The Next Level (OFF)
-http://witflixbr.000webhostapp.com/filmes/jumanjiproximafase-dub-480p.mp4
-#EXTINF:-1,Justica – Entre a Lei e a Vinganca (OFF)
-http://witflixbr.000webhostapp.com/filmes/justicaentrealeieavinganca-dub-480p.mp4
-#EXTINF:-1,Machete
-http://kfilmes.club/Machete.2010.720p.BluRay.x264.DUAL.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,Meu Ex é um Espião (2018) (OFF)
-http://witflixbr.000webhostapp.com/filmes/meuexeumespiao-dub-480p.mp4
-#EXTINF:-1,Missão Impossível - Efeito Fallout (2018)
-http://ia601504.us.archive.org/25/items/asdlkhasdiosadasdke/asdlkhasdiosadasdke.mp4
-#EXTINF:-1,Missão Impossível - Efeito Fallout (2018)(Op2) (OFF)
-http://witflixbr.000webhostapp.com/filmes/missaoimpossivelefeitofallout-dub-480p.mp4
-#EXTINF:-1,O Ataque
-http://kfilmes.club/O.Ataque.2013.720p.WEB-DL.5.1.x264-DUAL.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,O Ataque do Tubarão de 6 Cabeças
-http://kfilmes.club/O.Ataque.do.Tubar%c3%a3o.de.6.Cabe%c3%a7as.2019.720p.BluRay.x264.DUAL-WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,O Confronto
-http://kfilmes.club/O.Confronto.2001.720p.WEB-DL.DD2.0.x264-DUAL.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,O Doutrinador (2018)
-http://archive.org/download/T0K10DUB/0D0UTR1N4D0RHD.mp4
-#EXTINF:-1,O Doutrinador (2018)(Op2) (OFF)
-http://witflixbr.000webhostapp.com/filmes/odoutrinador-dub-480p.mp4
-#EXTINF:-1,O Exterminador do Futuro 2 (1991)
-http://archive.org/download/OExterminadorDoFuturo/o%20exterminador%20do%20futuro.mp4
-#EXTINF:-1,O Exterminador do Futuro: Destino Sombrio
-http://astraeus.witflixbr.cloudns.cl/ptplay/CDN1/OEXTRMDRDFUTDSTNSMB.mp4
-#EXTINF:-1,O Exterminador do Futuro: Destino Sombrio (LEG)
-http://astraeus.witflixbr.cloudns.cl/ptplay/CDN1/OEXTRMDRDFUTDSTNSMBLEG.mp4
-#EXTINF:-1,Rambo: Ate o Fim (2019) (OFF)
-http://witflixbr.000webhostapp.com/filmes/ramboateofim-dub-480p.mp4
-#EXTINF:-1,Rampage: Destruição Total (2018) (OFF)
-http://witflixbr.000webhostapp.com/filmes/rampage-dub-480p.mp4
-#EXTINF:-1,Resgate
-http://astraeus.witflixbr.cloudns.cl/ptplay2/FILMESSS/Resgate.2020.MP4.LEG.BaixarSeriesMP4.org.mp4
-#EXTINF:-1,Resgate no Oeste
-http://kfilmes.club/Resgate.no.Oeste.2019.720p.BluRay.x264-DUAL.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,Resgate no Oeste (OFF)
-http://witflixbr.000webhostapp.com/filmes/resgatenooeste-dub-480p.mp4
-#EXTINF:-1,Sansão (OFF)
-http://witflixbr.000webhostapp.com/filmes/sansao2018-dub-480p.mp4
-#EXTINF:-1,Shaft
-http://kfilmes.club/Shaft.2019.1080p.WEB-DL.6CH.x264-DUAL.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,Stuber - A Corrida Maluca (2019)
-http://archive.org/download/2.doc_201911/2/7.doc.mp4
-#EXTINF:-1,Tokio Ghoul (2017)
-http://archive.org/download/T0K10DUB/T0K10DUB.mp4
-#EXTINF:-1,Velozes e Furiosos 6 (2013) (OFF)
-http://witflixbr.000webhostapp.com/filmes/velozesfuriosos6-dub-480p.mp4
-#EXTINF:-1,Velozes e Furiosos 7 (2015) (OFF)
-http://witflixbr.000webhostapp.com/filmes/velozes7-dub-480p.mp4
-#EXTINF:-1,Velozes e Furiosos 8 (2017) (OFF)
-http://witflixbr.000webhostapp.com/filmes/velozes8-dub-480p.mp4
-#EXTINF:-1,Velozes & Furiosos: Hobbs & Shaw (OFF)
-http://witflixbr.000webhostapp.com/filmes/hobbseshaw-dub-480p.mp4
-#EXTINF:-1,Vingança a Sangue Frio
-http://kfilmes.club/Vinganca.a.Sangue.Frio.2019.1080p.BluRay.x264-DUAL.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,Zumbilândia: Atire Duas Vezes (2019) LEG
-http://archive.org/download/1.doc_20191217_1814/r/5/11.doc.mp4
-#EXTINF:-1,          --- WitflixBR ---
-http://archive.org/download/witflixloop/FILMES/witflixacao.mp3
-
-#EXTM3U
-#EXTINF:-1,           --- WitflixBR ---
-http://archive.org/download/witflixloop/FILMES/witflixaventura.mp3
-#EXTINF:-1,A Caminho de Casa (OFF)
-http://witflixbr.000webhostapp.com/filmes/acaminhodecasa-dub-480p.mp4
-#EXTINF:-1,Alfa (2018)
-http://archive.org/download/OExterminadorDoFuturo/Alfa_480p.mp4
-#EXTINF:-1,Animais Fantasticos: Os Crimes de Grindelwald (OFF)
-http://witflixbr.000webhostapp.com/filmes/animaisfantasticoscrimesgrindelwald-dub-480p.mp4
-#EXTINF:-1,Aquaman (OFF)
-http://witflixbr.000webhostapp.com/filmes/aquamanhd-dub-480p.mp4
-#EXTINF:-1,As Aventuras do Dr. Dolittle
-http://master.eurytus.feralhosting.com/cdnespecial2/AsAventurasdoDrDolittle.mp4
-#EXTINF:-1,As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa (2005) (OFF)
-http://witflixbr.000webhostapp.com/filmes/cronicasdenarniaoleaoeafeiticeira-dub-480p.mp4
-#EXTINF:-1,Aves de Rapina (OFF)
-http://witflixbr.000webhostapp.com/filmes/avesderapina-dub-480p.mp4
-#EXTINF:-1,Bons Meninos (LEG)
-http://astraeus.witflixbr.cloudns.cl/ptplay/CDN1/bonsmeninosleg.mp4
-#EXTINF:-1,Capitã Marvel (2019)
-http://archive.org/download/0.doc/Rodrigo%20Machado/6.doc.mp4
-#EXTINF:-1,Capitã Marvel (2019) (OFF)
-http://witflixbr.000webhostapp.com/filmes/capitamarvel-dub-480p.mp4
-#EXTINF:-1,Christopher Robin - Um Reencontro Inesquecível (2018)
-http://ia601503.us.archive.org/13/items/kjsdhkuqwdkuqw/kjsdhkuqwdkuqw.mp4
+#EXTINF:-1,Blow the Man Down
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Blow.the.Man.Down.2020.MP4.DUB.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Blow the Man Down (LEG)
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Blow.the.Man.Down.2020.MP4.LEG.BaixarSeriesMP4.org.mp4
 #EXTINF:-1,Coração de Dragao: Vinganca
 http://smartapp.s3.us-east-2.stackpathstorage.com/token5484r/f/tt9711106.mp4
-#EXTINF:-1,Doces ou Travessuras
-http://kfilmes.club/Doces.ou.Travessuras.2019.720p.WEB-DL.x264-DUBLADO.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,Encolhi a Professora (OFF)
-http://witflixbr.000webhostapp.com/filmes/encolhiaprofessora-dub-480p.mp4
-#EXTINF:-1,Goosebumps 2 – Halloween Assombrado (OFF)
-http://witflixbr.000webhostapp.com/filmes/goosegumps2halloween-dub-480p.mp4
-#EXTINF:-1,Harry Potter e a Pedra Filosofal (2001)
-http://archive.org/download/2.doc_201909/Rafael%20Santos/4.doc.mp4
-#EXTINF:-1,Harry Potter e a Câmara Secreta (2002)
-http://archive.org/download/2.doc_201909/Rafael%20Santos/2.doc.mp4
-#EXTINF:-1,Harry Potter e o Prisioneiro de Azkaban (2004)
-http://archive.org/download/2.doc_201909/Rafael%20Santos/6.doc.mp4
-#EXTINF:-1,Harry Potter e o Cálice de Fogo (2005)
-http://archive.org/download/2.doc_201909/Rafael%20Santos/5.doc.mp4
-#EXTINF:-1,Harry Potter e a Ordem da Fênix (2007)
-http://archive.org/download/2.doc_201909/Rafael%20Santos/3.doc.mp4
-#EXTINF:-1,Harry Potter e o Enigma do Príncipe (2009) (OFF)
-http://witflixbr.000webhostapp.com/filmes/enigmadoprincipe-dub-480p.mp4
-#EXTINF:-1,Hellboy (2019)(LEG) (OFF)
-http://witflixbr.000webhostapp.com/filmes/hellboy-dub-480p.mp4
-#EXTINF:-1,Holmes & Watson
-http://witflixbr.000webhostapp.com/filmes/holmesewatson-dub-480p.mp4
-#EXTINF:-1,Homem-Aranha: Longe de Casa (2019)
-http://witflixbr.000webhostapp.com/filmes/homemaranhalongedecasa-dub-480p.mp4
-#EXTINF:-1,Homem-Formiga e a Vespa
-http://astraeus.witflixbr.cloudns.cl/ptplay2/FILMESSS/homemformigaevespa-dub-480p.mp4
-#EXTINF:-1,Homem-Formiga e a Vespa (Op2) (OFF)
-http://witflixbr.000webhostapp.com/filmes/homemformigaevespa-dub-480p.mp4
-#EXTINF:-1,Juntos Para Sempre (2019)(LEG)
-http://archive.org/download/4.doc_20190821/Andrew%20Costa/1.doc.mp4
-#EXTINF:-1,Liga da Justiça
-http://cinefilmesgr.agrius.feralhosting.com/ligadajustica.mp4
-#EXTINF:-1,Máquinas Mortais (2018)
-http://archive.org/download/AGaroNaNv.doc/MadMor.doc.mp4
-#EXTINF:-1,Máquinas Mortais (2018)(Op2)
-http://witflixbr.000webhostapp.com/filmes/corridasmortais-dub-480p.mp4
-#EXTINF:-1,Malévola: Dona do Mal (2019)
-http://archive.org/download/5.doc_202001/g/6/5.doc.mp4
-#EXTINF:-1,Malévola: Dona do Mal (2019)(Op2) (OFF)
-http://witflixbr.000webhostapp.com/filmes/malevoladonadomalts-dub-480p.mp4
-#EXTINF:-1,Malévola: Dona do Mal (2019) LEG
-http://archive.org/download/6.doc_20191230/h/5/3.doc.mp4
-#EXTINF:-1,Malévola: Dona do Mal (2019) (HDCAM)
-http://archive.org/download/2.doc_201911/2/3.doc.mp4
-#EXTINF:-1,Malévola: Dona do Mal (2019) (HDCAM)(Op2)
-http://witflixbr.000webhostapp.com/filmes/malevoladonadomalts-dub-480p.mp4
-#EXTINF:-1,MIB: Homens de Preto Internacional (2019) DUB
-http://archive.org/download/2.doc_201909/Rafael%20Santos/7.doc.mp4
-#EXTINF:-1,MIB: Homens de Preto Internacional (2019)(LEG)
-http://archive.org/download/7.doc_201908/Andre%20Pimenta/2.doc.mp4
-#EXTINF:-1,Natal no Palácio
-http://kfilmes.club/Natal.no.Palacio.2018.1080p.WEB-DL.x264-DUAL.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,O Escorpiao Rei (OFF)
-http://witflixbr.000webhostapp.com/filmes/oescorpiaorei-dub-480p.mp4
-#EXTINF:-1,O Escorpiao Rei 2: A Saga De Um Guerreiro (OFF)
-http://witflixbr.000webhostapp.com/filmes/oescorpiaorei2-dub-480p.mp4
-#EXTINF:-1,O Príncipe de Peoria e o Milagre de Natal
-http://kfilmes.club/O.Principe.de.Peoria.e.o.Milagre.de.Natal.2018.1080p.WEB-DL.DD5.1.x264-DUAL.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,O Retorno de Mary Poppins (OFF)
-http://witflixbr.000webhostapp.com/filmes/themarypoppinsreturn-dub-480p.mp4
-#EXTINF:-1,Os Goonies (1985)
-http://archive.org/download/omjcvy9rtq/omJCVy9R%40TQ.mp4
-#EXTINF:-1,Pantera Negra
-http://astraeus.witflixbr.cloudns.cl/ptplay2/FILMESSS/blackpanther-dub-480p.mp4
-#EXTINF:-1,Ponte para Terabítia (2007)
-http://ia601500.us.archive.org/2/items/aitibaretarapetnop/aitibaretarapetnop.mp4
-#EXTINF:-1,Sexta-Feira Muito Louca (OFF)
-http://witflixbr.000webhostapp.com/filmes/sextafeiramuitodoida-dub-480p.mp4
-#EXTINF:-1,Shazam (2019) (OFF)
-http://witflixbr.000webhostapp.com/filmes/shazam-dub-480p.mp4
-#EXTINF:-1,Sombras da Noite
-http://astraeus.witflixbr.cloudns.cl/ptplay2/FILMESSS/Sombras.da.Noite..mp4
-#EXTINF:-1,Sonic (LEG) (OFF)
-http://witflixbr.000webhostapp.com/filmes/sonic-leg-480p.mp4
-#EXTINF:-1,Thor (OFF)
-http://witflixbr.000webhostapp.com/filmes/thor-dub-480p.mp4
-#EXTINF:-1,Thor: O Mundo Sombrio (OFF)
-http://witflixbr.000webhostapp.com/filmes/thormundosombrio-dub-480p.mp4
-#EXTINF:-1,Thor: Ragnarok (OFF)
-http://witflixbr.000webhostapp.com/filmes/thorrag-dub-480p.mp4
-#EXTINF:-1,Totalmente Sem Rumo (OFF)
-http://witflixbr.000webhostapp.com/filmes/totalmentesemrumo-dub-480p.mp4
-#EXTINF:-1,Uma Dobra no Tempo (2018)
-http://archive.org/download/AFavorita.doc/UmaDobranoTempo.doc.mp4
-#EXTINF:-1,Uma Viagem Extraordinária
-http://kfilmes.club/Uma.Viagem.Extraordin%c3%a1ria.2014.720p.WEB-DL.x264.DUBLADO.WWW.COMANDOTORRENTS.COM.mp4
-#EXTINF:-1,Venom
-http://astraeus.witflixbr.cloudns.cl/ptplay2/FILMESSS/Venom.2018.MP4.DUB.BaixarSeriesMP4.org.mp4
-#EXTINF:-1,Venom (Op2) (OFF)
-http://witflixbr.000webhostapp.com/filmes/venom-dub-480p.mp4
-#EXTINF:-1,Vingadores: Guerra Infinita (2018)
-http://archive.org/download/5.doc_202001/g/6/6.doc.mp4
-#EXTINF:-1,Vingadores: Guerra Infinita (2018)(Op2) (OFF)
-http://witflixbr.000webhostapp.com/filmes/avengers2new-dub-480p.mp4
-#EXTINF:-1,Vingadores: Ultimato (2019)(LEG)
-http://archive.org/download/7.doc_201908/Andre%20Pimenta/4.doc.mp4
-#EXTINF:-1,Vingadores: Ultimato (2019)
-http://archive.org/download/7.doc_201908/Andre%20Pimenta/5.doc.mp4
-#EXTINF:-1,Vingadores: Ultimato (2019) (OFF)
-http://witflixbr.000webhostapp.com/filmes/avengersendgamenew-dub-480p.mp4
-#EXTINF:-1,Warcraft - O Primeiro Encontro de Dois Mundos (2016) (OFF)
-http://witflixbr.000webhostapp.com/filmes/warcraft-dub-480p.mp4
-#EXTINF:-1,Watchmen (2009)
-http://ia601502.us.archive.org/27/items/iiwnemhctaw/iiwnemhctaw.mp4
-#EXTINF:-1,X-Men: Apocalipse
-http://kfilmes.club/X-Men%20-%20Apocalipse%20720p%20(2016)%20Dual%20%c3%81udio%20BluRay%205.1%20--%20By%20-%20Lucas%20Firmo.mp4
-#EXTINF:-1,X-Men: Fenix Negra (2019)(HDCAM)
-http://archive.org/download/0.doc/Rodrigo%20Machado/7.doc.mp4
-#EXTINF:-1,X-Men: Fenix Negra (2019) (OFF)
-http://witflixbr.000webhostapp.com/filmes/xmenfenixnegrats-dub-360p.mp4
-#EXTINF:-1,           --- WitflixBR ---
-http://archive.org/download/witflixloop/FILMES/witflixaventura.mp3
+#EXTINF:-1,Curiosa
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Curiosa.2019.MP4.DUB.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Curiosa (LEG)
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Curiosa.2019.MP4.LEG.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Code 8
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Code.8.Renegados.2019.MP4.DUB.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Code 8 (LEG)
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Code.8.Renegados.2019.MP4.LEG.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Destacamento Blood
+http://smartapp.s3.us-east-2.stackpathstorage.com/token5484r/f/tt9777644.mp4
+#EXTINF:-1,Dragões: Equipe de Resgate - Em Busca do Dragão Dourado
+http://smartapp.s3.us-east-2.stackpathstorage.com/token5484r/f/tt11875456.mp4
+#EXTINF:-1,Entre Tempos
+http://storage.googleapis.com/apk-cine5g.appspot.com/filmes/Entre%20Tempos%20Legendado%20Online%20-%20Filmes%20Online%20Gr%c3%a1tis%20BR.mp4
+#EXTINF:-1,Fixies: Amigos Secretos
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Fixies.Amigos.Secretos.2017.MP4.DUB.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Force of Nature (LEG)
+http://smartapp.s3.us-east-2.stackpathstorage.com/token5484r/f/tt10308928LEG.mp4
+#EXTINF:-1,Lutando Pela Vida
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Lutando.Pela.Vida.2019.MP4.DUB.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Lutando Pela Vida (LEG)
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Lutando.Pela.Vida.2019.MP4.LEG.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Mortal Kombat Legends: Scorpion's Revenge (LEG)
+http://dionysus.witflixbr.cloudns.cl/CDN2/Mortal.Kombat.Legends.Scorpions.Revenge.2020.MP4.LEG.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,O Banqueiro
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/O.Banqueiro.2020.MP4.DUB.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,O Banqueiro (LEG)
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/O.Banqueiro.2020.MP4.LEG.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,O Exterminador do Futuro: Destino Sombrio (2019) (LEG)
+http://archive.org/download/20.doc_202001/b/7/13.doc.mp4
+#EXTINF:-1,Parasita (2019) (LEG)
+http://archive.org/download/20.doc_202001/b/7/6.doc.mp4
+#EXTINF:-1,SCOOBY! O Filme (LEG)
+http://archive.org/download/hust1.doc/hexas/hust1.doc.mp4
+#EXTINF:-1,Superman: Red Son
+http://epimetheus.witflixbr.cloudns.cl/Filmes/Superman.Red.Son.2020.MP4.LEG.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Ultras
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Ultras.2020.MP4.DUB.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Ultras (LEG)
+http://astraeus.witflixbr.cloudns.cl/ptplay/Filmes/Ultras.2020.MP4.LEG.BaixarSeriesMP4.org.mp4
+#EXTINF:-1,Viveiro
+http://smartapp.s3.us-east-2.stackpathstorage.com/token5484r/f/tt8368406.mp4
+#EXTINF:-1,          --- WitflixBR ---
+http://archive.org/download/witflixloop/FILMES/witflixlancamentos.mp3
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=" A Lenda da Ilha do Pó (Legendado)" tvg-logo="" group-title="Filme: Documentario", A Lenda da Ilha do Pó (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/52189.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" A Odisséia (Legendado)" tvg-logo="" group-title="Filme: Fantasia", A Odisséia (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/56051.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" A Ovelha Negra (Legendado)" tvg-logo="" group-title="Filme: Drama", A Ovelha Negra (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/56869.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" Em Busca da Vitória (Legendado)" tvg-logo="" group-title="Filme: Acao", Em Busca da Vitória (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/52125.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" Gotti: O Chefe da Máfia (Legendado)" tvg-logo="" group-title="Filme: Biografia", Gotti: O Chefe da Máfia (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/52193.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" Pânico na Neve (Legendado)" tvg-logo="" group-title="Filme: Suspense", Pânico na Neve (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/52200.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" Velozes & Furiosos: Hobbs & Shaw (Legendado)" tvg-logo="" group-title="Filme: Acao", Velozes & Furiosos: Hobbs & Shaw (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/52291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="...E o Vento Levou" tvg-logo="" group-title="Filme: Drama",...E o Vento Levou
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/43231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(A) Fronteira" tvg-logo="" group-title="Filme: Policial",(A) Fronteira
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/43603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(Des)Encontro Perfeito" tvg-logo="" group-title="Filme: Comedia Romantica",(Des)Encontro Perfeito
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/29263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="[Rec]" tvg-logo="" group-title="Filme: Terror",[Rec]
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#Captured" tvg-logo="" group-title="Filme: Drama",#Captured
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/29334.mp4
-#EXTINF:-1 tvg-id="" tvg-name="#Horror" tvg-logo="" group-title="Filme: Misterio",#Horror
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/29336.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 -  Na Mira dos Assassinos" tvg-logo="" group-title="Filme: Acao",007 -  Na Mira dos Assassinos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7100.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 -  O Espião que me Amava" tvg-logo="" group-title="Filme: Acao",007 -  O Espião que me Amava
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6127.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 -  Somente Para Seus Olhos" tvg-logo="" group-title="Filme: Acao",007 -  Somente Para Seus Olhos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - A Serviço Secreto de Sua Majestade" tvg-logo="" group-title="Filme: Acao",007 - A Serviço Secreto de Sua Majestade
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6031.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Cassino Royale" tvg-logo="" group-title="Filme: Acao",007 - Cassino Royale
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8350.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Com 007 Só Se Vive Duas Vezes" tvg-logo="" group-title="Filme: Acao",007 - Com 007 Só Se Vive Duas Vezes
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6030.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Com 007 Viva e Deixe Morrer" tvg-logo="" group-title="Filme: Acao",007 - Com 007 Viva e Deixe Morrer
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Contra a Chantagem Atômica" tvg-logo="" group-title="Filme: Acao",007 - Contra a Chantagem Atômica
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6029.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Contra GoldenEye" tvg-logo="" group-title="Filme: Acao",007 - Contra GoldenEye
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Contra Goldfinger" tvg-logo="" group-title="Filme: Acao",007 - Contra Goldfinger
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6028.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Contra o Foguete da Morte" tvg-logo="" group-title="Filme: Acao",007 - Contra o Foguete da Morte
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Contra o Homem com a Pistola de Ouro" tvg-logo="" group-title="Filme: Acao",007 - Contra o Homem com a Pistola de Ouro
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6126.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Contra o Satânico Dr. No" tvg-logo="" group-title="Filme: Acao",007 - Contra o Satânico Dr. No
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6026.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Contra Octopussy" tvg-logo="" group-title="Filme: Acao",007 - Contra Octopussy
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Contra Spectre" tvg-logo="" group-title="Filme: Acao",007 - Contra Spectre
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Marcado para Morrer" tvg-logo="" group-title="Filme: Acao",007 - Marcado para Morrer
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Moscou Contra 007" tvg-logo="" group-title="Filme: Acao",007 - Moscou Contra 007
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6027.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Nunca Mais Outra Vez" tvg-logo="" group-title="Filme: Acao",007 - Nunca Mais Outra Vez
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - O Amanhã Nunca Morre" tvg-logo="" group-title="Filme: Acao",007 - O Amanhã Nunca Morre
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - O Mundo Não é o Bastante" tvg-logo="" group-title="Filme: Acao",007 - O Mundo Não é o Bastante
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Operação Skyfall" tvg-logo="" group-title="Filme: Acao",007 - Operação Skyfall
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Os Diamantes São Eternos" tvg-logo="" group-title="Filme: Acao",007 - Os Diamantes São Eternos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Permissão Para Matar" tvg-logo="" group-title="Filme: Acao",007 - Permissão Para Matar
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Quantum of Solace" tvg-logo="" group-title="Filme: Acao",007 - Quantum of Solace
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/10130.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 - Um Novo Dia Para Morrer" tvg-logo="" group-title="Filme: Acao",007 - Um Novo Dia Para Morrer
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1 Tira e Meio" tvg-logo="" group-title="Filme: Comedia",1 Tira e Meio
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/18311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Anos de Pura Amizade" tvg-logo="" group-title="Filme: Comedia",10 Anos de Pura Amizade
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/41813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Coisas que Eu Odeio em Você" tvg-logo="" group-title="Filme: Comedia Romantica",10 Coisas que Eu Odeio em Você
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/38067.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Regras Para Um Relacionamento Aberto" tvg-logo="" group-title="Filme: Comedia Romantica",10 Regras Para Um Relacionamento Aberto
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/29254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Segundos Para Vencer" tvg-logo="" group-title="Filme: Nacional",10 Segundos Para Vencer
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/36517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10.000 A.C." tvg-logo="" group-title="Filme: Aventura",10.000 A.C.
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/10493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10.000 Anos Depois" tvg-logo="" group-title="Filme: Animacao",10.000 Anos Depois
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/11188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="100 metros" tvg-logo="" group-title="Filme: Comedia",100 metros
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="101 Dálmatas" tvg-logo="" group-title="Filme: Animacao",101 Dálmatas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="101 Dálmatas" tvg-logo="" group-title="Filme: Aventura",101 Dálmatas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/47014.mp4
-#EXTINF:-1 tvg-id="" tvg-name="101 Dálmatas 2 - A Aventura de Patch em Londres" tvg-logo="" group-title="Filme: Animacao",101 Dálmatas 2 - A Aventura de Patch em Londres
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10x10" tvg-logo="" group-title="Filme: Misterio",10x10
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/53965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10x10 (Legendado)" tvg-logo="" group-title="Filme: Suspense",10x10 (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/26723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Anos De Escravidão" tvg-logo="" group-title="Filme: Drama",12 Anos De Escravidão
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6050.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Heróis" tvg-logo="" group-title="Filme: Guerra",12 Heróis
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/18352.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Homens e Uma Sentença" tvg-logo="" group-title="Filme: Drama",12 Homens e Uma Sentença
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/50179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Horas" tvg-logo="" group-title="Filme: Misterio",12 Horas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/51637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Horas para Sobreviver - O Ano Da Eleição" tvg-logo="" group-title="Filme: Suspense",12 Horas para Sobreviver - O Ano Da Eleição
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/16724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Rounds" tvg-logo="" group-title="Filme: Acao",12 Rounds
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/11039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Rounds 3: Confinamento" tvg-logo="" group-title="Filme: Acao",12 Rounds 3: Confinamento
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/20709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="12 Rounds: Reloaded" tvg-logo="" group-title="Filme: Acao",12 Rounds: Reloaded
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/11040.mp4
-#EXTINF:-1 tvg-id="" tvg-name="127 Horas" tvg-logo="" group-title="Filme: Aventura",127 Horas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/44105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="127 Horas" tvg-logo="" group-title="Filme: Biografia",127 Horas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/10920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 - O Jogador" tvg-logo="" group-title="Filme: Acao",13 - O Jogador
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/27842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Assassinos" tvg-logo="" group-title="Filme: Acao",13 Assassinos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/27743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Cameras" tvg-logo="" group-title="Filme: Terror",13 Cameras
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Dias Que Abalaram o Mundo" tvg-logo="" group-title="Filme: Drama",13 Dias Que Abalaram o Mundo
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/36627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Fantasma" tvg-logo="" group-title="Filme: Terror",13 Fantasma
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/24291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 Horas: Os Soldados Secretos de Benghazi" tvg-logo="" group-title="Filme: Acao",13 Horas: Os Soldados Secretos de Benghazi
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13 minutos" tvg-logo="" group-title="Filme: Biografia",13 minutos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13º Andar" tvg-logo="" group-title="Filme: Fantasia",13º Andar
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="13º Distrito - Paul Walker" tvg-logo="" group-title="Filme: Acao",13º Distrito - Paul Walker
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="14 Espadas" tvg-logo="" group-title="Filme: Acao",14 Espadas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/44104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1408" tvg-logo="" group-title="Filme: Terror",1408
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="15 Minutos" tvg-logo="" group-title="Filme: Acao",15 Minutos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/33366.mp4
-#EXTINF:-1 tvg-id="" tvg-name="15 Minutos de Guerra" tvg-logo="" group-title="Filme: Acao",15 Minutos de Guerra
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/46113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="15h17 - Trem para Paris" tvg-logo="" group-title="Filme: Suspense",15h17 - Trem para Paris
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/20859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="16 Quadras" tvg-logo="" group-title="Filme: Policial",16 Quadras
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="17 Outra Vez" tvg-logo="" group-title="Filme: Comedia",17 Outra Vez
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/12137.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1911 - A Revolução" tvg-logo="" group-title="Filme: Guerra",1911 - A Revolução
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1922" tvg-logo="" group-title="Filme: Drama",1922
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/10373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1922 (Legendado)" tvg-logo="" group-title="Filme: Drama",1922 (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/10304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1941 - Uma Guerra Muito Louca" tvg-logo="" group-title="Filme: Comedia",1941 - Uma Guerra Muito Louca
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/16529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1964: O Brasil entre armas e livros" tvg-logo="" group-title="Filme: Nacional",1964: O Brasil entre armas e livros
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/42164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1968 Tunnel Rats" tvg-logo="" group-title="Filme: Guerra",1968 Tunnel Rats
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/43229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1985 (Legendado)" tvg-logo="" group-title="Filme: Drama",1985 (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/38318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1987: When the Day Comes (Legendado)" tvg-logo="" group-title="Filme: Drama",1987: When the Day Comes (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/30230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2 Coelhos" tvg-logo="" group-title="Filme: Nacional",2 Coelhos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/16666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2 Feet Deep (Legendado)" tvg-logo="" group-title="Filme: Misterio",2 Feet Deep (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2 Filhos de Francisco" tvg-logo="" group-title="Filme: Drama",2 Filhos de Francisco
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/36605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2:22 - Encontro Marcado" tvg-logo="" group-title="Filme: Acao",2:22 - Encontro Marcado
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="20 Anos Mais Jovem" tvg-logo="" group-title="Filme: Comedia Romantica",20 Anos Mais Jovem
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/33497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="20000 Léguas Submarinas" tvg-logo="" group-title="Filme: Aventura",20000 Léguas Submarinas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2001 - Uma Odisséia no Espaço" tvg-logo="" group-title="Filme: Ficcao",2001 - Uma Odisséia no Espaço
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/18099.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2001 Maníacos (Legendado)" tvg-logo="" group-title="Filme: Terror",2001 Maníacos (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/52119.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2012" tvg-logo="" group-title="Filme: Ficcao",2012
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2019 - O Ano da Extinção" tvg-logo="" group-title="Filme: Ficcao",2019 - O Ano da Extinção
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/18060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2035 - Dimensão Proibida" tvg-logo="" group-title="Filme: Ficcao",2035 - Dimensão Proibida
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="21 Gramas" tvg-logo="" group-title="Filme: Drama",21 Gramas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/36518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="2101 (Legendado)" tvg-logo="" group-title="Filme: Ficcao",2101 (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/38319.mp4
-#EXTINF:-1 tvg-id="" tvg-name="211 - O Grande Assalto" tvg-logo="" group-title="Filme: Acao",211 - O Grande Assalto
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/26835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 Balas" tvg-logo="" group-title="Filme: Policial",22 Balas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/19422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 de Julho" tvg-logo="" group-title="Filme: Biografia",22 de Julho
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/30907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 Milhas" tvg-logo="" group-title="Filme: Acao",22 Milhas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/34409.mp4
-#EXTINF:-1 tvg-id="" tvg-name="22 Minutos" tvg-logo="" group-title="Filme: Acao",22 Minutos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/47113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="24 Horas Para Sobreviver" tvg-logo="" group-title="Filme: Acao",24 Horas Para Sobreviver
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/20710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="28 Dias" tvg-logo="" group-title="Filme: Drama",28 Dias
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/30908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 A M - A Hora da Morte" tvg-logo="" group-title="Filme: Terror",3 A M - A Hora da Morte
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/16927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 Corações" tvg-logo="" group-title="Filme: Drama",3 Corações
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/49431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 Dias Para Matar" tvg-logo="" group-title="Filme: Acao",3 Dias Para Matar
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 Ninjas" tvg-logo="" group-title="Filme: Comedia",3 Ninjas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/55076.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 Pedidos" tvg-logo="" group-title="Filme: Drama",3 Pedidos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/50078.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3 Turcos & um Bebê" tvg-logo="" group-title="Filme: Comedia",3 Turcos & um Bebê
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/55080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite" tvg-logo="" group-title="Filme: Terror",30 Dias de Noite
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite" tvg-logo="" group-title="Filme: Terror",30 Dias de Noite
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/44856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Dias de Noite 2: Dias Sombrios" tvg-logo="" group-title="Filme: Terror",30 Dias de Noite 2: Dias Sombrios
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/44855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="30 Minutos ou Menos" tvg-logo="" group-title="Filme: Acao",30 Minutos ou Menos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="300" tvg-logo="" group-title="Filme: Acao",300
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="300: A Ascensão do Império" tvg-logo="" group-title="Filme: Acao",300: A Ascensão do Império
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5298.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3000 Milhas Para o Inferno" tvg-logo="" group-title="Filme: Acao",3000 Milhas Para o Inferno
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/33702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3096 Dias" tvg-logo="" group-title="Filme: Drama",3096 Dias
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/48767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="3096 Dias" tvg-logo="" group-title="Filme: Drama",3096 Dias
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/20711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="31: A Morte é a Única Saída" tvg-logo="" group-title="Filme: Terror",31: A Morte é a Única Saída
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/9615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="4 Latas" tvg-logo="" group-title="Filme: Drama",4 Latas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/47675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="40 Dias e Noites" tvg-logo="" group-title="Filme: Ficcao",40 Dias e Noites
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/49956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="400 Contra 1: Uma História do Crime Organizado" tvg-logo="" group-title="Filme: Nacional",400 Contra 1: Uma História do Crime Organizado
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/32132.mp4
-#EXTINF:-1 tvg-id="" tvg-name="400 Dias" tvg-logo="" group-title="Filme: Ficcao",400 Dias
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/15149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="407 O Vôo das Trevas" tvg-logo="" group-title="Filme: Terror",407 O Vôo das Trevas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/48904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="42 - A História De Uma Lenda" tvg-logo="" group-title="Filme: Biografia",42 - A História De Uma Lenda
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/16688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="45 Dias Sem Você" tvg-logo="" group-title="Filme: Nacional",45 Dias Sem Você
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/47502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="47 Ronins" tvg-logo="" group-title="Filme: Acao",47 Ronins
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="48 Horas" tvg-logo="" group-title="Filme: Acao",48 Horas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="48 Horas: Parte 2" tvg-logo="" group-title="Filme: Policial",48 Horas: Parte 2
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/49017.mp4
-#EXTINF:-1 tvg-id="" tvg-name="5 Contos de Loucura" tvg-logo="" group-title="Filme: Comedia",5 Contos de Loucura
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/9614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="5 Dias de Guerra" tvg-logo="" group-title="Filme: Guerra",5 Dias de Guerra
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/45214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="50 Para 1" tvg-logo="" group-title="Filme: Biografia",50 Para 1
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="500 Dias com Ela" tvg-logo="" group-title="Filme: Comedia Romantica",500 Dias com Ela
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/32900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="55 Passos (Legendado)" tvg-logo="" group-title="Filme: Biografia",55 Passos (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/33370.mp4
-#EXTINF:-1 tvg-id="" tvg-name="5th Passenger (Legendado)" tvg-logo="" group-title="Filme: Ficcao",5th Passenger (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Balas" tvg-logo="" group-title="Filme: Acao",6 Balas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Balões" tvg-logo="" group-title="Filme: Drama",6 Balões
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Dias" tvg-logo="" group-title="Filme: Acao",6 Dias
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/12224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="60 Minutos para Morrer" tvg-logo="" group-title="Filme: Terror",60 Minutos para Morrer
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="60 Segundos" tvg-logo="" group-title="Filme: Acao",60 Segundos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="684: Unidade de Combate" tvg-logo="" group-title="Filme: Acao",684: Unidade de Combate
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Años" tvg-logo="" group-title="Filme: Policial",7 Años
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/16723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Desejos" tvg-logo="" group-title="Filme: Terror",7 Desejos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/9170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Desejos (Legendado)" tvg-logo="" group-title="Filme: Terror",7 Desejos (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/9171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Minutos" tvg-logo="" group-title="Filme: Policial",7 Minutos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/50402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Splinters in Time (Legendado)" tvg-logo="" group-title="Filme: Ficcao",7 Splinters in Time (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/27125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="71: Esquecido em Belfast" tvg-logo="" group-title="Filme: Acao",71: Esquecido em Belfast
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="72 Horas" tvg-logo="" group-title="Filme: Acao",72 Horas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="8 Mile - Rua das Ilusões" tvg-logo="" group-title="Filme: Drama",8 Mile - Rua das Ilusões
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="8mm: Oito Milímetros" tvg-logo="" group-title="Filme: Misterio",8mm: Oito Milímetros
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/41436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="9 - A Salvação" tvg-logo="" group-title="Filme: Animacao",9 - A Salvação
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7327.mp4
-#EXTINF:-1 tvg-id="" tvg-name="90 Minutos No Paraíso" tvg-logo="" group-title="Filme: Drama",90 Minutos No Paraíso
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/34788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="96 Minutos" tvg-logo="" group-title="Filme: Drama",96 Minutos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="99 Casas" tvg-logo="" group-title="Filme: Drama",99 Casas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/16928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A 100 Passos de Um Sonho" tvg-logo="" group-title="Filme: Drama",A 100 Passos de Um Sonho
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/48682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A 13ª Emenda" tvg-logo="" group-title="Filme: Documentario",A 13ª Emenda
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/9723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A 5ª Onda" tvg-logo="" group-title="Filme: Ficcao",A 5ª Onda
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Abelha Maya: O Filme" tvg-logo="" group-title="Filme: Animacao",A Abelha Maya: O Filme
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/10864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Abelhinha Maya: O Filme" tvg-logo="" group-title="Filme: Animacao",A Abelhinha Maya: O Filme
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/24833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Acompanhante" tvg-logo="" group-title="Filme: Comedia",A Acompanhante
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/38843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Águia da Legião Perdida" tvg-logo="" group-title="Filme: Aventura",A Águia da Legião Perdida
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/10536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ameaça" tvg-logo="" group-title="Filme: Terror",A Ameaça
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/34402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Anomalia" tvg-logo="" group-title="Filme: Acao",A Anomalia
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Aparência (Legendado)" tvg-logo="" group-title="Filme: Misterio",A Aparência (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37360.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Aparição" tvg-logo="" group-title="Filme: Terror",A Aparição
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/48683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arma Perfeita" tvg-logo="" group-title="Filme: Acao",A Arma Perfeita
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arqueira" tvg-logo="" group-title="Filme: Acao",A Arqueira
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/52350.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arte da Paixão" tvg-logo="" group-title="Filme: Romance",A Arte da Paixão
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/12979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Arte de Amar (Legendado)" tvg-logo="" group-title="Filme: Biografia",A Arte de Amar (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/30239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Árvore da Maldição" tvg-logo="" group-title="Filme: Terror",A Árvore da Maldição
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Árvore da Vida" tvg-logo="" group-title="Filme: Fantasia",A Árvore da Vida
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/11225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Autópsia" tvg-logo="" group-title="Filme: Terror",A Autópsia
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Babá" tvg-logo="" group-title="Filme: Comedia",A Babá
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Babá" tvg-logo="" group-title="Filme: Fantasia",A Babá
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/42393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Babá Tem Que Morrer" tvg-logo="" group-title="Filme: Suspense",A Babá Tem Que Morrer
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/30909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bailarina" tvg-logo="" group-title="Filme: Animacao",A Bailarina
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1357.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Balada de Adam Henry (Legendado)" tvg-logo="" group-title="Filme: Drama",A Balada de Adam Henry (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Balada de Buster Scruggs" tvg-logo="" group-title="Filme: Comedia",A Balada de Buster Scruggs
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/33940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Balada do Pistoleiro" tvg-logo="" group-title="Filme: Faroeste",A Balada do Pistoleiro
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/22485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo" tvg-logo="" group-title="Filme: Comedia Romantica",A Barraca do Beijo
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/19946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha de Riddick" tvg-logo="" group-title="Filme: Acao",A Batalha de Riddick
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/10537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha do Ano" tvg-logo="" group-title="Filme: Drama",A Batalha do Ano
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/49959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha Marítima" tvg-logo="" group-title="Filme: Ficcao",A Batalha Marítima
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/48424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha na Montanha do Tigre" tvg-logo="" group-title="Filme: Aventura",A Batalha na Montanha do Tigre
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha Pelo Planeta dos Macacos" tvg-logo="" group-title="Filme: Ficcao",A Batalha Pelo Planeta dos Macacos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/10720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Beira do Abismo" tvg-logo="" group-title="Filme: Drama",À Beira do Abismo
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/18839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Beira do Caminho" tvg-logo="" group-title="Filme: Nacional",À Beira do Caminho
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/48492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Beira Mar" tvg-logo="" group-title="Filme: Drama",À Beira Mar
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/49694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela Adormecida" tvg-logo="" group-title="Filme: Animacao",A Bela Adormecida
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera" tvg-logo="" group-title="Filme: Fantasia",A Bela e a Fera
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/2431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e A Fera - O Natal Encantado" tvg-logo="" group-title="Filme: Animacao",A Bela e A Fera - O Natal Encantado
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (1991)" tvg-logo="" group-title="Filme: Animacao",A Bela e a Fera (1991)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bela e a Fera (2014)" tvg-logo="" group-title="Filme: Fantasia",A Bela e a Fera (2014)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Better Tomorrow (Legendado)" tvg-logo="" group-title="Filme: Acao",A Better Tomorrow (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/39364.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bíblia... No Início" tvg-logo="" group-title="Filme: Drama",A Bíblia... No Início
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/47822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Boa Mentira" tvg-logo="" group-title="Filme: Drama",A Boa Mentira
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bolha Assassina" tvg-logo="" group-title="Filme: Ficcao",A Bolha Assassina
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/53293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Boneca do Mal" tvg-logo="" group-title="Filme: Terror",A Boneca do Mal
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/40583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Boneca que Virou Gente 2" tvg-logo="" group-title="Filme: Comedia",A Boneca que Virou Gente 2
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/51411.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Boneca que Virou Gente 2 (Legendado)" tvg-logo="" group-title="Filme: Comedia",A Boneca que Virou Gente 2 (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/51396.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruma Assassina" tvg-logo="" group-title="Filme: Terror",A Bruma Assassina
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruxa" tvg-logo="" group-title="Filme: Terror",A Bruxa
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/9628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruxa de Blair" tvg-logo="" group-title="Filme: Misterio",A Bruxa de Blair
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/54958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bruxa do Cabelo Branco do Reino Lunar" tvg-logo="" group-title="Filme: Fantasia",A Bruxa do Cabelo Branco do Reino Lunar
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/11266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Busca" tvg-logo="" group-title="Filme: Nacional",A Busca
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/42812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Busca pela Justiça (Legendado)" tvg-logo="" group-title="Filme: Drama",A Busca pela Justiça (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/31522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bússola de Ouro" tvg-logo="" group-title="Filme: Aventura",A Bússola de Ouro
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/10721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cabana" tvg-logo="" group-title="Filme: Drama",A Cabana
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cabana da Morte" tvg-logo="" group-title="Filme: Terror",A Cabana da Morte
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/28342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caça" tvg-logo="" group-title="Filme: Drama",A Caça
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8284.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caixa" tvg-logo="" group-title="Filme: Misterio",A Caixa
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/33202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caixinha de Surpresas" tvg-logo="" group-title="Filme: Animacao",A Caixinha de Surpresas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho da Fé" tvg-logo="" group-title="Filme: Drama",A Caminho da Fé
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/19009.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho de Casa" tvg-logo="" group-title="Filme: Aventura",A Caminho de Casa
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/41814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Desconhecido" tvg-logo="" group-title="Filme: Ficcao",A Caminho do Desconhecido
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/16854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Canção do Oceano" tvg-logo="" group-title="Filme: Animacao",A Canção do Oceano
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Canção do Sul" tvg-logo="" group-title="Filme: Animacao",A Canção do Sul
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Carga" tvg-logo="" group-title="Filme: Drama",A Carga
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/47890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cartada Final" tvg-logo="" group-title="Filme: Acao",A Cartada Final
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/48417.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Amaldiçoada" tvg-logo="" group-title="Filme: Fantasia",A Casa Amaldiçoada
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/23869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa ao Lado (Legendado)" tvg-logo="" group-title="Filme: Terror",A Casa ao Lado (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/19419.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Assombrada" tvg-logo="" group-title="Filme: Terror",A Casa Assombrada
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/56790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Caiu: Um Cassino na Vizinhança" tvg-logo="" group-title="Filme: Comedia",A Casa Caiu: Um Cassino na Vizinhança
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/8391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa da Colina" tvg-logo="" group-title="Filme: Misterio",A Casa da Colina
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/9939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa de Cera" tvg-logo="" group-title="Filme: Terror",A Casa de Cera
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa de Vidro" tvg-logo="" group-title="Filme: Suspense",A Casa de Vidro
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/56791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Fim dos Tempos" tvg-logo="" group-title="Filme: Misterio",A Casa do Fim dos Tempos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/42813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Lago" tvg-logo="" group-title="Filme: Romance",A Casa do Lago
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/11270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Medo" tvg-logo="" group-title="Filme: Terror",A Casa do Medo
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/33194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Medo: Incidente em Ghostland" tvg-logo="" group-title="Filme: Terror",A Casa do Medo: Incidente em Ghostland
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/38154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Medo: Incidente em Ghostland (Legendado)" tvg-logo="" group-title="Filme: Terror",A Casa do Medo: Incidente em Ghostland (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/38170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa do Silêncio" tvg-logo="" group-title="Filme: Suspense",A Casa do Silêncio
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/29330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa dos 1000 Corpos" tvg-logo="" group-title="Filme: Terror",A Casa dos 1000 Corpos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/48905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa dos 200 Demônios (Legendado)" tvg-logo="" group-title="Filme: Documentario",A Casa dos 200 Demônios (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/24931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa dos Fins dos Tempos" tvg-logo="" group-title="Filme: Terror",A Casa dos Fins dos Tempos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14112.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa dos Sonhos" tvg-logo="" group-title="Filme: Suspense",A Casa dos Sonhos
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/33343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Maligna" tvg-logo="" group-title="Filme: Terror",A Casa Maligna
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/50420.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Maluca" tvg-logo="" group-title="Filme: Comedia",A Casa Maluca
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/13949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Monstro" tvg-logo="" group-title="Filme: Animacao",A Casa Monstro
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7330.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Casa Que Jack Construiu (Legendado)" tvg-logo="" group-title="Filme: Suspense",A Casa Que Jack Construiu (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caverna" tvg-logo="" group-title="Filme: Terror",A Caverna
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/11093.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caverna: Perigo Subterrâneo" tvg-logo="" group-title="Filme: Aventura",A Caverna: Perigo Subterrâneo
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/34580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cela" tvg-logo="" group-title="Filme: Ficcao",A Cela
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/41447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chance" tvg-logo="" group-title="Filme: Drama",A Chance
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/46746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chantagem" tvg-logo="" group-title="Filme: Misterio",A Chantagem
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/9941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chave Mágica" tvg-logo="" group-title="Filme: Aventura",A Chave Mágica
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/39353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chave Mestra" tvg-logo="" group-title="Filme: Terror",A Chave Mestra
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/30215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chefa" tvg-logo="" group-title="Filme: Comedia",A Chefa
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/34581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Chegada" tvg-logo="" group-title="Filme: Ficcao",A Chegada
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1358.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cilada" tvg-logo="" group-title="Filme: Suspense",A Cilada
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/16717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cilada (2000)" tvg-logo="" group-title="Filme: Acao",A Cilada (2000)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/19010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cinco Passos de Você" tvg-logo="" group-title="Filme: Romance",A Cinco Passos de Você
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/46374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Coisa" tvg-logo="" group-title="Filme: Terror",A Coisa
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Coleção Invisível" tvg-logo="" group-title="Filme: Nacional",A Coleção Invisível
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/37433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colheita da Fé" tvg-logo="" group-title="Filme: Religioso",A Colheita da Fé
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/16923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colina Escarlate" tvg-logo="" group-title="Filme: Terror",A Colina Escarlate
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colmeia" tvg-logo="" group-title="Filme: Terror",A Colmeia
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/34418.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colônia" tvg-logo="" group-title="Filme: Acao",A Colônia
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/12032.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colônia (2013)" tvg-logo="" group-title="Filme: Ficcao",A Colônia (2013)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/47534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Comédia Divina" tvg-logo="" group-title="Filme: Nacional",A Comédia Divina
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Confissão" tvg-logo="" group-title="Filme: Drama",A Confissão
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/55077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Conquista da Honra" tvg-logo="" group-title="Filme: Guerra",A Conquista da Honra
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/9994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Conquista do império" tvg-logo="" group-title="Filme: Acao",A Conquista do império
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/39401.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Conspiração da Vaca: O Segredo da Sustentabilidade" tvg-logo="" group-title="Filme: Documentario",A Conspiração da Vaca: O Segredo da Sustentabilidade
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/40350.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Convocação" tvg-logo="" group-title="Filme: Misterio",A Convocação
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/44547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Copa do Peru" tvg-logo="" group-title="Filme: Comedia",A Copa do Peru
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/53274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cor Púrpura" tvg-logo="" group-title="Filme: Drama",A Cor Púrpura
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/38129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Corrente do Bem" tvg-logo="" group-title="Filme: Drama",A Corrente do Bem
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/31095.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Corrida da Superação" tvg-logo="" group-title="Filme: Drama",A Corrida da Superação
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/44549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Creche do Papai" tvg-logo="" group-title="Filme: Comedia",A Creche do Papai
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/47823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Criada" tvg-logo="" group-title="Filme: Drama",A Criada
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/41240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Criada" tvg-logo="" group-title="Filme: Drama",A Criada
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Criança Escondida" tvg-logo="" group-title="Filme: Suspense",A Criança Escondida
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/18057.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Criatura" tvg-logo="" group-title="Filme: Terror",A Criatura
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/55304.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Criatura do Cemitério" tvg-logo="" group-title="Filme: Terror",A Criatura do Cemitério
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/38124.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Criatura Sombria" tvg-logo="" group-title="Filme: Terror",A Criatura Sombria
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/30910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Culpa e das Estrelas" tvg-logo="" group-title="Filme: Romance",A Culpa e das Estrelas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/2433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Culpa Não É do Carma" tvg-logo="" group-title="Filme: Comedia",A Culpa Não É do Carma
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/23433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura" tvg-logo="" group-title="Filme: Misterio",A Cura
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cura (2017)" tvg-logo="" group-title="Filme: Drama",A Cura (2017)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/38251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama de Vermelho" tvg-logo="" group-title="Filme: Comedia",A Dama de Vermelho
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama do Espelho: O Ritual das Trevas" tvg-logo="" group-title="Filme: Terror",A Dama do Espelho: O Ritual das Trevas
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14089.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama Dourada" tvg-logo="" group-title="Filme: Drama",A Dama Dourada
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/50353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama E O Vagabundo" tvg-logo="" group-title="Filme: Animacao",A Dama E O Vagabundo
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama e o Vagabundo (Legendado)" tvg-logo="" group-title="Filme: Aventura",A Dama e o Vagabundo (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/56897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama E O Vagabundo 2 - As Aventuras De Banzé" tvg-logo="" group-title="Filme: Animacao",A Dama E O Vagabundo 2 - As Aventuras De Banzé
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dama na Água" tvg-logo="" group-title="Filme: Comedia",A Dama na Água
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/11267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Datilógrafa" tvg-logo="" group-title="Filme: Comedia",A Datilógrafa
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/48115.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Descoberta" tvg-logo="" group-title="Filme: Ficcao",A Descoberta
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Deusa da Vingança" tvg-logo="" group-title="Filme: Terror",A Deusa da Vingança
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Ditadura Perfeita" tvg-logo="" group-title="Filme: Drama",A Ditadura Perfeita
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/40952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dupla Explosiva" tvg-logo="" group-title="Filme: Comedia",A Dupla Explosiva
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/18105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Encruzilhada" tvg-logo="" group-title="Filme: Romance",A Encruzilhada
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/22682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Enfermeira" tvg-logo="" group-title="Filme: Terror",A Enfermeira
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/6410.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Entidade" tvg-logo="" group-title="Filme: Terror",A Entidade
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Entidade 2" tvg-logo="" group-title="Filme: Terror",A Entidade 2
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/46170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Entrevista" tvg-logo="" group-title="Filme: Comedia",A Entrevista
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Epidemia" tvg-logo="" group-title="Filme: Terror",A Epidemia
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/50422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Epidemia Zumbi" tvg-logo="" group-title="Filme: Terror",A Epidemia Zumbi
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/34795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era da Escuridão" tvg-logo="" group-title="Filme: Acao",A Era da Escuridão
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo" tvg-logo="" group-title="Filme: Animacao",A Era do Gelo
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 2" tvg-logo="" group-title="Filme: Animacao",A Era do Gelo 2
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 3" tvg-logo="" group-title="Filme: Animacao",A Era do Gelo 3
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 4" tvg-logo="" group-title="Filme: Animacao",A Era do Gelo 4
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 5" tvg-logo="" group-title="Filme: Animacao",A Era do Gelo 5
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escala: Amizade em Segundo Lugar" tvg-logo="" group-title="Filme: Comedia",A Escala: Amizade em Segundo Lugar
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/21956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escalada" tvg-logo="" group-title="Filme: Comedia",A Escalada
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14087.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escola da Vida" tvg-logo="" group-title="Filme: Comedia Romantica",A Escola da Vida
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/52351.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escolha" tvg-logo="" group-title="Filme: Drama",A Escolha
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/4928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita" tvg-logo="" group-title="Filme: Comedia",A Escolha Perfeita
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita 2" tvg-logo="" group-title="Filme: Comedia",A Escolha Perfeita 2
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/5644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escolha Perfeita 3" tvg-logo="" group-title="Filme: Comedia",A Escolha Perfeita 3
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escuridão" tvg-logo="" group-title="Filme: Terror",A Escuridão
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/15249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espada da Vingança" tvg-logo="" group-title="Filme: Acao",A Espada da Vingança
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/17559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espada do Imortal" tvg-logo="" group-title="Filme: Acao",A Espada do Imortal
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/14668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espada do Imortal (Legendado)" tvg-logo="" group-title="Filme: Acao",A Espada do Imortal (Legendado)
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/52188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espada Era a Lei" tvg-logo="" group-title="Filme: Animacao",A Espada Era a Lei
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Espera de um Milagre" tvg-logo="" group-title="Filme: Policial",À Espera de um Milagre
-http://list.deeplist.nl/movie/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/7559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espiã que Sabia de Menos" tvg-logo="" group-title="Filme: Comedia",A Espiã que Sabia de Menos
-http://list.deeplis
-
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Troco em Dobro
+http://aranami.lhmtv.gq/filmes/Troco%20em%20Dobro%20Legendado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Ultras
+http://aranami.lhmtv.gq/filmes/Ultras%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Devorar
+http://aranami.lhmtv.gq/filmes/Devorar%20Legendado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Fuga de Pretoria
+ 
+http://aranami.lhmtv.gq/filmes/Fuga%20de%20Pret%C3%B3ria%20Legendado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Lost Girls
+http://aranami.lhmtv.gq/filmes/Lost%20Girls%20-%20Os%20Crimes%20de%20Long%20Island%20Dublado%20Online%20-%20Filmes.mp4?LHMTv
+ 
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Aprendiz de Espiao
+http://aranami.lhmtv.gq/filmes/Aprendiz%20de%20Espi%C3%A3%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Banqueiro
+http://aranami.lhmtv.gq/filmes/O%20Banqueiro%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+ 
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Poco
+http://aranami.lhmtv.gq/filmes/O%20Po%C3%A7o%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+ 
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Paginas da Morte
+ 
+http://aranami.lhmtv.gq/filmes/P%C3%A1ginas%20da%20Morte%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Wendy
+ 
+http://aranami.lhmtv.gq/filmes/Wendy%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Ilha dos Silvos
+ 
+http://aranami.lhmtv.gq/filmes/A%20Ilha%20dos%20Silvos%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis%20BR.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,O Chamado da Floresta
+ 
+http://aranami.lhmtv.gq/filmes/O%20Chamado%20da%20Floresta%20Dublado%20Online%20-%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Friends Who Kill
+http://aranami.lhmtv.gq/filmes/Friends%20Who%20Kill%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
+ 
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Sacrifice
+http://aranami.lhmtv.gq/filmes/Sacrifice%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Maria e Joao O Conto das Bruxas
+ 
+http://aranami.lhmtv.gq/filmes/Maria%20e%20Jo%C3%A3o%20-%20O%20Conto%20das%20Bruxas%20Dublado%20Online%20-%20HD%20Filmes.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,A Chance de Fahim
+ 
+http://aranami.lhmtv.gq/filmes/A%20Chance%20de%20Fahim%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Psycho Party Planner
+ 
+http://aranami.lhmtv.gq/filmes/Psycho%20Party%20Planner%20Dublado%20Online%20-%20HD%20Filmes%20Online.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Speed of Life
+ 
+http://aranami.lhmtv.gq/filmes/Speed%20of%20Life%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
+ 
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="Filmes" ,Alone
+http://aranami.lhmtv.gq/filmes/Alone%20Dublado%20Online%20-%20HD%20Filmes%20Online%20Gr%C3%A1tis.mp4?LHMTv
