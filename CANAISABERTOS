@@ -1,0 +1,30 @@
+#EXTM3U
+ 
+##############################################################CANAL ABERTO#############################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL ABERTO",[COLOR yellow]» » » » CANAL ABERTO « « « «[/COLOR]
+http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="CANAL ABERTO", BAND
+http://hvod.imirun.net:8080/bandsp/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-logo="https://i.imgur.com/0vosBrB.png" group-title="CANAL ABERTO", GLOBO NORDESTE
+http://hvod.imirun.net:8080/GloboNordeste/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://i.imgur.com/pIhECwP.png?1" group-title="CANAL ABERTO", GLOBO RJ
+https://cdnfe1.azureedge.net/hls1/boborj.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="Globo SP" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL ABERTO", GLOBO SP
+https://cdnfe1.azureedge.net/hls1/bobosp.m3u8|Referer=http://www.cometa.top
+ 
+ 
+#EXTINF:-1 tvg-id="SBT HD" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", SBT
+http://hvod.imirun.net:8080/SBTHD/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="RecordSD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO", RECORD SP
+http://hvod.imirun.net:8080/RecordSPHD/index.m3u8
