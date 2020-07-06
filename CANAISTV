@@ -541,3 +541,272 @@ https://cdnfe1.azureedge.net/hls1/comedycentral.m3u8|Referer=http://www.cometa.t
  
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="https://i.imgur.com/kW6fqKD.png?1" group-title="VARIEDADES", MULTISHOW
 http://hvod.imirun.net:8080/Multishow/index.m3u8
+
+
+#EXTM3U
+ 
+##############################################################CANAL ABERTO#############################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAL ABERTO",[B][COLOR yellow]» » » » CANAL ABERTO « « « «[/COLOR][/B]
+http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/band.png" group-title="CANAL ABERTO",[B]BAND SP[/B]
+http://proxyts.ec.cx:8082/hls1/band.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globo.png" group-title="CANAL ABERTO",[B]GLOBO NORDESTE[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/bobonordeste.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globorj.png" group-title="CANAL ABERTO",[B]GLOBO RJ[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/boborj.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globosp.png" group-title="CANAL ABERTO",[B]GLOBO SP[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/bobosp.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbt.png" group-title="CANAL ABERTO",[B]SBT[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/sbt.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/record.png" group-title="CANAL ABERTO",[B]RECORD SP[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/hls1/recordsp.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+############################################################DOCUMENTARIOS##############################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTARIOS",[B][COLOR yellow]» » » » DOCUMENTARIOS HD « « « «[/COLOR][/B]
+http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/animalplanet.png" group-title="DOCUMENTARIOS",[B]ANIMAL PLANET[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/animalplanet.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/curta.png" group-title="DOCUMENTARIOS",[B]CURTA![/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/curta.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverychannel.png" group-title="DOCUMENTARIOS",[B]DISCOVERY CHANNEL[/B]
+http://proxyts.ec.cx:8082/hls1/discovery.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverycivilization.png" group-title="DOCUMENTARIOS",[B]DISCOVERY CIVILIZATION[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/discoverycivilization.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryscience.png" group-title="DOCUMENTARIOS",[B]DISCOVERY SCIENCE[/B]
+http://proxyts.ec.cx:8082/hls1/discoveryscience.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png" group-title="DOCUMENTARIOS",[B]DISCOVERY THEATER[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/discoverytheater.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryworld.png" group-title="DOCUMENTARIOS",[B]DISCOVERY WORLD[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/discoveryworld.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/history.png" group-title="DOCUMENTARIOS",[B]HISTORY[/B]
+http://proxyts.ec.cx:8082/hls1/history.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/h2.png" group-title="DOCUMENTARIOS",[B]H2[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/history2.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/natgeo.png" group-title="DOCUMENTARIOS",[B]NATIONAL GEOGRAPHIC[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/natgeo.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/natgeowild.png" group-title="DOCUMENTARIOS",[B]NAT GEO WILD[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/natgeowild.m3u8|Referer=http://www.cometa.top
+ 
+###########################################################ESPORTES####################################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ESPORTES HD",[B][COLOR yellow]» » » » ESPORTES HD « « « «[/COLOR][/B]
+ http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="ESPORTES HD",[B]BAND SPORTS[/B]
+http://proxyts.ec.cx:8082/hls1/bandsports.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="ESPORTES HD",[B]COMBATE[/B]
+http://proxyts.ec.cx:8082/hls1/combate.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryturbo.png" group-title="ESPORTES HD",[B]DISCOVERY TURBO[/B]
+http://proxyts.ec.cx:8082/hls1/discoveryturbo.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" group-title="ESPORTES HD",[B]EI TNT[/B]
+http://proxyts.ec.cx:8082/hls1/tnt.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn.png" group-title="ESPORTES HD",[B]ESPN[/B]
+http://proxyts.ec.cx:8082/hls1/espn.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espn2.png" group-title="ESPORTES HD",[B]ESPN 2[/B]
+http://proxyts.ec.cx:8082/hls1/espn2.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnextra.png" group-title="ESPORTES HD",[B]ESPN EXTRA[/B]
+http://proxyts.ec.cx:8082/hls1/espnextra.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/espnbrasil.png" group-title="ESPORTES HD",[B]ESPN BRASIL[/B]
+http://proxyts.ec.cx:8082/hls1/espnbrasil.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsports.png" group-title="ESPORTES HD",[B]FOX SPORTS 1[/B]
+http://proxyts.ec.cx:8082/hls1/foxsports1.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxsports2.png" group-title="ESPORTES HD",[B]FOX SPORTS 2[/B]
+http://proxyts.ec.cx:8082/hls1/foxsports2.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/2CRNQmV" group-title="ESPORTES HD",[B]SPORTV 1[/B]
+http://proxyts.ec.cx:8082/hls1/sportv1.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="ESPORTES HD",[B]SPORTV 2[/B]
+http://proxyts.ec.cx:8082/hls1/sportv2.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="ESPORTES HD",[B]SPORTV 3[/B]
+http://proxyts.ec.cx:8082/hls1/sportv3.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+############################################################INFANTIL###################################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL HD",[B][COLOR yellow]» » » » INFANTIL HD « « « «[/COLOR][/B]
+ http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/boomerang.png" group-title="INFANTIL HD",[B]BOOMERANG[/B]
+http://proxyts.ec.cx:8082/hls1/boomerang.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/cartoonnetwork.png" group-title="INFANTIL HD",[B]CARTOON NETWORK[/B]
+http://proxyts.ec.cx:8082/hls1/cartoon.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverykids.png" group-title="INFANTIL HD",[B]DISCOVERY KIDS[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/hls1/discoverykids.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/disney.png" group-title="INFANTIL HD",[B]DISNEY CHANNEL[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/disney.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://bit.ly/36SqpHG" group-title="INFANTIL HD",[B]DISNEY JR[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/disneyjunior.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/disneyxd.png" group-title="INFANTIL HD",[B]DISNEY XD[/B]
+https://d3m4uoez6geori.cloudfront.net/hls1/disneyxd.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/gloob.png" group-title="INFANTIL HD",[B]GLOOB[/B]
+https://awsclo.azureedge.net/hls1/gloob.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/natgeokids.png" group-title="INFANTIL HD",[B]NAT GEO KIDS[/B]
+https://awsclo.azureedge.net/hls1/natgeokids.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/nickelodeon.png" group-title="INFANTIL HD",[B]NICK[/B]
+https://awsclo.azureedge.net/hls1/nick.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/nickjr.png" group-title="INFANTIL HD",[B]NICK JR[/B]
+https://awsclo.azureedge.net/hls1/nickjr.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="INFANTIL HD",[B]TOONCAST[/B]
+https://awsclo.azureedge.net/hls1/tooncast.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+###########################################################PREMIERE####################################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PREMIERE",[B][COLOR yellow]» » » » PREMIERE « « « «[/COLOR][/B]
+ http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE CLUBES 1[/B]
+http://proxyts.ec.cx:8082/hls1/premiereclubes.m3u8|Referer=https://l.llllllllllllllllllllllllllllllllllllllll.fun/player3/contadorcanais.php?canal=User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE CLUBES 2[/B]
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;use_proxy_for_chunks=True&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=0&amp;proxy=None&amp;callbackparam=&amp;url=http://data.m2pj.ml:25461/savio0627/12345678/29604&amp;swf=None&amp;auth=&amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE CLUBES 3[/B]
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://data.m2pj.ml:25461/savio0627/12345678/29867&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE CLUBES 4[/B]
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://painel.ebanonet.com.br:25461/suely/suely/11563%09&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE CLUBES 5[/B]
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://painel.ebanonet.com.br:25461/suely/suely/6082%09&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE CLUBES 6[/B]
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://playfull.ddns.net:80/rodrigomontreal/rodrigomontreal1/3815&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE CLUBES 7[/B]
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://oiplay.tvsbr.me:80/12345678/12345678/34020&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE CLUBES 8[/B]
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=HLSRETRY&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://oiplay.tvsbr.me:80/live/12345678/12345678/34020.m3u8&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE CLUBES SD[/B]
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=TSDOWNLOADER&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://iptvhit.live/ftv/gs0EHop84A/Nkx1Cm3DyN/194&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE CLUBES SD 2[/B]
+Plugin://plugin.video.f4mTester/?http://127.0.0.1:55333/callbackpath=&amp;amp;use_proxy_for_chunks=True&amp;amp;streamtype=HLSRETRY&amp;amp;maxbitrate=0&amp;amp;proxy=None&amp;amp;callbackparam=&amp;amp;url=http://oiplay.tvsbr.me:80/live/12345678/12345678/34025.m3u8&amp;amp;swf=None&amp;amp;auth=&amp;amp;simpledownloader=False
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE 2[/B]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere2.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE 3[/B]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere3.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE 4[/B]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere4.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE 5[/B]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere5.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE 6[/B]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere6.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="PREMIERE",[B]PREMIERE 7[/B]
+https://d2lp5sf6fdaodz.cloudfront.net/hls1/premiere7.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+###########################################################VARIEDADES##################################################################
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIEDADES",[B][COLOR yellow]» » » » VARIEDADES « « « «[/COLOR][/B]
+ http://ignorename
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/comedycentral.png" group-title="VARIEDADES",[B]COMEDY CENTRAL[/B]
+https://awsclo.azureedge.net/hls1/comedycentral.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
+ 
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="VARIEDADES",[B]MULTISHOW[/B]
+https://awsclo.azureedge.net/hls1/multishow.m3u8|Referer=https://canaisgratis.org/player3/canais.php|User-Agent=Mozilla/5.0
