@@ -1,10 +1,11 @@
-<item> <title>[B][COLOR yellow]O SEGREDO DA CABANA [/COLOR][COLOR white]- 2012[/COLOR][COLOR yellow] HD[/COLOR][COLOR lime] - DUBLADO[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=https://drive.google.com/file/d/1FU-nmOYQgNi2EE2G1IOVTs946mbeuVdD/view</link> 
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIEL1a454QEdpZRxVcZtC9ws2ea.jpg</thumbnail> 
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mUjLt8b7dKbLHiaVBpSp7AUJXfn.jpg</fanart> 
-<info>Quando eles descobrem que o velho dono do local mantém uma menina trancada no porão, decidem libertá-la. A partir daí eles passam a viver uma aterrorizante sequência de acontecimentos e descobrem que cometeram um terrível erro, a inocente menina que libertaram era na verdade um antigo espírito do mal, que jamais poderia ser libertada.</info>
+<title>[B][COLOR yellow]O SEGREDO DA CABANA [/COLOR][COLOR white]- 2012[/COLOR][COLOR yellow] HD[/COLOR][COLOR lime] - DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FU-nmOYQgNi2EE2G1IOVTs946mbeuVdD/view</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Cinco amigos vão passar um feriado em uma cabana nas montanhas. Lá descobrem um diário antigo no porão, que começam a ler. Aos poucos eles acreditam estar cercados pelo sobrenatural, mas em breve vão entender que há muito mais acontecendo.</info>
 <genre></genre>
-</item>
+</item>=</link> 
+
 
 <item> <title>[B][COLOR yellow]A AMALDICOADA [/COLOR][COLOR white]- 2013[/COLOR][COLOR yellow] HD[/COLOR][COLOR lime] - DUBLADO[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=U6jn81tOMo4</link> 
