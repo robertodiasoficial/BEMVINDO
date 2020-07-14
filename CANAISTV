@@ -1,317 +1,320 @@
-#EXTINF:0 tvg-logo="https://i.imgur.com/qAEDvwY.jpg" group-title="ATUALIZAÇÕES DO DIA",A Forma da Água - DUB
-https://www.googleapis.com/drive/v3/files/1JMsCSCuAJMNxcGzWNcdiFJjIciR_eGq5?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx5mHbs77nEl1kuhEyvEjT1wtFl.jpg" group-title="ATUALIZAÇÕES DO DIA",Pantera Negra
-http://link4.ntcdn.us/lanadelrey/movies/panteranegra-dub-720p.mp4?cdn_hash=6a8b11e6d25aebf95747c075edcd8717&cdn_creation_time=1521319835&cdn_ttl=14440
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//t3M7PW2skoitpWVu7i4GiepGkK1.jpg" group-title="ATUALIZAÇÕES DO DIA",Passado Roubado
-https://www.googleapis.com/drive/v3/files/1dPHmmyoY9wAPAobeY2q6lAVKkmzwyHdY?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnXaUxdKD2t1B74cutWA5rjBLgD.jpg" group-title="ATUALIZAÇÕES DO DIA",Paddington 2
-https://www.googleapis.com/drive/v3/files/1ulKjnQQ5CaWrjCqqZKUtpTa0UGlG0-r0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
-
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//sUDg8k9T677DEGNDpsyANZTYAji.jpg" group-title="ATUALIZAÇÕES DO DIA",Pequena Grande Vida
-https://www.googleapis.com/drive/v3/files/1uU3HvcLghMD8rEupmnAIf1zsxWeygjFk?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , A&E @ 
-http://hvod.imirun.net:8080/A&E-HD/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AXN @
-http://hvod.imirun.net:8080/AXN-HD/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , AMC @
-http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
-http://hvod.imirun.net:8080/AMC-HD/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ANIMAL PLANET @
-http://playback.imirun.net:8080//AnimalPlanet-HD/tracks-v1a1/mono.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ARTE 1 @
-http://hvod.imirun.net:8080/Arte1-hd/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND @
-http://hvod.imirun.net:8080/BANDHD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND SPORTS @
-http://hvod.imirun.net:8080/Band-Sports-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BAND NEWS @
-http://hvod.imirun.net:8080/Band-News-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BIS @
-http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , BOOMERANG @ 
-http://playback.imirun.net:8080//Boomerang-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CARTON NETWORK @ 
-http://playback.imirun.net:8080//CartoonNetwork-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , COMBATE @
-http://hvod.imirun.net:8080/Combate-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , CINEMAX @
-http://playback.imirun.net:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,COMEDY CENTRAL @
-http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,DISCOVERY CIVILIZATION @
-http://playback.imirun.net:8080//DiscoveryCivilization-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY CHANNEL @
-http://playback.imirun.net:8080//DiscoveryChannel/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY H&H @
-http://playback.imirun.net:8080//DiscoveryH&H-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY kIDS @
-http://playback.imirun.net:8080//DiscoveryKids-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY SCIENCE @
-http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY THEATHER @
-http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY TURBO @
-http://playback.imirun.net:8080//DiscoveryTurbo/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY world @
-http://playback.imirun.net:8080//DiscoveryWorldHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY CHANNEL @
-http://playback.imirun.net:8080//DisneyChannelHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , DISCOVERY JUNIOR @
-http://playback.imirun.net:8080//DisneyJunior-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , E! @
-http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN + @
-http://hvod.imirun.net:8080/ESPN+/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN BRASIL @
-http://hvod.imirun.net:8080/ESPN-Brasil-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ESPN  @
-http://hvod.imirun.net:8080/ESPN/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , Food NETWORK  @
-http://playback.imirun.net:8080//FoodNetworkHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIFE TIME @
-http://playback.imirun.net:8080/Lifetime-HD/tracks-v1a1/mono.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX premium 1 
-http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX premium 2
-http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  FOX @
-http://hvod.imirun.net:8080/FOX-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FX @
-http://hvod.imirun.net:8080/FX-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX ESPORT @
-http://hvod.imirun.net:8080/Fox-Sports-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX sports 2
-http://hvod.imirun.net:8080/Fox-Sports-2-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOX CHANNEL @
-http://hvod.imirun.net:8080/FOX-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,Globo NORDESTE @
-http://hvod.imirun.net:8080/GloboNordeste/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,Globo SP @
-http://hvod.imirun.net:8080/GloboSPHD23/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOBO NEWS @
-http://playback.imirun.net:8080/Globo-News-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GLOOB @
-http://hvod.imirun.net:8080/Gloob-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , GNT @
-http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , H2 @
-http://playback.imirun.net:8080//H2-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , History CHANNEL @
-http://playback.imirun.net:8080//HistoryChannel_HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO 2 @
-http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO @
-http://hvod.imirun.net:8080/HBO-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , HBO FAMILY @
-http://playback.imirun.net:8080//HBO-Family-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , ID  @
-http://playback.imirun.net:8080//InvestigacaoDiscoveryHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , LIFE TIME @
-http://playback.imirun.net:8080//Lifetime-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , max up @
-http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , max PRIME @
-http://playback.imirun.net:8080//MaxPrime*eHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MEGA PIX @
-http://hvod.imirun.net:8080/MegapixHD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MULTI SHOW @
-http://hvod.imirun.net:8080/Multishow/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NATIONAL GEOGRAPHIC @
-http://hvod.imirun.net:8080/National-Geographic-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , NAt GEO WILD @
-http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MTV @
-http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , MULTI SHOW @
-http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , OFF @
-http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER CLUBE
-http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER CLUBE HD
-http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 2 @
-http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 3 @
-http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 4 @
-http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 5 @
-http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PREMIER 6 @
-http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  PARAMOUNT @
-http://hvod.imirun.net:8080/ParamountHD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RECORD NEWS @
-http://hvod.imirun.net:8080/Record-News-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT @
-http://hvod.imirun.net:8080/TNT-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RECORD SP @
-http://hvod.imirun.net:8080/RecordSPHD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  REDE TV @
-http://hvod.imirun.net:8080/REDETVHD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  REDE VIDA @
-http://playback.imirun.net:8080//RedeVida/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  RIT @
-http://playback.imirun.net:8080//RIT/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SYFY @
-http://hvod.imirun.net:8080/SyFyHD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SBT @
-http://hvod.imirun.net:8080/SBTHD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , STUDIO UNIVERSAL @
-http://playback.imirun.net:8080//StudioUniversalHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV @
-http://hvod.imirun.net:8080/SporTV-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV 2 @
-http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPORTV 3 @
-http://hvod.imirun.net:8080/SporTV-2-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SPACE @
-http://hvod.imirun.net:8080/SpaceHD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , SONY @
-http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TBS @
-http://playback.imirun.net:8080//TBSHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE ACTION @
-http://playback.imirun.net:8080//TelecineActionHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE PIPOCA @
-http://playback.imirun.net:8080//TelecinePipocaHD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE CULT @
-http://playback.imirun.net:8080//TelecineCult/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE FUN @
-http://playback.imirun.net:8080//Telecine-Fun-HD/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE PREMIUM  @
-http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , STUDIO UNIVERSAL  @
-http://playback.imirun.net:8080//StudioUniversal/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TELECINE TOUCH  @
-http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TLC @
-http://playback.imirun.net:8080//TLC/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TNT @
-http://hvod.imirun.net:8080/TNT-HD/index.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TCM @
-http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  TBS @
-http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
-#EXTm3u
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TV GAZETA @
-http://playback.imirun.net:8080//TVGazeta/tracks-v1a1/mono.m3u8
-#EXTm3u
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TNT SERIES @
-http://playback.imirun.net:8080//TNTSeries/tracks-v1a1/mono.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  VIVA @
-http://playback.imirun.net:8080//VIVA/tracks-v1a1/mono.m3u8
-#EXTm3u
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,WOOHOO @
-http://playback.imirun.net:8080//Woohoo/tracks-v1a1/mono.m3u8
-#EXTm3u
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,WARNNER CHANNEL @
-http://hvod.imirun.net:8080/Warner-Channel-HD/index.m3u8
-
-#EXTm3u
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,ZOOMOO @
-http://playback.imirun.net:8080//Zoomoo/tracks-v1a1/mono.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | TV ABERTA", ** CANAIS | TV ABERTA **
+http://127.0.0.6
+ 
+#EXTINF:-1 tvg-ID="BAN" tvg-logo="https://i.imgur.com/rk7HO8y.jpg" group-title="CANAIS | TV ABERTA", Band (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=b4da5da411e26e12eb67fd6ee859bbea&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="GRJ" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="CANAIS | TV ABERTA", Globo RJ (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=03216f09b3eef08f8dd7e082d359de29&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="REC" tvg-logo="https://i.imgur.com/EQoGp6e.jpg" group-title="CANAIS | TV ABERTA", Record TV (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=df904cfb957dc1ecef89910c27684c37&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="SBT" tvg-logo="https://i.imgur.com/AY3ujXa.jpg" group-title="CANAIS | TV ABERTA", SBT (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=90af0e0660fa17a03fdac812cd9c2dd1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="RTV" tvg-logo="https://i.imgur.com/nsisrT6.jpg" group-title="CANAIS | TV ABERTA", Rede TV (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=0a80635c993598daeb853eab1b0a4fb7&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/pmzSz8v.jpg" group-title="CANAIS | TV ABERTA", TV Camara (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=f75b05debbae528dc017efc1cfcb0f15&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="CUL" tvg-logo="https://i.imgur.com/uugRo9z.jpg" group-title="CANAIS | TV ABERTA", TV Cultura (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=ec0c870d6d6e61b75215b6f3c4116000&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/rIp4OdP.jpg" group-title="CANAIS | TV ABERTA", TV Justiça (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=37d3dc8546d6c95f3b00c5c4220843a0&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/e3fPxX4.jpg" group-title="CANAIS | TV ABERTA", TV Senado (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=9d7cfca73358a25e5061c4eaf314b836&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="FUT" tvg-logo="https://i.imgur.com/iOoWKng.jpg" group-title="CANAIS | TV ABERTA", Futura (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=fecf1e8d3ba583d395ad4d3778858b75&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+===============================================================================================================
+ 
+#EXTINF:-1 tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | FILMES & SÉRIES", ** CANAIS | FILMES & SÉRIES **
+http://127.0.0.7
+ 
+#EXTINF:-1 tvg-ID="MDO" tvg-logo="https://i.imgur.com/q7qEiay.jpg" group-title="CANAIS | FILMES & SÉRIES", A&E (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=e120a7537d7010774508ac8749a163fc&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="AMC" tvg-logo="https://i.imgur.com/MjIRIDs.jpg" group-title="CANAIS | FILMES & SÉRIES", AMC (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=e426a9e1845f366dcb5989f925c12201&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="AXH" tvg-logo="https://i.imgur.com/hZRzyq6.jpg" group-title="CANAIS | FILMES & SÉRIES", AXN (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=6973309b8041f52cd749d028c357ba36&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="MNX" tvg-logo="https://i.imgur.com/1UjkL1F.jpg" group-title="CANAIS | FILMES & SÉRIES", Cinemax (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=11d0113d9d894914d86191dddad6c5fe&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="FOX" tvg-logo="https://i.imgur.com/fA8hj5R.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=2d342a570e1ede6eda94ca934241fbd9&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="FLI" tvg-logo="https://i.imgur.com/Q6PSlmh.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX Life (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=1bc919eb6476b8db92ed0db14aba8d9b&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="FXP" tvg-logo="https://i.imgur.com/WKsZQ8y.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX Premium 1 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=1282126ee22d500b8f2fffa9254abc4f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="FX2" tvg-logo="https://i.imgur.com/rlgpAAe.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX Premium 2 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=bf7f1adfc1c1a2c3ff23167722dfd3a9&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="CFX" tvg-logo="https://i.imgur.com/z8y9oOV.jpg" group-title="CANAIS | FILMES & SÉRIES", FX (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=3e8a31f49b3c5392ce417e9205c6f4cb&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="HBO" tvg-logo="https://i.imgur.com/jLsyz6j.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=d4e0996385e630e23f9927f61fc0cdb3&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="HB2" tvg-logo="https://i.imgur.com/VUTD55l.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO 2 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=53db85b4343a86f09a2e85d63c5517b1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="HFA" tvg-logo="https://i.imgur.com/5q4jsHZ.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO Family (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=53ffda7acfc6a2f59319b26bae131bbc&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="HBP" tvg-logo="https://i.imgur.com/CSYVbKG.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO Plus (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=d017c0a263189223aac3fcfc10b63579&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="HFE" tvg-logo="https://i.imgur.com/yCmP71z.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO Signature (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=33bd3c71444c7631db78c41e1a3cbdc0&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="MXE" tvg-logo="https://i.imgur.com/qZd9dJm.jpg" group-title="CANAIS | FILMES & SÉRIES", MAX (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=72919889b80ee07c00c89aa7d3423380&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="MAP" tvg-logo="https://i.imgur.com/K1IAoGY.jpg" group-title="CANAIS | FILMES & SÉRIES", MAX Prime (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=2d873fa498faf1baaa876571c6d78474&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="MUP" tvg-logo="https://i.imgur.com/ld6sm2e.jpg" group-title="CANAIS | FILMES & SÉRIES", MAX UP (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=9c0f2adf6456fa7a0a1cc328cf1d1202&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="SPA" tvg-logo="https://i.imgur.com/PkFRxnM.jpg" group-title="CANAIS | FILMES & SÉRIES", Space (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=a6c5ab742f9ee61b67ecc7de59221356&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="SCI" tvg-logo="https://i.imgur.com/rXNClfR.jpg" group-title="CANAIS | FILMES & SÉRIES", Syfy (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=91e951c064462373649820ace75c7827&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="TNH" tvg-logo="https://i.imgur.com/4DVxGf7.jpg" group-title="CANAIS | FILMES & SÉRIES", TNT (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=2beddfcf02d86f287b4993e957cd18f1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="TNS" tvg-logo="https://i.imgur.com/ntD0xQm.jpg" group-title="CANAIS | FILMES & SÉRIES", TNT Séries (faustinoTV)
+http://faustinotv.tk/redir.php?acesso=bc85b5f06ee625eecf9b1cf3c3ee4c6f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="TCM" tvg-logo="https://i.imgur.com/C10C18R.jpg" group-title="CANAIS | FILMES & SÉRIES", TCM (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=aa997ef4e3fcd7621a934d63c5dcaddc&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="TC2" tvg-logo="http://faustinotv.tk/img/telecineaction.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Action (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=1dd7633a69df741d74a40c6b12b96b96&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="TC5" tvg-logo="http://faustinotv.tk/img/telecinecult.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Cult (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=91311c0eabba36086103a357499af10e&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="TC6" tvg-logo="http://faustinotv.tk/img/telecinefun.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Fun (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=2408ca157a4161b2af16a0a63e4b4dc4&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="TC4" tvg-logo="http://faustinotv.tk/img/telecinepipoca.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Pipoca (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=0a3a5af8573ceab8c77d0b0d4752674f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="TC1" tvg-logo="http://faustinotv.tk/img/telecinepremium.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Premium (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=1572a6c953efb7322ff66a6dd1d45b0e&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="TC3" tvg-logo="http://faustinotv.tk/img/telecinetouch.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Touch (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=d32fc38865735a37ad6c18578946dd19&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="PRM" tvg-logo="https://i.imgur.com/uRBKnGr.jpg" group-title="CANAIS | FILMES & SÉRIES", Paramount (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=bb2de9d286af5eaf257af5b98e2e3a29&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="HAL" tvg-logo="https://i.imgur.com/JunovvC.jpg" group-title="CANAIS | FILMES & SÉRIES", Studio Universal (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=72546170c8f2cd0e7bcd2a4081de3314&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="WBT" tvg-logo="https://i.imgur.com/axfVBDL.jpg" group-title="CANAIS | FILMES & SÉRIES", Warner Channel (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=f74162683771d7c69ae82389357ea7c8&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+===============================================================================================================
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="Https://i.upimg.com/ryh7NniSX" group-title="CANAIS | DOCUMENTARIOS", ** CANAIS | DOCUMENTARIOS **
+http://127.0.0.8
+ 
+#EXTINF:-1 tvg-ID="APL" tvg-logo="https://i.imgur.com/81BajK1.jpg" group-title="CANAIS | DOCUMENTARIOS", Animal Planet (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=c8c1a0eb9b0397624eb2759e11205404&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="DIS" tvg-logo="https://i.imgur.com/4kx4Xws.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery Channel (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=28886a331855c326022a6e45be36be6e&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="DCI" tvg-logo="https://i.imgur.com/Nea2IhW.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery Civilization (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=12456bc3431db0111cceba0b80ca1cd4&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="HEA" tvg-logo="https://i.imgur.com/upkaXwm.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery H&H (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=7bc98c1275defdd74687298cbb76de43&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="DSC" tvg-logo="https://i.imgur.com/5UT8hKj.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery Science (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=b0d48cefa2fc370f68171dc94869cf8a&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="DHD" tvg-logo="https://i.imgur.com/s3JSMK9.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery Theater (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=d5cda41fdb98c74ba31d19b126b1ac44&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="DTU" tvg-logo="https://i.imgur.com/nvBsyUt.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery Turbo (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=bf9759e2b0ab9d241bef129397b6c930&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="DWD" tvg-logo="https://i.imgur.com/hwQDJRU.jpg" group-title="CANAIS | DOCUMENTARIOS", Discovery World (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=b393cbf3c59b968c88fad4a02d0e847e&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/vIO9BUi.jpg" group-title="CANAIS | DOCUMENTARIOS", H2 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=d26f07cbf627cce44195bb28b84915d5&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="HIH" tvg-logo="https://i.imgur.com/bqK2dKz.jpg" group-title="CANAIS | DOCUMENTARIOS", History (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=bc3216dd44479854cd0d6321789caf42&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="LIV" tvg-logo="https://i.imgur.com/SrXd4OB.jpg" group-title="CANAIS | DOCUMENTARIOS", Investigação Discovery (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=1e7b9db04af444efc217cef5d9c383ea&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="NGH" tvg-logo="https://i.imgur.com/6kxdPRO.jpg" group-title="CANAIS | DOCUMENTARIOS", NatGeo Wild (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=14812e4473d32c3993f51c37d9e22c87&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="SUP" tvg-logo="https://i.imgur.com/rVBdRzV.jpg" group-title="CANAIS | DOCUMENTARIOS", National Geographic (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=62b7d37783f68a604fc479d431deaa8b&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/NwwmsTy.jpg" group-title="CANAIS | DOCUMENTARIOS", TLC (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=c84153de0940ce7b4e360f0b7bab4068&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+===============================================================================================================
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="Https://i.upimg.com/ryh7NniSX" group-title="CANAIS | ESPORTES", ** CANAIS | ESPORTES **
+http://127.0.0.9
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/G7KKspx.jpg" group-title="CANAIS | ESPORTES", Band Sports (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=b3f8cb80bb0a1f20276a8f1c9bb8f0eb&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/Eaqygw9.jpg" group-title="CANAIS | ESPORTES", Combate (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=852a64e8fc6b03e61f626f8db2aed110&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/M1cloRm.jpg" group-title="CANAIS | ESPORTES", ESPN 2 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=e8e8712909e2d913327fa3da083d819b&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="ESB" tvg-logo="https://i.imgur.com/OsF1IWP.jpg" group-title="CANAIS | ESPORTES", ESPN Brasil (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=eb5e8f12429edc9e2dfd10cbe46383e8&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/wVtSd7P.jpg" group-title="CANAIS | ESPORTES", ESPN Extra (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=662e1ddeb469758bbc0faa0f843ccddf&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="FSP" tvg-logo="https://i.imgur.com/Bde7Q23.jpg" group-title="CANAIS | ESPORTES", FOX Sports (faustinoTV)
+http://faustinotv.tk/redir.php?acesso=f42ffced94f426d11f8ff1a30de0c6a7&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="FS2" tvg-logo="https://i.imgur.com/HiTzQCR.jpg" group-title="CANAIS | ESPORTES", FOX Sports 2 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=185f6920f1955f47e1fb6858678b3ab8&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="SPO" tvg-logo="https://i.imgur.com/IJWaE9S.jpg" group-title="CANAIS | ESPORTES", SporTV (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=906c4edbf006140f2154590de011acf7&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="SP2" tvg-logo="https://i.imgur.com/TWG3L62.jpg" group-title="CANAIS | ESPORTES", SporTV 2 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=02283cc3bcbf34677dc09ad462d6ffb1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="SP3" tvg-logo="https://i.imgur.com/BgmMgmY.jpg" group-title="CANAIS | ESPORTES", SporTV 3 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=ef3f9a90399d85941023fc2b50235cab&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+===============================================================================================================
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | PREMIERE", ** CANAIS | PREMIERE **
+http://127.0.0.10
+ 
+#EXTINF:-1 tvg-ID="121" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere Clubes (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=eab4b5053b78790a4eddf0af07ce7533&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="122" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 2 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=9ba8d327eb907fb7f0e5467cf093fbe1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="123" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 3 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=d9d036b6510a0727349364b834651ca5&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="124" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 4 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=17d0903732076f341a9c1a39cd79fcfe&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="125" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 5 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=bd746744ce41c098e77f25c8cd813531&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="126" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 6 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=26ce936223bfe5cd2878ed95a6e180be&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="127" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 7 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=8908f221e6490a3b6386a26685f2c67f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="128" tvg-logo="https://i.imgur.com/rZjCUuU.jpg" group-title="CANAIS | PREMIERE", Premiere 8 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=dcd7bd4e34189fc4da271fad6e595dff&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+===============================================================================================================
+ 
+#EXTINF:-1 tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | KIDS", ** CANAIS | KIDS **
+http://127.0.0.11
+ 
+#EXTINF:-1 tvg-ID="BAB" tvg-logo="https://i.imgur.com/g2mRHj5.jpg" group-title="CANAIS | KIDS", Baby TV (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=f8e02446ffcf8e7d258da145e69518f8&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="BMG" tvg-logo="https://i.imgur.com/ExQtCbB.jpg" group-title="CANAIS | KIDS", Boomerang (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=f5fd38d732a878487f7fefdeb338ded6&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="CAR" tvg-logo="https://i.imgur.com/3YGBn05.jpg" group-title="CANAIS | KIDS", Cartoon Network (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=96e631c69c4feb8a314a772ecb77afa4&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="DNH" tvg-logo="https://i.imgur.com/DgP43KX.jpg" group-title="CANAIS | KIDS", Disney Channel (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=b8aadfcbc1a65e8818206d438ddfb6de&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="PHD" tvg-logo="https://i.imgur.com/gUUnrE2.jpg" group-title="CANAIS | KIDS", Disney JR. (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=fe59cfdb2919c04ae852bb61002df6a4&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="DXD" tvg-logo="https://i.imgur.com/CS1imJ2.jpg" group-title="CANAIS | KIDS", Disney XD (FaustinoTV
+http://faustinotv.tk/redir.php?acesso=3346fc4e266d2263f9fd20ac50a8337c&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="GOB" tvg-logo="https://i.imgur.com/Q6jFJsf.jpg" group-title="CANAIS | KIDS", Gloob (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=aa825bf3c0b25f75c2621cb4dddc2753&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="NJR" tvg-logo="https://i.imgur.com/WBUAv5q.jpg" group-title="CANAIS | KIDS", Nick JR. (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=ef857adfcbcc796d4e7a25cf93c16074&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="NIC" tvg-logo="https://i.imgur.com/bhvxLAM.png" group-title="CANAIS | KIDS", Nickelodeon (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=c6e59c104e4cb005444cdaad8783be1a&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="TOC" tvg-logo="https://i.imgur.com/grRAhl7.jpg" group-title="CANAIS | KIDS", Tooncast (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=82153c4808fd1f1b77363a89cb88f96d&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+===============================================================================================================
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | VARIEDADES", ** CANAIS | VARIEDADES **
+http://127.0.0.12
+ 
+#EXTINF:-1 tvg-ID="BQ5" tvg-logo="https://i.imgur.com/N9aCPxv.jpg" group-title="CANAIS | VARIEDADES", Arte 1 (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=bcd91076bc1fedb0243001062e959575&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="CCE" tvg-logo="https://i.imgur.com/rsRwcNd.jpg" group-title="CANAIS | VARIEDADES", Comedy Central (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=8730a65dde4ab0920986fd0b4efad944&usuario=e502ab55bf692e9bf08e33a30b9b7c61|User-Agent=NetunuPlayer/2.0
+ 
+#EXTINF:-1 tvg-ID="MSH" tvg-logo="https://i.imgur.com/1LVPD3C.jpg" group-title="CANAIS | VARIEDADES", BIS (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=b4da8167a285ec9b3d045369446a6112&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/aZYK3jA.jpg" group-title="CANAIS | VARIEDADES", Curta (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=e1f332ee8d6ee02793db50a0f20ba22c&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="MTV" tvg-logo="https://i.imgur.com/RH5E3vn.jpg" group-title="CANAIS | VARIEDADES", MTV (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=5968a971df8d849c29eeec6082b3dc81&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="MSW" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="CANAIS | VARIEDADES", Multishow (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=9954a8a45e44483b1ccfb5b6b3086e9c&usuario=53d61b8c8083ffc76f76f6a70f88cb79
+ 
+#EXTINF:-1 tvg-ID="MTH" tvg-logo="https://i.imgur.com/kYsJEyZ.jpg" group-title="CANAIS | VARIEDADES", VH1 Megahist (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=84593eb27487835d3438adc262580ed7&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+===============================================================================================================
+ 
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | NOTÍCIAS", *** CANAIS | NOTÍCIAS ***
+http://127.0.0.13
+ 
+#EXTINF:-1 tvg-ID="NEW" tvg-logo="https://i.imgur.com/tw7bpts.jpg" group-title="CANAIS | NOTÍCIAS", Band News (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=9a4d52624337ac23abe6373db363f6d2&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="GLN" tvg-logo="https://i.imgur.com/ed1vuNc.jpg" group-title="CANAIS | NOTÍCIAS", Globo News (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=4beb32c53c5c141fe39e7d47862d7c8b&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+ 
+#EXTINF:-1 tvg-ID="RCN" tvg-logo="https://i.imgur.com/wgt9r5S.jpg" group-title="CANAIS | NOTÍCIAS", Record News (FaustinoTV)
+http://faustinotv.tk/redir.php?acesso=e38a71e4ff0b9fd67af5765c41a40184&usuario=e502ab55bf692e9bf08e33a30b9b7c61
