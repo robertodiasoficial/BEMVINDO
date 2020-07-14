@@ -1,11 +1,4 @@
-<item>
-<title>[B][COLOR yellow]A ERA DO GELO 2 [/COLOR][COLOR white]- 2006[/COLOR][COLOR yellow] HD[/COLOR][COLOR lime] - DUBLADO[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ah2Wdgs0lQ3cgakRMAayMiNGCwYdfZFX/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikhU4KSoE6lihqWVGgSNkYemfvT.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/5oZK7HyK5jXA5XEq3tjZsjOMHNd.jpg</fanart>
-<info></info>
-<genre></genre>
-</item>
+
 
 <item>
 <title>[B][COLOR yellow]A ERA DO GELO 2 [/COLOR][COLOR white]- 2006[/COLOR][COLOR yellow] HD[/COLOR][COLOR lime] - DUBLADO[/COLOR][/B]</title>
@@ -382,5 +375,14 @@
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DnmmpThvdY1PrOAJoL3rDEI4el.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/9foQsz7j1o2pGCKFGkzlxJteE5W.jpg</fanart>
 <info>Quatro irmãos com pais egoístas fazem um plano para se livrar deles de uma vez por todas e formar a família que desejam.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B][COLOR yellow]FROZEN 2 [/COLOR][COLOR white]- 2019[/COLOR][COLOR yellow] HD[/COLOR][COLOR lime] - DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NOSpfCIKv5nC5wVvrI3mePV-BYA2JNF3/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6n7TdQSgozArIM0okXTjjCM9Np.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/xJWPZIYOEFIjZpBL7SVBGnzRYXp.jpg</fanart>
+<info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.</info>
 <genre></genre>
 </item>
