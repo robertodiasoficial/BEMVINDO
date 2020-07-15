@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | TV ABERTA", ** CANAIS | TV ABERTA **
 http://127.0.0.6
  
-#EXTINF:-1 tvg-ID="BAN" tvg-logo="https://i.imgur.com/rk7HO8y.jpg" group-title="CANAIS | TV ABERTA", Band (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=b4da5da411e26e12eb67fd6ee859bbea&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+#EXTINF:-1 tvg-ID="CARTOON" tvg-logo="https://i.imgur.com/rk7HO8y.jpg" group-title="CANAIS | TV ABERTA", CARTOON NETWORK 
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/cartoonnetworksd/video.m3u8
  
 #EXTINF:-1 tvg-ID="GRJ" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="CANAIS | TV ABERTA", Globo RJ (FaustinoTV)
 http://faustinotv.tk/redir.php?acesso=03216f09b3eef08f8dd7e082d359de29&usuario=e502ab55bf692e9bf08e33a30b9b7c61
