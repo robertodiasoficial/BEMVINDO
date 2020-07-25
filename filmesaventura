@@ -1,15 +1,9 @@
-<channels>
-<channel>
-<name>[COLOR white]OS MELHORES FILMES DE AVENTURA[/COLOR]</name>
-<thumbnail>https://ia601401.us.archive.org/28/items/2anos-anteriores/2lancamentos.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/robertodiasoficial/BEMVINDO/master/CATEGORIAFILMEAVENTURA</externallink>
-<fanart>https://ia601505.us.archive.org/5/items/fanartacao/fanartlancamento.png</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES MOSNTRANDO ANO DE LANCAMENTO - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[B][COLOR yellow]O BOM DOUTOR [/COLOR][COLOR white]- TODAS AS TEMPORADAS[/COLOR][COLOR yellow] HD[/COLOR][COLOR lime] - DUBLADO[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZjpPRBGyd84</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e1QDvnNnd2Dd3tCPbrCHlpQO1rH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cz8dPoy4qqhsoqwAozgqM5OBsBX.jpg</fanart>
+<info>Liu Jian é um agente do governo chinês que é enviado a Paris para cumprir uma missão secreta, a qual nem ele mesmo conhece os detalhes. Lá ele conhece o inspetor Richard, com quem irá trabalhar na missão. Porém, Richard trai Liu e acaba colocando-o sob a mira de uma perigosa conspiração, acusado de um assassinato que não cometeu e tendo que provar sua inocência em uma cidade que não conhece. E para isso ele contará apenas com a ajuda de Jessica, uma americana a qual Richard obrigou a se prostituir.</info>
+<genre></genre>
+</item>
 
