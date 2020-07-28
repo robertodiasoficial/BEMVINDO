@@ -1,6 +1,8 @@
 #EXTM3U
  
- 
+ #EXTM3U
+#EXTINF:-1 group-title="CANAIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvlrBJMmrqzQgnqVvnOxfyUBniLaia904Q-paJQri3kKlI6bUk",CARTOON NETWORK- Canal FutucAndroiD
+encurtador.com.br/jrU04
  
 #EXTINF:-1 tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | TV ABERTA", ** CANAIS | TV ABERTA **
 http://127.0.0.6
