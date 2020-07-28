@@ -1,115 +1,1499 @@
 #EXTM3U
- 
- #EXTM3U
-#EXTINF:-1 group-title="CANAIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvlrBJMmrqzQgnqVvnOxfyUBniLaia904Q-paJQri3kKlI6bUk",CARTOON NETWORK- Canal FutucAndroiD
-encurtador.com.br/jrU04
- 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | TV ABERTA", ** CANAIS | TV ABERTA **
-http://127.0.0.6
- 
-#EXTINF:-1 tvg-ID="CARTOON" tvg-logo="https://i.imgur.com/rk7HO8y.jpg" group-title="CANAIS | TV ABERTA", CARTOON NETWORK 
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/cartoonnetworksd/video.m3u8
- 
-#EXTINF:-1 tvg-ID="GRJ" tvg-logo="https://i.imgur.com/gr9oE7z.jpg" group-title="CANAIS | TV ABERTA", Globo RJ (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=03216f09b3eef08f8dd7e082d359de29&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="REC" tvg-logo="https://i.imgur.com/EQoGp6e.jpg" group-title="CANAIS | TV ABERTA", Record TV (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=df904cfb957dc1ecef89910c27684c37&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="SBT" tvg-logo="https://i.imgur.com/AY3ujXa.jpg" group-title="CANAIS | TV ABERTA", SBT (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=90af0e0660fa17a03fdac812cd9c2dd1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="RTV" tvg-logo="https://i.imgur.com/nsisrT6.jpg" group-title="CANAIS | TV ABERTA", Rede TV (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=0a80635c993598daeb853eab1b0a4fb7&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/pmzSz8v.jpg" group-title="CANAIS | TV ABERTA", TV Camara (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=f75b05debbae528dc017efc1cfcb0f15&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="CUL" tvg-logo="https://i.imgur.com/uugRo9z.jpg" group-title="CANAIS | TV ABERTA", TV Cultura (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=ec0c870d6d6e61b75215b6f3c4116000&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/rIp4OdP.jpg" group-title="CANAIS | TV ABERTA", TV Justiça (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=37d3dc8546d6c95f3b00c5c4220843a0&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/e3fPxX4.jpg" group-title="CANAIS | TV ABERTA", TV Senado (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=9d7cfca73358a25e5061c4eaf314b836&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="FUT" tvg-logo="https://i.imgur.com/iOoWKng.jpg" group-title="CANAIS | TV ABERTA", Futura (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=fecf1e8d3ba583d395ad4d3778858b75&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-===============================================================================================================
- 
-#EXTINF:-1 tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | FILMES & SÉRIES", ** CANAIS | FILMES & SÉRIES **
-http://127.0.0.7
- 
-#EXTINF:-1 tvg-ID="MDO" tvg-logo="https://i.imgur.com/q7qEiay.jpg" group-title="CANAIS | FILMES & SÉRIES", A&E (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=e120a7537d7010774508ac8749a163fc&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="AMC" tvg-logo="https://i.imgur.com/MjIRIDs.jpg" group-title="CANAIS | FILMES & SÉRIES", AMC (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=e426a9e1845f366dcb5989f925c12201&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="AXH" tvg-logo="https://i.imgur.com/hZRzyq6.jpg" group-title="CANAIS | FILMES & SÉRIES", AXN (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=6973309b8041f52cd749d028c357ba36&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="MNX" tvg-logo="https://i.imgur.com/1UjkL1F.jpg" group-title="CANAIS | FILMES & SÉRIES", Cinemax (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=11d0113d9d894914d86191dddad6c5fe&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="FOX" tvg-logo="https://i.imgur.com/fA8hj5R.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=2d342a570e1ede6eda94ca934241fbd9&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="FLI" tvg-logo="https://i.imgur.com/Q6PSlmh.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX Life (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=1bc919eb6476b8db92ed0db14aba8d9b&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="FXP" tvg-logo="https://i.imgur.com/WKsZQ8y.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX Premium 1 (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=1282126ee22d500b8f2fffa9254abc4f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="FX2" tvg-logo="https://i.imgur.com/rlgpAAe.jpg" group-title="CANAIS | FILMES & SÉRIES", FOX Premium 2 (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=bf7f1adfc1c1a2c3ff23167722dfd3a9&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="CFX" tvg-logo="https://i.imgur.com/z8y9oOV.jpg" group-title="CANAIS | FILMES & SÉRIES", FX (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=3e8a31f49b3c5392ce417e9205c6f4cb&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="HBO" tvg-logo="https://i.imgur.com/jLsyz6j.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=d4e0996385e630e23f9927f61fc0cdb3&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="HB2" tvg-logo="https://i.imgur.com/VUTD55l.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO 2 (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=53db85b4343a86f09a2e85d63c5517b1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="HFA" tvg-logo="https://i.imgur.com/5q4jsHZ.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO Family (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=53ffda7acfc6a2f59319b26bae131bbc&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="HBP" tvg-logo="https://i.imgur.com/CSYVbKG.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO Plus (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=d017c0a263189223aac3fcfc10b63579&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="HFE" tvg-logo="https://i.imgur.com/yCmP71z.jpg" group-title="CANAIS | FILMES & SÉRIES", HBO Signature (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=33bd3c71444c7631db78c41e1a3cbdc0&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="MXE" tvg-logo="https://i.imgur.com/qZd9dJm.jpg" group-title="CANAIS | FILMES & SÉRIES", MAX (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=72919889b80ee07c00c89aa7d3423380&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="MAP" tvg-logo="https://i.imgur.com/K1IAoGY.jpg" group-title="CANAIS | FILMES & SÉRIES", MAX Prime (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=2d873fa498faf1baaa876571c6d78474&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="MUP" tvg-logo="https://i.imgur.com/ld6sm2e.jpg" group-title="CANAIS | FILMES & SÉRIES", MAX UP (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=9c0f2adf6456fa7a0a1cc328cf1d1202&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="SPA" tvg-logo="https://i.imgur.com/PkFRxnM.jpg" group-title="CANAIS | FILMES & SÉRIES", Space (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=a6c5ab742f9ee61b67ecc7de59221356&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="SCI" tvg-logo="https://i.imgur.com/rXNClfR.jpg" group-title="CANAIS | FILMES & SÉRIES", Syfy (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=91e951c064462373649820ace75c7827&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="TNH" tvg-logo="https://i.imgur.com/4DVxGf7.jpg" group-title="CANAIS | FILMES & SÉRIES", TNT (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=2beddfcf02d86f287b4993e957cd18f1&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="TNS" tvg-logo="https://i.imgur.com/ntD0xQm.jpg" group-title="CANAIS | FILMES & SÉRIES", TNT Séries (faustinoTV)
-http://faustinotv.tk/redir.php?acesso=bc85b5f06ee625eecf9b1cf3c3ee4c6f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+#EXTINF:-1 group-title="Canais @ Variedades",A&E FHD (H265)
+http://eyplay.io:80/maik123/maik123/2
+#EXTINF:-1 group-title="Canais @ Variedades",A&E HD
+http://eyplay.io:80/maik123/maik123/3
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",AMC FHD (H265)
+http://eyplay.io:80/maik123/maik123/474
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",AMC HD
+http://eyplay.io:80/maik123/maik123/475
+#EXTINF:-1 group-title="Canais @ Documentários",Animal Planet FHD (H265)
+http://eyplay.io:80/maik123/maik123/5
+#EXTINF:-1 group-title="Canais @ Documentários",Animal Planet HD
+http://eyplay.io:80/maik123/maik123/6
+#EXTINF:-1 group-title="Canais @ Documentários",Arte 1 FHD (H265)
+http://eyplay.io:80/maik123/maik123/8
+#EXTINF:-1 group-title="Canais @ Documentários",Arte 1 HD
+http://eyplay.io:80/maik123/maik123/9
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",AXN FHD (H265)
+http://eyplay.io:80/maik123/maik123/11
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",AXN HD
+http://eyplay.io:80/maik123/maik123/12
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",AXN HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27131
+#EXTINF:-1 group-title="Canais @ Infantis",BabyTV FHD (H265)
+http://eyplay.io:80/maik123/maik123/14
+#EXTINF:-1 group-title="Canais @ Infantis",BabyTV HD
+http://eyplay.io:80/maik123/maik123/15
+#EXTINF:-1 group-title="Canais @ Abertos",Band FHD (H265)
+http://eyplay.io:80/maik123/maik123/17
+#EXTINF:-1 group-title="Canais @ Abertos",Band HD
+http://eyplay.io:80/maik123/maik123/18
+#EXTINF:-1 group-title="Canais @ Notícias",BandNews FHD (H265)
+http://eyplay.io:80/maik123/maik123/20
+#EXTINF:-1 group-title="Canais @ Notícias",BandNews HD
+http://eyplay.io:80/maik123/maik123/21
+#EXTINF:-1 group-title="Canais @ Esportes",BandSports FHD (H265)
+http://eyplay.io:80/maik123/maik123/23
+#EXTINF:-1 group-title="Canais @ Esportes",BandSports HD
+http://eyplay.io:80/maik123/maik123/24
+#EXTINF:-1 group-title="Canais @ Variedades",BIS FHD (H265)
+http://eyplay.io:80/maik123/maik123/48
+#EXTINF:-1 group-title="Canais @ Variedades",BIS HD
+http://eyplay.io:80/maik123/maik123/49
+#EXTINF:-1 group-title="Canais @ Abertos",Boa Vontade TV SD
+http://eyplay.io:80/maik123/maik123/14063
+#EXTINF:-1 group-title="Canais @ Infantis",Boomerang FHD (H265)
+http://eyplay.io:80/maik123/maik123/51
+#EXTINF:-1 group-title="Canais @ Infantis",Boomerang HD
+http://eyplay.io:80/maik123/maik123/52
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Canal Brasil FHD (H265)
+http://eyplay.io:80/maik123/maik123/56
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Canal Brasil HD
+http://eyplay.io:80/maik123/maik123/57
+#EXTINF:-1 group-title="Canais @ Abertos",Cancao Nova SD
+http://eyplay.io:80/maik123/maik123/14064
+#EXTINF:-1 group-title="Canais @ Infantis",Cartoon Network FHD (H265)
+http://eyplay.io:80/maik123/maik123/60
+#EXTINF:-1 group-title="Canais @ Infantis",Cartoon Network HD
+http://eyplay.io:80/maik123/maik123/61
+#EXTINF:-1 group-title="Canais @ Variedades",Chef TV FHD (H265)
+http://eyplay.io:80/maik123/maik123/63
+#EXTINF:-1 group-title="Canais @ Variedades",Chef TV HD
+http://eyplay.io:80/maik123/maik123/64
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Cine SKY 1 HD
+http://eyplay.io:80/maik123/maik123/31465
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Cine SKY 2 HD
+http://eyplay.io:80/maik123/maik123/31461
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Cine SKY 3 HD
+http://eyplay.io:80/maik123/maik123/31462
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Cine SKY 4 HD
+http://eyplay.io:80/maik123/maik123/31463
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Cine SKY 5 HD
+http://eyplay.io:80/maik123/maik123/31464
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Cinemax FHD (H265)
+http://eyplay.io:80/maik123/maik123/67
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Cinemax HD
+http://eyplay.io:80/maik123/maik123/68
+#EXTINF:-1 group-title="Canais @ Notícias",CNN Brasil FHD (H265)
+http://eyplay.io:80/maik123/maik123/14076
+#EXTINF:-1 group-title="Canais @ Notícias",CNN Brasil HD
+http://eyplay.io:80/maik123/maik123/14075
+#EXTINF:-1 group-title="Canais @ Notícias",CNN Espanhol FHD (H265)
+http://eyplay.io:80/maik123/maik123/70
+#EXTINF:-1 group-title="Canais @ Notícias",CNN Espanhol HD
+http://eyplay.io:80/maik123/maik123/71
+#EXTINF:-1 group-title="Canais @ Notícias",CNN Internacional FHD (H265)
+http://eyplay.io:80/maik123/maik123/73
+#EXTINF:-1 group-title="Canais @ Notícias",CNN Internacional HD
+http://eyplay.io:80/maik123/maik123/74
+#EXTINF:-1 group-title="Canais @ Esportes",Combate FHD (H265)
+http://eyplay.io:80/maik123/maik123/76
+#EXTINF:-1 group-title="Canais @ Esportes",Combate HD
+http://eyplay.io:80/maik123/maik123/77
+#EXTINF:-1 group-title="Canais @ Variedades",Comedy Central FHD (H265)
+http://eyplay.io:80/maik123/maik123/79
+#EXTINF:-1 group-title="Canais @ Variedades",Comedy Central HD
+http://eyplay.io:80/maik123/maik123/80
+#EXTINF:-1 group-title="Canais @ Documentários",Curta FHD (H265)
+http://eyplay.io:80/maik123/maik123/90
+#EXTINF:-1 group-title="Canais @ Documentários",Curta HD
+http://eyplay.io:80/maik123/maik123/91
+#EXTINF:-1 group-title="Canais @ Esportes",DAZN 1 HD
+http://eyplay.io:80/maik123/maik123/94
+#EXTINF:-1 group-title="Canais @ Documentários",Discovery Channel FHD (H265)
+http://eyplay.io:80/maik123/maik123/95
+#EXTINF:-1 group-title="Canais @ Documentários",Discovery Channel HD
+http://eyplay.io:80/maik123/maik123/96
+#EXTINF:-1 group-title="Canais @ Variedades",Discovery Home & Health FHD (H265)
+http://eyplay.io:80/maik123/maik123/101
+#EXTINF:-1 group-title="Canais @ Variedades",Discovery Home & Health HD
+http://eyplay.io:80/maik123/maik123/102
+#EXTINF:-1 group-title="Canais @ Variedades",Discovery ID FHD (H265)
+http://eyplay.io:80/maik123/maik123/294
+#EXTINF:-1 group-title="Canais @ Variedades",Discovery ID HD
+http://eyplay.io:80/maik123/maik123/295
+#EXTINF:-1 group-title="Canais @ Infantis",Discovery Kids FHD (H265)
+http://eyplay.io:80/maik123/maik123/104
+#EXTINF:-1 group-title="Canais @ Infantis",Discovery Kids HD
+http://eyplay.io:80/maik123/maik123/105
+#EXTINF:-1 group-title="Canais @ Documentários",Discovery Science FHD (H265)
+http://eyplay.io:80/maik123/maik123/107
+#EXTINF:-1 group-title="Canais @ Documentários",Discovery Science HD
+http://eyplay.io:80/maik123/maik123/108
+#EXTINF:-1 group-title="Canais @ Documentários",Discovery Theater FHD (H265)
+http://eyplay.io:80/maik123/maik123/110
+#EXTINF:-1 group-title="Canais @ Documentários",Discovery Theater HD
+http://eyplay.io:80/maik123/maik123/111
+#EXTINF:-1 group-title="Canais @ Variedades",Discovery Turbo FHD (H265)
+http://eyplay.io:80/maik123/maik123/113
+#EXTINF:-1 group-title="Canais @ Variedades",Discovery Turbo HD
+http://eyplay.io:80/maik123/maik123/114
+#EXTINF:-1 group-title="Canais @ Documentários",Discovery World FHD (H265)
+http://eyplay.io:80/maik123/maik123/116
+#EXTINF:-1 group-title="Canais @ Documentários",Discovery World HD
+http://eyplay.io:80/maik123/maik123/117
+#EXTINF:-1 group-title="Canais @ Infantis",Disney Channel FHD (H265)
+http://eyplay.io:80/maik123/maik123/119
+#EXTINF:-1 group-title="Canais @ Infantis",Disney Channel HD
+http://eyplay.io:80/maik123/maik123/120
+#EXTINF:-1 group-title="Canais @ Infantis",Disney Jr FHD (H265)
+http://eyplay.io:80/maik123/maik123/122
+#EXTINF:-1 group-title="Canais @ Infantis",Disney Jr HD
+http://eyplay.io:80/maik123/maik123/123
+#EXTINF:-1 group-title="Canais @ Infantis",Disney XD FHD (H265)
+http://eyplay.io:80/maik123/maik123/125
+#EXTINF:-1 group-title="Canais @ Infantis",Disney XD HD
+http://eyplay.io:80/maik123/maik123/126
+#EXTINF:-1 group-title="Canais @ Variedades",E FHD (H265)
+http://eyplay.io:80/maik123/maik123/128
+#EXTINF:-1 group-title="Canais @ Variedades",E! HD
+http://eyplay.io:80/maik123/maik123/129
+#EXTINF:-1 group-title="Canais @ Esportes",Ei Plus 1 HD
+http://eyplay.io:80/maik123/maik123/131
+#EXTINF:-1 group-title="Canais @ Globo",EPTV Ribeirao Preto FHD (H265)
+http://eyplay.io:80/maik123/maik123/30781
+#EXTINF:-1 group-title="Canais @ Globo",EPTV Ribeirao Preto HD
+http://eyplay.io:80/maik123/maik123/30782
+#EXTINF:-1 group-title="Canais @ Esportes",ESPN 2 FHD (H265)
+http://eyplay.io:80/maik123/maik123/144
+#EXTINF:-1 group-title="Canais @ Esportes",ESPN 2 HD
+http://eyplay.io:80/maik123/maik123/145
+#EXTINF:-1 group-title="Canais @ Esportes",ESPN Brasil FHD (H265)
+http://eyplay.io:80/maik123/maik123/147
+#EXTINF:-1 group-title="Canais @ Esportes",ESPN Brasil HD
+http://eyplay.io:80/maik123/maik123/148
+#EXTINF:-1 group-title="Canais @ Esportes",ESPN Extra HD
+http://eyplay.io:80/maik123/maik123/150
+#EXTINF:-1 group-title="Canais @ Esportes",ESPN FHD (H265)
+http://eyplay.io:80/maik123/maik123/152
+#EXTINF:-1 group-title="Canais @ Esportes",ESPN HD
+http://eyplay.io:80/maik123/maik123/153
+#EXTINF:-1 group-title="Canais @ Variedades",Fish TV FHD (H265)
+http://eyplay.io:80/maik123/maik123/155
+#EXTINF:-1 group-title="Canais @ Variedades",Fish TV HD
+http://eyplay.io:80/maik123/maik123/156
+#EXTINF:-1 group-title="Canais @ Variedades",Food Network FHD (H265)
+http://eyplay.io:80/maik123/maik123/158
+#EXTINF:-1 group-title="Canais @ Variedades",Food Network HD
+http://eyplay.io:80/maik123/maik123/159
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Fox FHD (H265)
+http://eyplay.io:80/maik123/maik123/161
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Fox HD
+http://eyplay.io:80/maik123/maik123/162
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Fox HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27130
+#EXTINF:-1 group-title="Canais @ Variedades",Fox Life FHD (H265)
+http://eyplay.io:80/maik123/maik123/163
+#EXTINF:-1 group-title="Canais @ Variedades",Fox Life HD
+http://eyplay.io:80/maik123/maik123/164
+#EXTINF:-1 group-title="Canais @ Notícias",Fox News FHD (H265)
+http://eyplay.io:80/maik123/maik123/166
+#EXTINF:-1 group-title="Canais @ Notícias",Fox News HD
+http://eyplay.io:80/maik123/maik123/167
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Fox Premium 1 FHD (H265)
+http://eyplay.io:80/maik123/maik123/169
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Fox Premium 1 HD
+http://eyplay.io:80/maik123/maik123/170
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Fox Premium 2 FHD (H265)
+http://eyplay.io:80/maik123/maik123/172
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Fox Premium 2 HD
+http://eyplay.io:80/maik123/maik123/173
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Fox Premium 2 HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27133
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Fox Premium HD 1 (Legendado)
+http://eyplay.io:80/maik123/maik123/27132
+#EXTINF:-1 group-title="Canais @ Esportes",Fox Sports 2 FHD (H265)
+http://eyplay.io:80/maik123/maik123/176
+#EXTINF:-1 group-title="Canais @ Esportes",Fox Sports 2 HD
+http://eyplay.io:80/maik123/maik123/177
+#EXTINF:-1 group-title="Canais @ Esportes",Fox Sports FHD (H265)
+http://eyplay.io:80/maik123/maik123/179
+#EXTINF:-1 group-title="Canais @ Esportes",Fox Sports HD
+http://eyplay.io:80/maik123/maik123/180
+#EXTINF:-1 group-title="Canais @ Esportes",Fox Sports SD
+http://eyplay.io:80/maik123/maik123/181
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",FX FHD (H265)
+http://eyplay.io:80/maik123/maik123/182
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",FX HD
+http://eyplay.io:80/maik123/maik123/183
+#EXTINF:-1 group-title="Canais @ Globo",Globo Brasilia HD
+http://eyplay.io:80/maik123/maik123/185
+#EXTINF:-1 group-title="Canais @ Globo",Globo Brasilia SD
+http://eyplay.io:80/maik123/maik123/186
+#EXTINF:-1 group-title="Canais @ Globo",Globo EPTV Campinas FHD (H265)
+http://eyplay.io:80/maik123/maik123/189
+#EXTINF:-1 group-title="Canais @ Globo",Globo EPTV Campinas HD
+http://eyplay.io:80/maik123/maik123/190
+#EXTINF:-1 group-title="Canais @ Globo",Globo EPTV Sao Carlos SD
+http://eyplay.io:80/maik123/maik123/18269
+#EXTINF:-1 group-title="Canais @ Globo",Globo EPTV Sul de Minas FHD (H265)
+http://eyplay.io:80/maik123/maik123/193
+#EXTINF:-1 group-title="Canais @ Globo",Globo EPTV Sul de Minas HD
+http://eyplay.io:80/maik123/maik123/194
+#EXTINF:-1 group-title="Canais @ Globo",Globo Inter TV dos Vales FHD (H265)
+http://eyplay.io:80/maik123/maik123/196
+#EXTINF:-1 group-title="Canais @ Globo",Globo Inter TV Grande Minas FHD (H265)
+http://eyplay.io:80/maik123/maik123/197
+#EXTINF:-1 group-title="Canais @ Globo",Globo Inter TV Grande Minas HD
+http://eyplay.io:80/maik123/maik123/198
+#EXTINF:-1 group-title="Canais @ Globo",Globo Minas FHD (H265)
+http://eyplay.io:80/maik123/maik123/199
+#EXTINF:-1 group-title="Canais @ Globo",Globo Minas HD
+http://eyplay.io:80/maik123/maik123/200
+#EXTINF:-1 group-title="Canais @ Notícias",Globo News FHD (H265)
+http://eyplay.io:80/maik123/maik123/202
+#EXTINF:-1 group-title="Canais @ Notícias",Globo News HD
+http://eyplay.io:80/maik123/maik123/203
+#EXTINF:-1 group-title="Canais @ Globo",Globo Nordeste FHD (H265)
+http://eyplay.io:80/maik123/maik123/205
+#EXTINF:-1 group-title="Canais @ Globo",Globo Nordeste HD
+http://eyplay.io:80/maik123/maik123/206
+#EXTINF:-1 group-title="Canais @ Globo",Globo NSC Florianopolis FHD (H265)
+http://eyplay.io:80/maik123/maik123/208
+#EXTINF:-1 group-title="Canais @ Globo",Globo NSC Florianopolis HD
+http://eyplay.io:80/maik123/maik123/209
+#EXTINF:-1 group-title="Canais @ Globo",Globo NSC TV Blumenau FHD (H265)
+http://eyplay.io:80/maik123/maik123/211
+#EXTINF:-1 group-title="Canais @ Globo",Globo RBS TV Porto Alegre SD
+http://eyplay.io:80/maik123/maik123/214
+#EXTINF:-1 group-title="Canais @ Globo",Globo RJ FHD (H265)
+http://eyplay.io:80/maik123/maik123/216
+#EXTINF:-1 group-title="Canais @ Globo",Globo RJ HD
+http://eyplay.io:80/maik123/maik123/217
+#EXTINF:-1 group-title="Canais @ Globo",Globo RPC Paranavaí FHD (H265)
+http://eyplay.io:80/maik123/maik123/218
+#EXTINF:-1 group-title="Canais @ Globo",Globo RPC Paranavaí HD
+http://eyplay.io:80/maik123/maik123/219
+#EXTINF:-1 group-title="Canais @ Globo",Globo SP FHD (H265)
+http://eyplay.io:80/maik123/maik123/222
+#EXTINF:-1 group-title="Canais @ Globo",Globo SP HD
+http://eyplay.io:80/maik123/maik123/223
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Anhanguera FHD (H265)
+http://eyplay.io:80/maik123/maik123/225
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Anhanguera HD
+http://eyplay.io:80/maik123/maik123/226
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Bahia FHD (H265)
+http://eyplay.io:80/maik123/maik123/228
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Bahia HD
+http://eyplay.io:80/maik123/maik123/229
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Centro America FHD (H265)
+http://eyplay.io:80/maik123/maik123/187
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Centro America HD
+http://eyplay.io:80/maik123/maik123/188
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Diario FHD (H265)
+http://eyplay.io:80/maik123/maik123/234
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Diario HD
+http://eyplay.io:80/maik123/maik123/235
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Gazeta Alagoas FHD (H265)
+http://eyplay.io:80/maik123/maik123/236
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Liberal Belem FHD (H265)
+http://eyplay.io:80/maik123/maik123/231
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Liberal Belem HD
+http://eyplay.io:80/maik123/maik123/232
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Mirante FHD (H265)
+http://eyplay.io:80/maik123/maik123/238
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Mirante HD
+http://eyplay.io:80/maik123/maik123/239
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Morena FHD (H265)
+http://eyplay.io:80/maik123/maik123/241
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Morena HD
+http://eyplay.io:80/maik123/maik123/242
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Paraiba HD
+http://eyplay.io:80/maik123/maik123/18265
+#EXTINF:-1 group-title="Canais @ Abertos",Globo TV Rio Sul HD
+http://eyplay.io:80/maik123/maik123/18268
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Santa Cruz FHD (H265)
+http://eyplay.io:80/maik123/maik123/450
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Sergipe FHD (H265)
+http://eyplay.io:80/maik123/maik123/244
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV TEM Bauru SD
+http://eyplay.io:80/maik123/maik123/245
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Tem S. J do Rio Preto SD
+http://eyplay.io:80/maik123/maik123/27195
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV TEM Sorocaba SD
+http://eyplay.io:80/maik123/maik123/246
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Tribuna Santos SD
+http://eyplay.io:80/maik123/maik123/247
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Verdes Mares FHD (H265)
+http://eyplay.io:80/maik123/maik123/249
+#EXTINF:-1 group-title="Canais @ Globo",Globo TV Verdes Mares HD
+http://eyplay.io:80/maik123/maik123/250
+#EXTINF:-1 group-title="Canais @ Infantis",Gloob FHD (H265)
+http://eyplay.io:80/maik123/maik123/252
+#EXTINF:-1 group-title="Canais @ Infantis",Gloob HD
+http://eyplay.io:80/maik123/maik123/253
+#EXTINF:-1 group-title="Canais @ Infantis",Gloobinho FHD (H265)
+http://eyplay.io:80/maik123/maik123/255
+#EXTINF:-1 group-title="Canais @ Infantis",Gloobinho HD
+http://eyplay.io:80/maik123/maik123/256
+#EXTINF:-1 group-title="Canais @ Variedades",GNT FHD (H265)
+http://eyplay.io:80/maik123/maik123/258
+#EXTINF:-1 group-title="Canais @ Variedades",GNT HD
+http://eyplay.io:80/maik123/maik123/259
+#EXTINF:-1 group-title="Canais @ Documentários",H2 FHD (H265)
+http://eyplay.io:80/maik123/maik123/261
+#EXTINF:-1 group-title="Canais @ Documentários",H2 HD
+http://eyplay.io:80/maik123/maik123/262
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO 2 FHD (H265)
+http://eyplay.io:80/maik123/maik123/264
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO 2 HD
+http://eyplay.io:80/maik123/maik123/265
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Family FHD (H265)
+http://eyplay.io:80/maik123/maik123/267
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Family HD
+http://eyplay.io:80/maik123/maik123/268
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO FHD (H265)
+http://eyplay.io:80/maik123/maik123/270
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO HD
+http://eyplay.io:80/maik123/maik123/271
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27125
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Mundi FHD (H265)
+http://eyplay.io:80/maik123/maik123/272
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Mundi HD
+http://eyplay.io:80/maik123/maik123/273
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Mundi HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27128
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Plus FHD (H265)
+http://eyplay.io:80/maik123/maik123/275
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Plus HD
+http://eyplay.io:80/maik123/maik123/276
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Plus HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27126
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Pop FHD (H265)
+http://eyplay.io:80/maik123/maik123/278
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Pop HD
+http://eyplay.io:80/maik123/maik123/279
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Pop HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27129
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Signature FHD (H265)
+http://eyplay.io:80/maik123/maik123/282
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Signature HD
+http://eyplay.io:80/maik123/maik123/283
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Signature HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27127
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Xtreme FHD (H265)
+http://eyplay.io:80/maik123/maik123/285
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",HBO Xtreme HD
+http://eyplay.io:80/maik123/maik123/286
+#EXTINF:-1 group-title="Canais @ Documentários",HGTV FHD (H265)
+http://eyplay.io:80/maik123/maik123/98
+#EXTINF:-1 group-title="Canais @ Documentários",HGTV HD
+http://eyplay.io:80/maik123/maik123/99
+#EXTINF:-1 group-title="Canais @ Documentários",History FHD (H265)
+http://eyplay.io:80/maik123/maik123/288
+#EXTINF:-1 group-title="Canais @ Documentários",History HD
+http://eyplay.io:80/maik123/maik123/289
+#EXTINF:-1 group-title="Canais @ Variedades",i Sat FHD (H265)
+http://eyplay.io:80/maik123/maik123/291
+#EXTINF:-1 group-title="Canais @ Variedades",i Sat HD
+http://eyplay.io:80/maik123/maik123/292
+#EXTINF:-1 group-title="Canais @ Variedades",Lifetime FHD (H265)
+http://eyplay.io:80/maik123/maik123/297
+#EXTINF:-1 group-title="Canais @ Variedades",Lifetime HD
+http://eyplay.io:80/maik123/maik123/298
+#EXTINF:-1 group-title="Canais @ Documentários",Love Nature FHD (H265)
+http://eyplay.io:80/maik123/maik123/2551
+#EXTINF:-1 group-title="Canais @ Variedades",Mais Globosat FHD (H265)
+http://eyplay.io:80/maik123/maik123/300
+#EXTINF:-1 group-title="Canais @ Variedades",Mais Globosat HD
+http://eyplay.io:80/maik123/maik123/301
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Megapix FHD (H265)
+http://eyplay.io:80/maik123/maik123/303
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Megapix HD
+http://eyplay.io:80/maik123/maik123/304
+#EXTINF:-1 group-title="Canais @ Variedades",MTV FHD (H265)
+http://eyplay.io:80/maik123/maik123/306
+#EXTINF:-1 group-title="Canais @ Variedades",MTV HD
+http://eyplay.io:80/maik123/maik123/307
+#EXTINF:-1 group-title="Canais @ Variedades",Multishow FHD (H265)
+http://eyplay.io:80/maik123/maik123/309
+#EXTINF:-1 group-title="Canais @ Variedades",Multishow HD
+http://eyplay.io:80/maik123/maik123/310
+#EXTINF:-1 group-title="Canais @ Variedades",Music Box Brasil FHD (H265)
+http://eyplay.io:80/maik123/maik123/312
+#EXTINF:-1 group-title="Canais @ Variedades",Music Box Brasil HD
+http://eyplay.io:80/maik123/maik123/313
+#EXTINF:-1 group-title="Canais @ Infantis",Natgeo Kids FHD (H265)
+http://eyplay.io:80/maik123/maik123/317
+#EXTINF:-1 group-title="Canais @ Infantis",Natgeo Kids HD
+http://eyplay.io:80/maik123/maik123/318
+#EXTINF:-1 group-title="Canais @ Documentários",Natgeo Wild FHD (H265)
+http://eyplay.io:80/maik123/maik123/321
+#EXTINF:-1 group-title="Canais @ Documentários",Natgeo Wild HD
+http://eyplay.io:80/maik123/maik123/322
+#EXTINF:-1 group-title="Canais @ Documentários",National Geographic FHD (H265)
+http://eyplay.io:80/maik123/maik123/315
+#EXTINF:-1 group-title="Canais @ Documentários",National Geographic HD
+http://eyplay.io:80/maik123/maik123/316
+#EXTINF:-1 group-title="Canais @ Infantis",Nick Jr FHD (H265)
+http://eyplay.io:80/maik123/maik123/324
+#EXTINF:-1 group-title="Canais @ Infantis",Nick Jr HD
+http://eyplay.io:80/maik123/maik123/325
+#EXTINF:-1 group-title="Canais @ Infantis",Nickelodeon FHD (H265)
+http://eyplay.io:80/maik123/maik123/328
+#EXTINF:-1 group-title="Canais @ Infantis",Nickelodeon HD
+http://eyplay.io:80/maik123/maik123/329
+#EXTINF:-1 group-title="Canais @ Variedades",OFF FHD (H265)
+http://eyplay.io:80/maik123/maik123/330
+#EXTINF:-1 group-title="Canais @ Variedades",OFF HD
+http://eyplay.io:80/maik123/maik123/331
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Paramount Channel FHD (H265)
+http://eyplay.io:80/maik123/maik123/333
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Paramount Channel HD
+http://eyplay.io:80/maik123/maik123/334
+#EXTINF:-1 group-title="Canais @ Variedades",Play TV FHD (H265)
+http://eyplay.io:80/maik123/maik123/336
+#EXTINF:-1 group-title="Canais @ Variedades",Play TV HD
+http://eyplay.io:80/maik123/maik123/337
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 2 FHD (H265)
+http://eyplay.io:80/maik123/maik123/339
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 2 HD
+http://eyplay.io:80/maik123/maik123/340
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 3 FHD (H265)
+http://eyplay.io:80/maik123/maik123/342
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 3 HD
+http://eyplay.io:80/maik123/maik123/343
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 4 FHD (H265)
+http://eyplay.io:80/maik123/maik123/345
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 4 HD
+http://eyplay.io:80/maik123/maik123/346
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 5 FHD (H265)
+http://eyplay.io:80/maik123/maik123/348
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 5 HD
+http://eyplay.io:80/maik123/maik123/349
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 6 FHD (H265)
+http://eyplay.io:80/maik123/maik123/351
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 6 HD
+http://eyplay.io:80/maik123/maik123/352
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 7 FHD (H265)
+http://eyplay.io:80/maik123/maik123/354
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere 7 HD
+http://eyplay.io:80/maik123/maik123/355
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere Clubes FHD (H265)
+http://eyplay.io:80/maik123/maik123/357
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere Clubes HD
+http://eyplay.io:80/maik123/maik123/358
+#EXTINF:-1 group-title="Canais @ Esportes",Premiere Clubes SD
+http://eyplay.io:80/maik123/maik123/359
+#EXTINF:-1 group-title="Canais @ Variedades",Prime Box Brasil FHD (H265)
+http://eyplay.io:80/maik123/maik123/360
+#EXTINF:-1 group-title="Canais @ Variedades",Prime Box Brasil HD
+http://eyplay.io:80/maik123/maik123/361
+#EXTINF:-1 group-title="Canais @ Notícias",Record News FHD (H265)
+http://eyplay.io:80/maik123/maik123/364
+#EXTINF:-1 group-title="Canais @ Notícias",Record News HD
+http://eyplay.io:80/maik123/maik123/365
+#EXTINF:-1 group-title="Canais @ Abertos",RecordTV Bahia HD
+http://eyplay.io:80/maik123/maik123/367
+#EXTINF:-1 group-title="Canais @ Abertos",RecordTV Brasilia HD
+http://eyplay.io:80/maik123/maik123/369
+#EXTINF:-1 group-title="Canais @ Abertos",RecordTV FHD (H265)
+http://eyplay.io:80/maik123/maik123/370
+#EXTINF:-1 group-title="Canais @ Abertos",RecordTV HD
+http://eyplay.io:80/maik123/maik123/372
+#EXTINF:-1 group-title="Canais @ Abertos",RecordTV Minas HD
+http://eyplay.io:80/maik123/maik123/373
+#EXTINF:-1 group-title="Canais @ Abertos",RecordTV Rio HD
+http://eyplay.io:80/maik123/maik123/375
+#EXTINF:-1 group-title="Canais @ Abertos",RecordTV RS HD
+http://eyplay.io:80/maik123/maik123/376
+#EXTINF:-1 group-title="Canais @ Abertos",RecordTV S. J. do Rio Preto HD
+http://eyplay.io:80/maik123/maik123/27196
+#EXTINF:-1 group-title="Canais @ Abertos",Rede Gospel FHD (H265)
+http://eyplay.io:80/maik123/maik123/14068
+#EXTINF:-1 group-title="Canais @ Abertos",Rede Gospel HD
+http://eyplay.io:80/maik123/maik123/14067
+#EXTINF:-1 group-title="Canais @ Abertos",Rede Gospel SD
+http://eyplay.io:80/maik123/maik123/14069
+#EXTINF:-1 group-title="Canais @ Abertos",Rede Super FHD (H265)
+http://eyplay.io:80/maik123/maik123/378
+#EXTINF:-1 group-title="Canais @ Abertos",Rede Vida SD
+http://eyplay.io:80/maik123/maik123/14066
+#EXTINF:-1 group-title="Canais @ Abertos",RedeTV FHD (H265)
+http://eyplay.io:80/maik123/maik123/379
+#EXTINF:-1 group-title="Canais @ Abertos",RedeTV HD
+http://eyplay.io:80/maik123/maik123/380
+#EXTINF:-1 group-title="Canais @ Abertos",SBT Alterosa MG HD
+http://eyplay.io:80/maik123/maik123/13904
+#EXTINF:-1 group-title="Canais @ Abertos",SBT FHD
+http://eyplay.io:80/maik123/maik123/31501
+#EXTINF:-1 group-title="Canais @ Abertos",SBT FHD (H265)
+http://eyplay.io:80/maik123/maik123/382
+#EXTINF:-1 group-title="Canais @ Abertos",SBT HD
+http://eyplay.io:80/maik123/maik123/383
+#EXTINF:-1 group-title="Canais @ Abertos",SBT SD
+http://eyplay.io:80/maik123/maik123/384
+#EXTINF:-1 group-title="Canais @ Variedades",Shoptime FHD (H265)
+http://eyplay.io:80/maik123/maik123/385
+#EXTINF:-1 group-title="Canais @ Documentários",Smithsonian Channel HD
+http://eyplay.io:80/maik123/maik123/27197
+#EXTINF:-1 group-title="Canais @ Variedades",Smithsonian FHD
+http://eyplay.io:80/maik123/maik123/31502
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Sony FHD (H265)
+http://eyplay.io:80/maik123/maik123/386
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Sony HD
+http://eyplay.io:80/maik123/maik123/387
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Space FHD
+http://eyplay.io:80/maik123/maik123/31503
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Space FHD (H265)
+http://eyplay.io:80/maik123/maik123/389
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Space HD
+http://eyplay.io:80/maik123/maik123/390
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Space SD
+http://eyplay.io:80/maik123/maik123/391
+#EXTINF:-1 group-title="Canais @ Esportes",SporTV 2 FHD (H265)
+http://eyplay.io:80/maik123/maik123/392
+#EXTINF:-1 group-title="Canais @ Esportes",SporTV 2 HD
+http://eyplay.io:80/maik123/maik123/393
+#EXTINF:-1 group-title="Canais @ Esportes",SporTV 3 FHD
+http://eyplay.io:80/maik123/maik123/31504
+#EXTINF:-1 group-title="Canais @ Esportes",SporTV 3 FHD (H265)
+http://eyplay.io:80/maik123/maik123/395
+#EXTINF:-1 group-title="Canais @ Esportes",SporTV 3 HD
+http://eyplay.io:80/maik123/maik123/396
+#EXTINF:-1 group-title="Canais @ Esportes",SporTV 3 SD
+http://eyplay.io:80/maik123/maik123/397
+#EXTINF:-1 group-title="Canais @ Esportes",SporTV FHD (H265)
+http://eyplay.io:80/maik123/maik123/398
+#EXTINF:-1 group-title="Canais @ Esportes",SporTV HD
+http://eyplay.io:80/maik123/maik123/399
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Studio Universal FHD (H265)
+http://eyplay.io:80/maik123/maik123/401
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Studio Universal HD
+http://eyplay.io:80/maik123/maik123/402
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Syfy FHD (H265)
+http://eyplay.io:80/maik123/maik123/404
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Syfy HD
+http://eyplay.io:80/maik123/maik123/405
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TBS FHD (H265)
+http://eyplay.io:80/maik123/maik123/407
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TBS HD
+http://eyplay.io:80/maik123/maik123/408
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TCM FHD (H265)
+http://eyplay.io:80/maik123/maik123/410
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TCM HD
+http://eyplay.io:80/maik123/maik123/411
+#EXTINF:-1 group-title="Canais @ Variedades",Telecine Action FHD
+http://eyplay.io:80/maik123/maik123/31506
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Action FHD (H265)
+http://eyplay.io:80/maik123/maik123/413
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Action HD
+http://eyplay.io:80/maik123/maik123/414
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Action HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27121
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Cult FHD
+http://eyplay.io:80/maik123/maik123/31507
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Cult FHD (H265)
+http://eyplay.io:80/maik123/maik123/416
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Cult HD
+http://eyplay.io:80/maik123/maik123/417
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Cult SD
+http://eyplay.io:80/maik123/maik123/418
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Fun FHD
+http://eyplay.io:80/maik123/maik123/31508
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Fun FHD (H265)
+http://eyplay.io:80/maik123/maik123/419
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Fun HD
+http://eyplay.io:80/maik123/maik123/420
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Fun HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27123
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Fun SD
+http://eyplay.io:80/maik123/maik123/421
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Pipoca FHD (H265)
+http://eyplay.io:80/maik123/maik123/422
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Pipoca HD
+http://eyplay.io:80/maik123/maik123/423
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Pipoca HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27119
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Premium FHD (H265)
+http://eyplay.io:80/maik123/maik123/425
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Premium HD
+http://eyplay.io:80/maik123/maik123/426
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Premium HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27120
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Touch FHD (H265)
+http://eyplay.io:80/maik123/maik123/428
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Touch HD
+http://eyplay.io:80/maik123/maik123/429
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Telecine Touch HD (Legendado)
+http://eyplay.io:80/maik123/maik123/27122
+#EXTINF:-1 group-title="Canais @ Variedades",TLC FHD (H265)
+http://eyplay.io:80/maik123/maik123/431
+#EXTINF:-1 group-title="Canais @ Variedades",TLC HD
+http://eyplay.io:80/maik123/maik123/432
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TNT FHD
+http://eyplay.io:80/maik123/maik123/31509
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TNT FHD (H265)
+http://eyplay.io:80/maik123/maik123/434
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TNT HD
+http://eyplay.io:80/maik123/maik123/435
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TNT SD
+http://eyplay.io:80/maik123/maik123/436
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TNT Series FHD
+http://eyplay.io:80/maik123/maik123/31510
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TNT Series FHD (H265)
+http://eyplay.io:80/maik123/maik123/437
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TNT Series HD
+http://eyplay.io:80/maik123/maik123/438
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",TNT Series SD
+http://eyplay.io:80/maik123/maik123/439
+#EXTINF:-1 group-title="Canais @ Infantis",Tooncast FHD (H265)
+http://eyplay.io:80/maik123/maik123/440
+#EXTINF:-1 group-title="Canais @ Infantis",Tooncast HD
+http://eyplay.io:80/maik123/maik123/441
+#EXTINF:-1 group-title="Canais @ Variedades",Travel Box Brazil FHD
+http://eyplay.io:80/maik123/maik123/31511
+#EXTINF:-1 group-title="Canais @ Documentários",Tru TV FHD (H265)
+http://eyplay.io:80/maik123/maik123/443
+#EXTINF:-1 group-title="Canais @ Documentários",Tru TV HD
+http://eyplay.io:80/maik123/maik123/444
+#EXTINF:-1 group-title="Canais @ Abertos",TV Aparecida SD
+http://eyplay.io:80/maik123/maik123/14065
+#EXTINF:-1 group-title="Canais @ Variedades",TV Brasil FHD
+http://eyplay.io:80/maik123/maik123/31512
+#EXTINF:-1 group-title="Canais @ Abertos",TV Camara HD
+http://eyplay.io:80/maik123/maik123/18068
+#EXTINF:-1 group-title="Canais @ Abertos",TV Cultura HD
+http://eyplay.io:80/maik123/maik123/18067
+#EXTINF:-1 group-title="Canais @ Abertos",TV Gazeta FHD (H265)
+http://eyplay.io:80/maik123/maik123/446
+#EXTINF:-1 group-title="Canais @ Abertos",TV Novo Tempo FHD
+http://eyplay.io:80/maik123/maik123/31513
+#EXTINF:-1 group-title="Canais @ Abertos",TV Novo Tempo FHD (H265)
+http://eyplay.io:80/maik123/maik123/14071
+#EXTINF:-1 group-title="Canais @ Abertos",TV Novo Tempo HD
+http://eyplay.io:80/maik123/maik123/14072
+#EXTINF:-1 group-title="Canais @ Abertos",TV Novo Tempo SD
+http://eyplay.io:80/maik123/maik123/14073
+#EXTINF:-1 group-title="Canais @ Infantis",TV Ra Tim Bum HD
+http://eyplay.io:80/maik123/maik123/448
+#EXTINF:-1 group-title="Canais @ Infantis",TV Ra Tim Bum SD
+http://eyplay.io:80/maik123/maik123/449
+#EXTINF:-1 group-title="Canais @ Infantis",TV Ra-Tim-Bum FHD
+http://eyplay.io:80/maik123/maik123/31514
+#EXTINF:-1 group-title="Canais @ Infantis",TV Ra-Tim-Bum FHD (H265)
+http://eyplay.io:80/maik123/maik123/447
+#EXTINF:-1 group-title="Canais @ Abertos",TV Senado SD
+http://eyplay.io:80/maik123/maik123/18066
+#EXTINF:-1 group-title="Canais @ Globo",TV TEM Sao Jose do Rio Preto SD
+http://eyplay.io:80/maik123/maik123/18267
+#EXTINF:-1 group-title="Canais @ Variedades",TV5 HD
+http://eyplay.io:80/maik123/maik123/451
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Universal Channel FHD (H265)
+http://eyplay.io:80/maik123/maik123/452
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Universal Channel HD
+http://eyplay.io:80/maik123/maik123/453
+#EXTINF:-1 group-title="Canais @ Variedades",VH1 FHD (H265)
+http://eyplay.io:80/maik123/maik123/477
+#EXTINF:-1 group-title="Canais @ Variedades",VH1 HD
+http://eyplay.io:80/maik123/maik123/14077
+#EXTINF:-1 group-title="Canais @ Variedades",VH1 Mega Hits FHD (H265)
+http://eyplay.io:80/maik123/maik123/455
+#EXTINF:-1 group-title="Canais @ Variedades",VH1 Mega Hits HD
+http://eyplay.io:80/maik123/maik123/456
+#EXTINF:-1 group-title="Canais @ Variedades",Viva FHD
+http://eyplay.io:80/maik123/maik123/31515
+#EXTINF:-1 group-title="Canais @ Variedades",Viva FHD (H265)
+http://eyplay.io:80/maik123/maik123/458
+#EXTINF:-1 group-title="Canais @ Variedades",Viva HD
+http://eyplay.io:80/maik123/maik123/459
+#EXTINF:-1 group-title="Canais @ Variedades",Viva SD
+http://eyplay.io:80/maik123/maik123/460
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Warner Channel FHD (H265)
+http://eyplay.io:80/maik123/maik123/461
+#EXTINF:-1 group-title="Canais @ Filmes e Séries",Warner Channel HD
+http://eyplay.io:80/maik123/maik123/462
+#EXTINF:-1 group-title="Canais @ Variedades",WooHoo FHD
+http://eyplay.io:80/maik123/maik123/31516
+#EXTINF:-1 group-title="Canais @ Variedades",Woohoo FHD (H265)
+http://eyplay.io:80/maik123/maik123/464
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) 101 Dalmatas
+http://eyplay.io:80/maik123/maik123/30783
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) 3 Palavrinhas
+http://eyplay.io:80/maik123/maik123/30784
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Bruxinha Sabrina
+http://eyplay.io:80/maik123/maik123/30785
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Cegonha Perna Fina
+http://eyplay.io:80/maik123/maik123/30786
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Cobrinha Azul
+http://eyplay.io:80/maik123/maik123/30787
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Familia Addams
+http://eyplay.io:80/maik123/maik123/30788
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Familia Dracula
+http://eyplay.io:80/maik123/maik123/30789
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Feiticeira Facera
+http://eyplay.io:80/maik123/maik123/30790
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Mansao Foster para Amigos Imaginarios
+http://eyplay.io:80/maik123/maik123/30791
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Mumia
+http://eyplay.io:80/maik123/maik123/30792
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Nossa Turma
+http://eyplay.io:80/maik123/maik123/30793
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Nova Escola do Imperador
+http://eyplay.io:80/maik123/maik123/30794
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Pantera Cor de Rosa
+http://eyplay.io:80/maik123/maik123/30795
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Pequena Sereia
+http://eyplay.io:80/maik123/maik123/30796
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Turma do Charlie Brown e Snoopy
+http://eyplay.io:80/maik123/maik123/30797
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Turma do Pateta
+http://eyplay.io:80/maik123/maik123/30798
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Turma do Pato Bill
+http://eyplay.io:80/maik123/maik123/30799
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Vaca e o Frango
+http://eyplay.io:80/maik123/maik123/30800
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Vida e as Aventuras de Juniper Lee
+http://eyplay.io:80/maik123/maik123/30801
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) A Vida Moderna de Rocko
+http://eyplay.io:80/maik123/maik123/30802
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Acampamento Lakebottom
+http://eyplay.io:80/maik123/maik123/30803
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Aeon Flux (LEG)
+http://eyplay.io:80/maik123/maik123/30804
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Aladdin Desenho Animado
+http://eyplay.io:80/maik123/maik123/30805
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Andy Panda
+http://eyplay.io:80/maik123/maik123/30806
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Arquivo Caofidencial
+http://eyplay.io:80/maik123/maik123/30807
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) As Aventuras de Jackie Chan
+http://eyplay.io:80/maik123/maik123/30808
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) As Aventuras de Piggley Winks
+http://eyplay.io:80/maik123/maik123/30809
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) As Aventuras de Tintim
+http://eyplay.io:80/maik123/maik123/30810
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) As Meninas Superpoderosas
+http://eyplay.io:80/maik123/maik123/30811
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) As Mumias Vivas
+http://eyplay.io:80/maik123/maik123/30812
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) As Tartarugas Ninja
+http://eyplay.io:80/maik123/maik123/30813
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) As Trapalhadas de Flapjack
+http://eyplay.io:80/maik123/maik123/30814
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) As Trigemeas
+http://eyplay.io:80/maik123/maik123/30815
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) As Visoes Da Raven
+http://eyplay.io:80/maik123/maik123/30816
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Avatar
+http://eyplay.io:80/maik123/maik123/30817
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Baby Looney Tunes
+http://eyplay.io:80/maik123/maik123/30818
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Backyardigans
+http://eyplay.io:80/maik123/maik123/30819
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bakugan
+http://eyplay.io:80/maik123/maik123/30820
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Barney e seus Amigos
+http://eyplay.io:80/maik123/maik123/30821
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bates Motel - S01
+http://eyplay.io:80/maik123/maik123/30822
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bates Motel - S02
+http://eyplay.io:80/maik123/maik123/30823
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bates Motel - S03
+http://eyplay.io:80/maik123/maik123/30824
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bates Motel - S04
+http://eyplay.io:80/maik123/maik123/30825
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bates Motel - S05
+http://eyplay.io:80/maik123/maik123/30826
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Batfink
+http://eyplay.io:80/maik123/maik123/30827
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Beavis and Butt-Head (LEG)
+http://eyplay.io:80/maik123/maik123/30828
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Ben 10 - S01
+http://eyplay.io:80/maik123/maik123/30829
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Ben 10 - S02
+http://eyplay.io:80/maik123/maik123/30830
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Ben 10 - S03
+http://eyplay.io:80/maik123/maik123/30831
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Ben 10 - S04
+http://eyplay.io:80/maik123/maik123/30832
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Betty Atomica
+http://eyplay.io:80/maik123/maik123/30833
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Beyblade - S01
+http://eyplay.io:80/maik123/maik123/30834
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Beyblade - S02
+http://eyplay.io:80/maik123/maik123/30835
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Beyblade - S03
+http://eyplay.io:80/maik123/maik123/30836
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Beyblade - S04
+http://eyplay.io:80/maik123/maik123/30837
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bibo Pai e Bobi Filho
+http://eyplay.io:80/maik123/maik123/30838
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bicudo
+http://eyplay.io:80/maik123/maik123/30839
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Black Kamen Rider
+http://eyplay.io:80/maik123/maik123/30840
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bob Esponja - S01
+http://eyplay.io:80/maik123/maik123/30841
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bob Esponja - S02
+http://eyplay.io:80/maik123/maik123/30842
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bob Esponja - S03
+http://eyplay.io:80/maik123/maik123/30843
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bob Esponja - S04
+http://eyplay.io:80/maik123/maik123/30844
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bob Esponja - S05
+http://eyplay.io:80/maik123/maik123/30845
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bob Esponja - S06
+http://eyplay.io:80/maik123/maik123/30846
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bob Esponja - S07
+http://eyplay.io:80/maik123/maik123/30847
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bob Esponja - S08
+http://eyplay.io:80/maik123/maik123/30848
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bob Esponja - S09
+http://eyplay.io:80/maik123/maik123/30849
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bob Esponja - S10
+http://eyplay.io:80/maik123/maik123/30850
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Boneco Atomico
+http://eyplay.io:80/maik123/maik123/30851
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) BraveStarr
+http://eyplay.io:80/maik123/maik123/30852
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Breaking Bad - S01
+http://eyplay.io:80/maik123/maik123/30853
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Breaking Bad - S02
+http://eyplay.io:80/maik123/maik123/30854
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Breaking Bad - S03
+http://eyplay.io:80/maik123/maik123/30855
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Breaking Bad - S04
+http://eyplay.io:80/maik123/maik123/30856
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Breaking Bad - S05
+http://eyplay.io:80/maik123/maik123/30857
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Bucky Jibaku-kun
+http://eyplay.io:80/maik123/maik123/30858
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Buzz Lightyear do Comando Estelar
+http://eyplay.io:80/maik123/maik123/30859
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Cadillacs e Dinosauros
+http://eyplay.io:80/maik123/maik123/30860
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Caezinhos do Canil
+http://eyplay.io:80/maik123/maik123/30861
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Campeoes do Sedokai
+http://eyplay.io:80/maik123/maik123/30862
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - 4 Amigos Stand Up Comedy
+http://eyplay.io:80/maik123/maik123/30863
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - 5 Alguma Coisa
+http://eyplay.io:80/maik123/maik123/30864
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Badin
+http://eyplay.io:80/maik123/maik123/30865
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Barbixas
+http://eyplay.io:80/maik123/maik123/30866
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - BOOM
+http://eyplay.io:80/maik123/maik123/30867
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Carol kyoko
+http://eyplay.io:80/maik123/maik123/30868
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Ciencia Todo Dia
+http://eyplay.io:80/maik123/maik123/30869
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Dramaturgia Panico na TV
+http://eyplay.io:80/maik123/maik123/30870
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Edu Primitivo
+http://eyplay.io:80/maik123/maik123/30871
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Encrenca RedeTV
+http://eyplay.io:80/maik123/maik123/30872
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Fatos Desconhecidos
+http://eyplay.io:80/maik123/maik123/30873
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Fatos Insanos
+http://eyplay.io:80/maik123/maik123/30874
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - FitDance
+http://eyplay.io:80/maik123/maik123/30875
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Gerson Albuquerque
+http://eyplay.io:80/maik123/maik123/30876
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - INCRIVEL
+http://eyplay.io:80/maik123/maik123/30877
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - John Leitao
+http://eyplay.io:80/maik123/maik123/30878
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - MASTER TRASH e PANICO CHEF
+http://eyplay.io:80/maik123/maik123/30879
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - MixReynold
+http://eyplay.io:80/maik123/maik123/30880
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Na CorreRia
+http://eyplay.io:80/maik123/maik123/30881
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Pagode da Ofensa na Web
+http://eyplay.io:80/maik123/maik123/30882
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - PANICO TROLLAGENS
+http://eyplay.io:80/maik123/maik123/30883
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Parafernalha
+http://eyplay.io:80/maik123/maik123/30884
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Porta dos Fundos
+http://eyplay.io:80/maik123/maik123/30885
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Rabisco
+http://eyplay.io:80/maik123/maik123/30886
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Voce na TV
+http://eyplay.io:80/maik123/maik123/30889
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Voce Sabia part 1
+http://eyplay.io:80/maik123/maik123/30890
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Voce Sabia part 2
+http://eyplay.io:80/maik123/maik123/30891
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - WEBBULLYING
+http://eyplay.io:80/maik123/maik123/30892
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Canal YouTube - Ze Pequeno do Povo
+http://eyplay.io:80/maik123/maik123/30893
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Capitao Planeta
+http://eyplay.io:80/maik123/maik123/30895
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Carangos e Motocas
+http://eyplay.io:80/maik123/maik123/30896
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Careta e Mutreta - Curta Metragem (LEG)
+http://eyplay.io:80/maik123/maik123/30897
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Carmen Sandiego
+http://eyplay.io:80/maik123/maik123/30898
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Castelo Ra-Tim-Bum
+http://eyplay.io:80/maik123/maik123/30899
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Caverna do Dragao
+http://eyplay.io:80/maik123/maik123/30900
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Caves Classico - S01
+http://eyplay.io:80/maik123/maik123/30901
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Caves Classico - S02
+http://eyplay.io:80/maik123/maik123/30902
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Caves Classico - S03
+http://eyplay.io:80/maik123/maik123/30903
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Caves Classico - S04
+http://eyplay.io:80/maik123/maik123/30904
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Caves Classico - S05
+http://eyplay.io:80/maik123/maik123/30905
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Caves Classico - S06
+http://eyplay.io:80/maik123/maik123/30906
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Caves Classico - S07
+http://eyplay.io:80/maik123/maik123/30907
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Centurions
+http://eyplay.io:80/maik123/maik123/30908
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Charlie Chan
+http://eyplay.io:80/maik123/maik123/30909
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Chaves - Classico (Extra)
+http://eyplay.io:80/maik123/maik123/30910
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Chowder
+http://eyplay.io:80/maik123/maik123/30911
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Clarencio o Otimista
+http://eyplay.io:80/maik123/maik123/30912
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Clifford o Gigante Cao Vermelho
+http://eyplay.io:80/maik123/maik123/30913
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Clube dos Carros
+http://eyplay.io:80/maik123/maik123/30914
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Coelho Ricochete
+http://eyplay.io:80/maik123/maik123/30915
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Colecao Bob Zoom
+http://eyplay.io:80/maik123/maik123/30916
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Comichao e Cocadinha (LEG)
+http://eyplay.io:80/maik123/maik123/30917
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Contos da Crypta - Animacao
+http://eyplay.io:80/maik123/maik123/30918
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Coragem O Cao Covarde
+http://eyplay.io:80/maik123/maik123/30919
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Corrida Espacial
+http://eyplay.io:80/maik123/maik123/30920
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Corrida Maluca
+http://eyplay.io:80/maik123/maik123/30921
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Cyberchase a Corrida do Espaco
+http://eyplay.io:80/maik123/maik123/30922
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Danny Phantom
+http://eyplay.io:80/maik123/maik123/30923
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) De Ferias Com Ex - S01
+http://eyplay.io:80/maik123/maik123/30924
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) De Ferias Com Ex - S02
+http://eyplay.io:80/maik123/maik123/30925
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) De Ferias Com Ex - S03
+http://eyplay.io:80/maik123/maik123/30926
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) De Ferias Com Ex - S04
+http://eyplay.io:80/maik123/maik123/30927
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) De Volta Para O Futuro
+http://eyplay.io:80/maik123/maik123/30928
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Deby e Loid
+http://eyplay.io:80/maik123/maik123/30929
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Delvin o Motoqueiro
+http://eyplay.io:80/maik123/maik123/30930
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Denis o Pimentinha
+http://eyplay.io:80/maik123/maik123/30931
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Desenhos Biblicos
+http://eyplay.io:80/maik123/maik123/30932
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dick Vigarista e Muttley - Maquinas Voadoras
+http://eyplay.io:80/maik123/maik123/30933
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Digimon Digital Monsters - S01
+http://eyplay.io:80/maik123/maik123/30934
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Digimon Digital Monsters - S02
+http://eyplay.io:80/maik123/maik123/30935
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Digimon Digital Monsters - S03
+http://eyplay.io:80/maik123/maik123/30936
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Digimon Digital Monsters - S04
+http://eyplay.io:80/maik123/maik123/30937
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Digimon Digital Monsters - S05
+http://eyplay.io:80/maik123/maik123/30938
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dino Boy e o Vale Perdido
+http://eyplay.io:80/maik123/maik123/30939
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dinossauro Rei
+http://eyplay.io:80/maik123/maik123/30940
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S01
+http://eyplay.io:80/maik123/maik123/30941
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S02
+http://eyplay.io:80/maik123/maik123/30942
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S03
+http://eyplay.io:80/maik123/maik123/30943
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S04
+http://eyplay.io:80/maik123/maik123/30944
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S05
+http://eyplay.io:80/maik123/maik123/30945
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S06
+http://eyplay.io:80/maik123/maik123/30946
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S07
+http://eyplay.io:80/maik123/maik123/30947
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S08
+http://eyplay.io:80/maik123/maik123/30948
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S09
+http://eyplay.io:80/maik123/maik123/30949
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S10
+http://eyplay.io:80/maik123/maik123/30950
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S11
+http://eyplay.io:80/maik123/maik123/30951
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dois Homens e Meio - S12
+http://eyplay.io:80/maik123/maik123/30952
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Don Dracula
+http://eyplay.io:80/maik123/maik123/30953
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dora A Aventureira
+http://eyplay.io:80/maik123/maik123/30954
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Doug
+http://eyplay.io:80/maik123/maik123/30955
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dr Calca Dimensional
+http://eyplay.io:80/maik123/maik123/30956
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball GT
+http://eyplay.io:80/maik123/maik123/30957
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Super - S01
+http://eyplay.io:80/maik123/maik123/30958
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Super - S02
+http://eyplay.io:80/maik123/maik123/30959
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Super - S03
+http://eyplay.io:80/maik123/maik123/30960
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Super - S04
+http://eyplay.io:80/maik123/maik123/30961
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Super - S05
+http://eyplay.io:80/maik123/maik123/30962
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Z - Saga de Cell
+http://eyplay.io:80/maik123/maik123/30963
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Z - Saga de Freeza
+http://eyplay.io:80/maik123/maik123/30964
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Z - Saga de Garlic Jr
+http://eyplay.io:80/maik123/maik123/30965
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Z - Saga de Majin Boo
+http://eyplay.io:80/maik123/maik123/30966
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Z - Saga dOs Androids
+http://eyplay.io:80/maik123/maik123/30967
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Z - Saga dOs Sayajins
+http://eyplay.io:80/maik123/maik123/30968
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dragon Ball Z - Saga Torneio de Outro Mundo
+http://eyplay.io:80/maik123/maik123/30969
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Drake e JOsh
+http://eyplay.io:80/maik123/maik123/30970
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Droppy
+http://eyplay.io:80/maik123/maik123/30971
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Duck Dodgers
+http://eyplay.io:80/maik123/maik123/30972
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Duck Tales
+http://eyplay.io:80/maik123/maik123/30973
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Dudley do Right
+http://eyplay.io:80/maik123/maik123/30974
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Duelo Xiaolin
+http://eyplay.io:80/maik123/maik123/30975
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) E O Lobo
+http://eyplay.io:80/maik123/maik123/30976
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Edgar e Ellen
+http://eyplay.io:80/maik123/maik123/30977
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Eek! The Cat
+http://eyplay.io:80/maik123/maik123/30978
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) El Chap - S01
+http://eyplay.io:80/maik123/maik123/30979
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) El Chap - S02
+http://eyplay.io:80/maik123/maik123/30980
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) El Chap - S03
+http://eyplay.io:80/maik123/maik123/30981
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Escolinha do Professor Raimundo
+http://eyplay.io:80/maik123/maik123/30982
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Esquadrao do Tempo
+http://eyplay.io:80/maik123/maik123/30983
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Esquadrao Especial Winspector
+http://eyplay.io:80/maik123/maik123/30984
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Esquadrao Marte 2
+http://eyplay.io:80/maik123/maik123/30985
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Esquilo Sem Grilo
+http://eyplay.io:80/maik123/maik123/30986
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Estados Unidos de Archies
+http://eyplay.io:80/maik123/maik123/30987
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Eu A Patroa e As Crianas - S01
+http://eyplay.io:80/maik123/maik123/30988
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Eu A Patroa e As Crianas - S02
+http://eyplay.io:80/maik123/maik123/30989
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Eu A Patroa e As Crianas - S03
+http://eyplay.io:80/maik123/maik123/30990
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Eu A Patroa e As Crianas - S04
+http://eyplay.io:80/maik123/maik123/30991
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Eu A Patroa e As Crianas - S05
+http://eyplay.io:80/maik123/maik123/30992
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Eu Sou o Maximo
+http://eyplay.io:80/maik123/maik123/30993
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Fabulas da Disney
+http://eyplay.io:80/maik123/maik123/30994
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Faisca e Fumaca
+http://eyplay.io:80/maik123/maik123/30995
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Falcao Azul e o Bionicao
+http://eyplay.io:80/maik123/maik123/30996
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Familia DinOssauro
+http://eyplay.io:80/maik123/maik123/30997
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Fantasminha Legal
+http://eyplay.io:80/maik123/maik123/30998
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Fantasmino O Fantasma Galopante
+http://eyplay.io:80/maik123/maik123/30999
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Flash Back 92 Clips
+http://eyplay.io:80/maik123/maik123/31000
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Flash Gordon
+http://eyplay.io:80/maik123/maik123/31001
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Fly O Pequeno Guerreiro
+http://eyplay.io:80/maik123/maik123/31002
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Formiga Atomica
+http://eyplay.io:80/maik123/maik123/31003
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Frango Kung Fu
+http://eyplay.io:80/maik123/maik123/31004
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Frankenstein Junior
+http://eyplay.io:80/maik123/maik123/31005
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Freakazoid
+http://eyplay.io:80/maik123/maik123/31006
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Friends - S01
+http://eyplay.io:80/maik123/maik123/31007
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Friends - S02
+http://eyplay.io:80/maik123/maik123/31008
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Friends - S03
+http://eyplay.io:80/maik123/maik123/31009
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Friends - S04
+http://eyplay.io:80/maik123/maik123/31010
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Friends - S05
+http://eyplay.io:80/maik123/maik123/31011
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Friends - S06
+http://eyplay.io:80/maik123/maik123/31012
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Friends - S07 (LEG)
+http://eyplay.io:80/maik123/maik123/31013
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Friends - S08 (LEG)
+http://eyplay.io:80/maik123/maik123/31014
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Friends - S09 (LEG)
+http://eyplay.io:80/maik123/maik123/31015
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Friends - S10
+http://eyplay.io:80/maik123/maik123/31016
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Galaxy Rangers
+http://eyplay.io:80/maik123/maik123/31017
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Galaxy Trio
+http://eyplay.io:80/maik123/maik123/31018
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Galinha Pintadinha
+http://eyplay.io:80/maik123/maik123/31019
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Game Of Thrones - S01
+http://eyplay.io:80/maik123/maik123/31020
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Game Of Thrones - S02
+http://eyplay.io:80/maik123/maik123/31021
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Game Of Thrones - S03
+http://eyplay.io:80/maik123/maik123/31022
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Game Of Thrones - S04
+http://eyplay.io:80/maik123/maik123/31023
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Game Of Thrones - S05
+http://eyplay.io:80/maik123/maik123/31024
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Game Of Thrones - S06
+http://eyplay.io:80/maik123/maik123/31025
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Game Of Thrones - S07
+http://eyplay.io:80/maik123/maik123/31026
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Game Of Thrones - S08
+http://eyplay.io:80/maik123/maik123/31027
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Garfield e Seus Amigos
+http://eyplay.io:80/maik123/maik123/31028
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Gasparzinho e Amigos
+http://eyplay.io:80/maik123/maik123/31029
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Gato Felix
+http://eyplay.io:80/maik123/maik123/31030
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Go Diego Go
+http://eyplay.io:80/maik123/maik123/31031
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Guerreiras Magicas de Rayearth
+http://eyplay.io:80/maik123/maik123/31032
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Guerreiros Miticos
+http://eyplay.io:80/maik123/maik123/31033
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Gundam Wing
+http://eyplay.io:80/maik123/maik123/31034
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hamtaro
+http://eyplay.io:80/maik123/maik123/31035
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Harvey O Advogado
+http://eyplay.io:80/maik123/maik123/31036
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hello Kitty
+http://eyplay.io:80/maik123/maik123/31037
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hercules
+http://eyplay.io:80/maik123/maik123/31038
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Herculoides
+http://eyplay.io:80/maik123/maik123/31039
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hey Arnold - S01
+http://eyplay.io:80/maik123/maik123/31040
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hey Arnold - S02
+http://eyplay.io:80/maik123/maik123/31041
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hey Arnold - S03
+http://eyplay.io:80/maik123/maik123/31042
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hey Arnold - S04
+http://eyplay.io:80/maik123/maik123/31043
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hey Arnold - S05
+http://eyplay.io:80/maik123/maik123/31044
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hickory Dickory e Doc
+http://eyplay.io:80/maik123/maik123/31045
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hilda
+http://eyplay.io:80/maik123/maik123/31046
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hip Hop Video Traxx
+http://eyplay.io:80/maik123/maik123/31047
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Historias Animadas do Novo Testamento
+http://eyplay.io:80/maik123/maik123/31048
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Historias Animadas do Velho Testamento
+http://eyplay.io:80/maik123/maik123/31049
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Historinhas de Dragoes
+http://eyplay.io:80/maik123/maik123/31050
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Ho Ho Limpicos
+http://eyplay.io:80/maik123/maik123/31051
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Homem Aranha - Acao Sem Limites
+http://eyplay.io:80/maik123/maik123/31052
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Homem Passaro
+http://eyplay.io:80/maik123/maik123/31053
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hong Kong Fu
+http://eyplay.io:80/maik123/maik123/31054
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hot Wheels Battle Force 5
+http://eyplay.io:80/maik123/maik123/31055
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Hulk
+http://eyplay.io:80/maik123/maik123/31056
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) iCarly - S01
+http://eyplay.io:80/maik123/maik123/31057
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) iCarly - S02
+http://eyplay.io:80/maik123/maik123/31058
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) iCarly - S03
+http://eyplay.io:80/maik123/maik123/31059
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) iCarly - S04
+http://eyplay.io:80/maik123/maik123/31060
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) iCarly - S05
+http://eyplay.io:80/maik123/maik123/31061
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) iCarly - S06
+http://eyplay.io:80/maik123/maik123/31062
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) iCarly - S07
+http://eyplay.io:80/maik123/maik123/31063
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Ilha dos Desafios
+http://eyplay.io:80/maik123/maik123/31064
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Inspetor Willoughby
+http://eyplay.io:80/maik123/maik123/31065
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Invasor Zin
+http://eyplay.io:80/maik123/maik123/31066
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Irmao do Jorel
+http://eyplay.io:80/maik123/maik123/31067
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Jambo e Ruivao
+http://eyplay.io:80/maik123/maik123/31068
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Jaspion
+http://eyplay.io:80/maik123/maik123/31069
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Jem e as Hologramas
+http://eyplay.io:80/maik123/maik123/31070
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Joao Grandao
+http://eyplay.io:80/maik123/maik123/31071
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Johnny Bravo
+http://eyplay.io:80/maik123/maik123/31072
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Jonny Quest
+http://eyplay.io:80/maik123/maik123/31073
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Josie e As Gatinhas
+http://eyplay.io:80/maik123/maik123/31074
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Jubei Chan The Ninja Girl
+http://eyplay.io:80/maik123/maik123/31075
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Kenan e Kell
+http://eyplay.io:80/maik123/maik123/31076
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Kick Buttowski
+http://eyplay.io:80/maik123/maik123/31077
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Kim Possible
+http://eyplay.io:80/maik123/maik123/31078
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Kimba
+http://eyplay.io:80/maik123/maik123/31079
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) KND A Turma do Bairro
+http://eyplay.io:80/maik123/maik123/31080
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Largados e Pelados A Tribo - S01
+http://eyplay.io:80/maik123/maik123/31081
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Largados e Pelados A Tribo - S02
+http://eyplay.io:80/maik123/maik123/31082
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Largados e Pelados A Tribo - S03
+http://eyplay.io:80/maik123/maik123/31083
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Larvas
+http://eyplay.io:80/maik123/maik123/31084
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Lazy Town
+http://eyplay.io:80/maik123/maik123/31085
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Leao da Montanha
+http://eyplay.io:80/maik123/maik123/31086
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Leo o caminhao
+http://eyplay.io:80/maik123/maik123/31087
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Ligeirinho
+http://eyplay.io:80/maik123/maik123/31088
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Lil Bush (L)
+http://eyplay.io:80/maik123/maik123/31089
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Lilo e Stitch
+http://eyplay.io:80/maik123/maik123/31090
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Lippy e Hardy
+http://eyplay.io:80/maik123/maik123/31091
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Lorde Gato e a Turma do Abobrinha
+http://eyplay.io:80/maik123/maik123/31092
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Lula Lele
+http://eyplay.io:80/maik123/maik123/31093
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Luluzinha
+http://eyplay.io:80/maik123/maik123/31094
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Madeline
+http://eyplay.io:80/maik123/maik123/31095
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Mae e Pai - Curta Metragem
+http://eyplay.io:80/maik123/maik123/31096
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Maguila O Gorila
+http://eyplay.io:80/maik123/maik123/31097
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Manda Chuva
+http://eyplay.io:80/maik123/maik123/31098
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Manual do Ned
+http://eyplay.io:80/maik123/maik123/31099
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Marcelino Pao e Vinho
+http://eyplay.io:80/maik123/maik123/31100
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Marsupilami
+http://eyplay.io:80/maik123/maik123/31101
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Martin Mystery
+http://eyplay.io:80/maik123/maik123/31102
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Matracatrica e Fofoquinha
+http://eyplay.io:80/maik123/maik123/31103
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Mecanimais
+http://eyplay.io:80/maik123/maik123/31104
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Medabots
+http://eyplay.io:80/maik123/maik123/31105
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Megaman
+http://eyplay.io:80/maik123/maik123/31106
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Megas XRL
+http://eyplay.io:80/maik123/maik123/31107
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Meu Melhor Amigo da Escola e Um Macaco
+http://eyplay.io:80/maik123/maik123/31108
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) MIB - Homens de Preto
+http://eyplay.io:80/maik123/maik123/31109
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Migthor
+http://eyplay.io:80/maik123/maik123/31110
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Mini Polegar e Yougui
+http://eyplay.io:80/maik123/maik123/31111
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Mission Hill
+http://eyplay.io:80/maik123/maik123/31112
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Mister Magoo
+http://eyplay.io:80/maik123/maik123/31113
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Moby Dick
+http://eyplay.io:80/maik123/maik123/31114
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Monster Rancher
+http://eyplay.io:80/maik123/maik123/31115
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Moranguinho Classico
+http://eyplay.io:80/maik123/maik123/31116
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Mortal Kombat
+http://eyplay.io:80/maik123/maik123/31117
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Mosquito Mosquete e Moscardo
+http://eyplay.io:80/maik123/maik123/31118
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Mr. Bean
+http://eyplay.io:80/maik123/maik123/31119
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Mucha Lucha
+http://eyplay.io:80/maik123/maik123/31120
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Musculo Total
+http://eyplay.io:80/maik123/maik123/31121
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Mutante Rex
+http://eyplay.io:80/maik123/maik123/31122
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Narcos - S01
+http://eyplay.io:80/maik123/maik123/31123
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Narcos - S02
+http://eyplay.io:80/maik123/maik123/31124
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Naruto Classico - S01
+http://eyplay.io:80/maik123/maik123/31125
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Naruto Classico - S02
+http://eyplay.io:80/maik123/maik123/31126
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Naruto Classico - S03
+http://eyplay.io:80/maik123/maik123/31127
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Naruto Classico - S04
+http://eyplay.io:80/maik123/maik123/31128
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Naruto Classico - S05
+http://eyplay.io:80/maik123/maik123/31129
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Naruto Classico - S06
+http://eyplay.io:80/maik123/maik123/31130
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Naruto Classico - S07
+http://eyplay.io:80/maik123/maik123/31131
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Naruto Classico - S08
+http://eyplay.io:80/maik123/maik123/31132
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Naruto Classico - S09
+http://eyplay.io:80/maik123/maik123/31133
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) No Limite
+http://eyplay.io:80/maik123/maik123/31134
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Novo Banana de Pijamas
+http://eyplay.io:80/maik123/maik123/31135
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Acampamento de Lazlo
+http://eyplay.io:80/maik123/maik123/31136
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Chapolin Colorado
+http://eyplay.io:80/maik123/maik123/31137
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Coisa
+http://eyplay.io:80/maik123/maik123/31138
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Fantastico Mundo de Bobby
+http://eyplay.io:80/maik123/maik123/31139
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Gato de Botas
+http://eyplay.io:80/maik123/maik123/31140
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Inspetor
+http://eyplay.io:80/maik123/maik123/31141
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Maskara - Serie Animada
+http://eyplay.io:80/maik123/maik123/31142
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Onibus Magico
+http://eyplay.io:80/maik123/maik123/31143
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Pequeno Principe
+http://eyplay.io:80/maik123/maik123/31144
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Pequeno Scooby Doo
+http://eyplay.io:80/maik123/maik123/31145
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Pequeno Urso
+http://eyplay.io:80/maik123/maik123/31146
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Que Ha de Novo Scooby Doo
+http://eyplay.io:80/maik123/maik123/31147
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Rei do Pedaco
+http://eyplay.io:80/maik123/maik123/31148
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Segredo Alem do Jardim
+http://eyplay.io:80/maik123/maik123/31149
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Show da Luna
+http://eyplay.io:80/maik123/maik123/31150
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Show do Novo Pica-Pau
+http://eyplay.io:80/maik123/maik123/31151
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Show do Ze Colmeia
+http://eyplay.io:80/maik123/maik123/31152
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Viralata
+http://eyplay.io:80/maik123/maik123/31153
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) O Xodo da Vovo
+http://eyplay.io:80/maik123/maik123/31154
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Oggy e as Baratas
+http://eyplay.io:80/maik123/maik123/31155
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Animais do Bosque dos Vintens
+http://eyplay.io:80/maik123/maik123/31156
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Animaniacs
+http://eyplay.io:80/maik123/maik123/31157
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Apuros de Penelope
+http://eyplay.io:80/maik123/maik123/31158
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Castores Pirados
+http://eyplay.io:80/maik123/maik123/31159
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Cavaleiros dos Zodiacos - Competlo
+http://eyplay.io:80/maik123/maik123/31160
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Cavaleiros dos Zodiacos - Saga de Asgard
+http://eyplay.io:80/maik123/maik123/31161
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Cavaleiros dos Zodiacos - Saga de Hades
+http://eyplay.io:80/maik123/maik123/31162
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Cavaleiros dos Zodiacos - Saga de Poseidon
+http://eyplay.io:80/maik123/maik123/31163
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Cavaleiros dos Zodiacos - Saga do Santuario
+http://eyplay.io:80/maik123/maik123/31164
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Feiticeiros De Waverly Place
+http://eyplay.io:80/maik123/maik123/31165
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Flinstones - S01
+http://eyplay.io:80/maik123/maik123/31166
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Flinstones - S02
+http://eyplay.io:80/maik123/maik123/31167
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Flinstones - S03
+http://eyplay.io:80/maik123/maik123/31168
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Flinstones - S04
+http://eyplay.io:80/maik123/maik123/31169
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Flinstones - S05
+http://eyplay.io:80/maik123/maik123/31170
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Flinstones - S06
+http://eyplay.io:80/maik123/maik123/31171
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Gargulas
+http://eyplay.io:80/maik123/maik123/31172
+#EXTINF:-1 group-title="Canais @ 24 Horas",(24H) Os Impossiveis
+http://eyplay.io:80/maik123/maik123/31173
+
+
+acesso=bc85b5f06ee625eecf9b1cf3c3ee4c6f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
  
 #EXTINF:-1 tvg-ID="TCM" tvg-logo="https://i.imgur.com/C10C18R.jpg" group-title="CANAIS | FILMES & SÉRIES", TCM (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=aa997ef4e3fcd7621a934d63c5dcaddc&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
  
 #EXTINF:-1 tvg-ID="TC2" tvg-logo="http://faustinotv.tk/img/telecineaction.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Action (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=1dd7633a69df741d74a40c6b12b96b96&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+
  
 #EXTINF:-1 tvg-ID="TC5" tvg-logo="http://faustinotv.tk/img/telecinecult.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Cult (FaustinoTV)
 http://faustinotv.tk/redir.php?acesso=91311c0eabba36086103a357499af10e&usuario=e502ab55bf692e9bf08e33a30b9b7c61
@@ -117,8 +1501,7 @@ http://faustinotv.tk/redir.php?acesso=91311c0eabba36086103a357499af10e&usuario=e
 #EXTINF:-1 tvg-ID="TC6" tvg-logo="http://faustinotv.tk/img/telecinefun.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Fun (FaustinoTV)
 http://faustinotv.tk/redir.php?acesso=2408ca157a4161b2af16a0a63e4b4dc4&usuario=e502ab55bf692e9bf08e33a30b9b7c61
  
-#EXTINF:-1 tvg-ID="TC4" tvg-logo="http://faustinotv.tk/img/telecinepipoca.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Pipoca (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=0a3a5af8573ceab8c77d0b0d4752674f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+#EXTINF:-1 tvg-ID="TC4" tvg-logo="http://faustinotv.tk/img/telecinepipoca.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Pipoca (F//faustinotv.tk/redir.php?acesso=0a3a5af8573ceab8c77d0b0d4752674f&usuario=e502ab55bf692e9bf08e33a30b9b7c61
  
 #EXTINF:-1 tvg-ID="TC1" tvg-logo="http://faustinotv.tk/img/telecinepremium.png" group-title="CANAIS | FILMES & SÉRIES", Telecine Premium (FaustinoTV)
 http://faustinotv.tk/redir.php?acesso=1572a6c953efb7322ff66a6dd1d45b0e&usuario=e502ab55bf692e9bf08e33a30b9b7c61
@@ -286,37 +1669,4 @@ http://faustinotv.tk/redir.php?acesso=82153c4808fd1f1b77363a89cb88f96d&usuario=e
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | VARIEDADES", ** CANAIS | VARIEDADES **
 http://127.0.0.12
  
-#EXTINF:-1 tvg-ID="BQ5" tvg-logo="https://i.imgur.com/N9aCPxv.jpg" group-title="CANAIS | VARIEDADES", Arte 1 (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=bcd91076bc1fedb0243001062e959575&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="CCE" tvg-logo="https://i.imgur.com/rsRwcNd.jpg" group-title="CANAIS | VARIEDADES", Comedy Central (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=8730a65dde4ab0920986fd0b4efad944&usuario=e502ab55bf692e9bf08e33a30b9b7c61|User-Agent=NetunuPlayer/2.0
- 
-#EXTINF:-1 tvg-ID="MSH" tvg-logo="https://i.imgur.com/1LVPD3C.jpg" group-title="CANAIS | VARIEDADES", BIS (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=b4da8167a285ec9b3d045369446a6112&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.imgur.com/aZYK3jA.jpg" group-title="CANAIS | VARIEDADES", Curta (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=e1f332ee8d6ee02793db50a0f20ba22c&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="MTV" tvg-logo="https://i.imgur.com/RH5E3vn.jpg" group-title="CANAIS | VARIEDADES", MTV (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=5968a971df8d849c29eeec6082b3dc81&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="MSW" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="CANAIS | VARIEDADES", Multishow (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=9954a8a45e44483b1ccfb5b6b3086e9c&usuario=53d61b8c8083ffc76f76f6a70f88cb79
- 
-#EXTINF:-1 tvg-ID="MTH" tvg-logo="https://i.imgur.com/kYsJEyZ.jpg" group-title="CANAIS | VARIEDADES", VH1 Megahist (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=84593eb27487835d3438adc262580ed7&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-===============================================================================================================
- 
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.upimg.com/ryh7NniSX" group-title="CANAIS | NOTÍCIAS", *** CANAIS | NOTÍCIAS ***
-http://127.0.0.13
- 
-#EXTINF:-1 tvg-ID="NEW" tvg-logo="https://i.imgur.com/tw7bpts.jpg" group-title="CANAIS | NOTÍCIAS", Band News (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=9a4d52624337ac23abe6373db363f6d2&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="GLN" tvg-logo="https://i.imgur.com/ed1vuNc.jpg" group-title="CANAIS | NOTÍCIAS", Globo News (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=4beb32c53c5c141fe39e7d47862d7c8b&usuario=e502ab55bf692e9bf08e33a30b9b7c61
- 
-#EXTINF:-1 tvg-ID="RCN" tvg-logo="https://i.imgur.com/wgt9r5S.jpg" group-title="CANAIS | NOTÍCIAS", Record News (FaustinoTV)
-http://faustinotv.tk/redir.php?acesso=e38a71e4ff0b9fd67af5765c41a40184&usuario=e502ab55bf692e9bf08e33a30b9b7c61
+#EXTINF:-1 tvg-ID="BQ
