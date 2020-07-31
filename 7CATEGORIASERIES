@@ -15,6 +15,20 @@
 
 <channels>
 <channel>
+<name>[COLOR yellow]|[/COLOR] [COLOR white]1 CONTRA TODOSR/TODAS AS TEMPORADAS[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucMdbTpOhV75R0NtxqHEg4hirNl.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/robertodiasoficial/BEMVINDO/master/SERIEDARK</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mZjZgY6ObiKtVuKVDrnS9VnuNlE.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - A série mostra Shaun Murphy, jovem cirurgião com síndrome de Savant e autismo, originário de uma pequena cidade onde teve uma infância problemática. Ele se desloca para se juntar ao prestigioso departamento de cirurgia do Hospital San Jose St. Bonaventure, onde ele usa seus talentos para salvar vidas e desafiar o ceticismo de seus colegas. Ele é auxiliado por seu mentor e bom amigo, Aaron Glassman. - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[COLOR yellow]|[/COLOR] [COLOR white]O INCRIVEL MUNDO DE GUMBALL[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/VYnnyA2hyxi3VUPgCA71mMtt69.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/robertodiasoficial/BEMVINDO/master/KIDSINCRIVEL%20MUNDODEGUMBALL</externallink>
